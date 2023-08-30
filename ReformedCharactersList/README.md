@@ -1,4 +1,4 @@
-[View/Comment in Google Sheets. Can also filter columns for easier, selective viewing](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)
+[View/Comment in Google Sheets. Can also filter columns there for easier, selective viewing](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)
 
 改革字 Reformed Chinese ⚫︎ 733 Reforms / 3680 漢字 Hanzi (Non-Exhaustive)
 ---
