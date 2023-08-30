@@ -2,7 +2,7 @@
 
 改革字 Reformed Chinese ● 733 Reforms / 3680 漢字 Hanzi (Non-Exhaustive)
 ---
-|伝統字 Traditional|改革字 Reformed Chinese|Notes, see project info & [examples](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
+|伝統字 Traditional|改革字 Reformed|Notes, see project info & [examples](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
 |我||||
 |的||||
