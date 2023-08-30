@@ -3574,7 +3574,7 @@
 |頒||||
 |頗||||
 |頤|頣|Compare 姬→姫, 臣 never 𦣝||
-|頰|頬|||
+|頰|頬|Variant: 龍龕手鑑 (遼 Liang)||
 |頸|圣頁|圣 never 经 right component|Unicode might display wrong|
 |頹||||
 |顛||||
