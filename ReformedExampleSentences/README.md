@@ -1,6 +1,6 @@
 [View/Comment in Google Docs](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)
 
-改革字 Reformed Chinese ● 500 Example Sentences
+改革字 Reformed Chinese ⚫︎ 500 Example Sentences
 ---
 改革字 Reformed Chinese<br/>
 傳統字 Traditional Chinese<br/>
