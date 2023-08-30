@@ -2523,7 +2523,6 @@
 |澇||||
 |澈||||
 |澎||||
-|澐|沄|||
 |澗||||
 |澡||||
 |澤|沢|Use Shinjitai Unicode. Compare 尺 in 訳|Unicode might display wrong|
@@ -3574,6 +3573,7 @@
 |頑||||
 |頒||||
 |頗||||
+|頤|頣|Compare 姬→姫, 臣 never 𦣝||
 |頰|頬|||
 |頸|圣頁|圣 never 经 right component|Unicode might display wrong|
 |頹||||
