@@ -880,7 +880,7 @@
 |致||||
 |細||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |勒||||
-|稱|称|||
+|稱|称|尔 never 尓|Unicode might display wrong|
 |塔||||
 |丟||||
 |冰||||
