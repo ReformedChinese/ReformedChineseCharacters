@@ -1,6 +1,6 @@
 [View/Comment in Google Sheets. Can also filter columns for easier, selective viewing](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)
 
-改革字 Reformed Chinese ● 733 Reforms / 3680 漢字 Hanzi (Non-Exhaustive)
+改革字 Reformed Chinese ⚫︎ 733 Reforms / 3680 漢字 Hanzi (Non-Exhaustive)
 ---
 |伝統字 Traditional|改革字 Reformed|Notes, see project info & [examples](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
