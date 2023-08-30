@@ -1864,6 +1864,7 @@
 |姥||||
 |姨||||
 |姿||Use Simplified/Japanese Unicode 次: 冫not 二|Unicode might display wrong|
+|姬|姫|Variant: 古文四聲韻 (宋 Song), 臣 never 𦣝||
 |娛|娱|Variant: 類篇 (宋 Song), 吴 not 吳||
 |娩||||
 |娶||||
@@ -2586,7 +2587,7 @@
 |熏||||
 |熒||||
 |熔||||
-|熙||||
+|熙|𤋮|Variant: 偏類碑別字, 臣 never 𦣝||
 |蒸||||
 |熬||||
 |熾|火戈|Compare 職→聀|No|
@@ -2951,7 +2952,6 @@
 |署||||
 |罵||||
 |羔||||
-|羚||Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
 |羨|羡|Use Simplified/Japanese Unicode 次: 冫not 二|Unicode might display wrong|
 |羹|焿|Taiwan shorthand||
 |羼|尸羊||No, 𡱝|
