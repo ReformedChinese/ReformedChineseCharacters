@@ -1,6 +1,6 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)
 
-改革字 Reformed Chinese ⚫︎ 736 Reforms / 3680 漢字 Hanzi (Non-Exhaustive)
+改革字 Reformed Chinese ⚫︎ 752 Reforms / 3685 漢字 Hanzi (Non-Exhaustive)
 ---
 |伝統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -114,7 +114,7 @@
 |手||||
 |前||||
 |找||||
-|行||||
+|行||彳 when outside component which originates from 行 e.g. 衝→㣫||
 |快||||
 |而||||
 |死||||
@@ -235,7 +235,7 @@
 |又||||
 |新||木 not 朩|Unicode might display wrong|
 |更||||
-|錢|金戋|戋 never 㦮, Compare 銭. Traditional for surnames, Reformed otherwise|No|
+|錢|金戋|戋 never 㦮, Compare 銭. Traditional when surname|No|
 |馬||||
 |思||||
 |部||||
@@ -525,10 +525,10 @@
 |首||||
 |改||||
 |忘||||
-|術||术 never 朮|Unicode might display wrong|
+|術|彳术|术 never 朮|No|
 |局||||
 |客||||
-|假||||
+|假|亻㞋||No|
 |永||||
 |維||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |歲|止成 (Vertical)|Applies to all derivatives|No|
@@ -542,7 +542,7 @@
 |遊||“To play”, Don’t confuse with 游 “swim”||
 |糟||||
 |令||Use Traditional/Simplified Unicode 令 never 令. Applies to all derivatives|Unicode might display wrong|
-|隨|随|||
+|隨|陏|Merge 隋、隨 into 陏||
 |五||||
 |聖||||
 |式||||
@@ -711,7 +711,7 @@
 |模||||
 |驗|験|||
 |索||||
-|街||||
+|街|徍|彳 originates from 行||
 |呼||||
 |祝||||
 |料||||
@@ -724,7 +724,7 @@
 |板||Merge 板、闆 into 板||
 |承||||
 |則||||
-|顧|Replace 隹 with 乙|Variant: 金石文字辨異 (清 Qing), 戶 never 户/戸. Traditional for surnames, Reformed otherwise|No|
+|顧|Replace 隹 with 乙|Variant: 金石文字辨異 (清 Qing), 戶 never 户/戸. Traditional when surname|No|
 |深||||
 |產|産|産 never 產, Applies to all derivatives||
 |洗||||
@@ -784,11 +784,11 @@
 |念||Merge 念、唸 into 念||
 |適||||
 |華||||
-|衝||“Charge”, Don't confuse with 沖 (water-related)||
+|衝|㣫|“Charge”, Don't confuse with 沖 (water-related), 彳 originates from 行||
 |騙||戶 never 户/戸|Unicode might display wrong|
 |厭|厌|Compare 壓 Reform, Applies to all derivatives||
 |型||||
-|麥|麦|Traditional for surnames, Reformed otherwise||
+|麥|麦|Traditional when surname||
 |似||||
 |紅||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |值||||
@@ -802,7 +802,7 @@
 |際||||
 |咱||||
 |波||||
-|衛||||
+|衛|徫|彳 originates from 行||
 |聊||||
 |養||||
 |導||||
@@ -885,7 +885,7 @@
 |丟||||
 |冰||||
 |態||||
-|嚇|哧|Variant: 龍龕手鑑 (遼 Liang)、集韻 (宋 Song)||
+|嚇|吓|||
 |古||||
 |亡||||
 |狀||||
@@ -1029,7 +1029,7 @@
 |創||||
 |嘗|尝|||
 |列||||
-|畢|田平 (Vertical)|Variant: 漢隸字源 (宋 Song), Compare 思、畏. Traditional for surnames, Reformed otherwise|No|
+|畢|田平 (Vertical)|Variant: 漢隸字源 (宋 Song), Compare 思、畏. Traditional when surname|No|
 |般||||
 |聚|取乑|Use Simplified Unicode, Variant: 隸辨 (清 Qing)|Unicode might display wrong|
 |勞||||
@@ -1089,7 +1089,7 @@
 |痴 (癡)||||
 |富||||
 |降||||
-|憐|怜|Variant: 集韻 (宋 Song)、正字通 (明 Ming). Use Traditional/Simplified Unicode 令never 令|Unicode might display wrong|
+|憐|怜|Variant: 集韻 (宋 Song)、正字通 (明 Ming). Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
 |既||||
 |織|糸戈|Compare 職→聀, Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥾮|
 |執||||
@@ -1120,7 +1120,7 @@
 |綁||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |層||||
 |吵||||
-|龍||Derivatives all use variant 竜 instead e.g. 篭||
+|龍||Derivatives all use variant 竜 instead e.g. 籠→篭||
 |揮||||
 |奮|奋|||
 |憶||||
@@ -1140,7 +1140,7 @@
 |素||||
 |禁||||
 |誠||||
-|黃|黄|Applies to all derivatives. Traditional for surnames, Reformed otherwise||
+|黃|黄|Applies to all derivatives. Traditional when surname||
 |敵||||
 |夏||||
 |貴||||
@@ -1691,7 +1691,7 @@
 |吭||||
 |吮||||
 |吱||||
-|吳|吴|Applies to all derivatives. Traditional for surnames, Reformed otherwise||
+|吳|吴|Applies to all derivatives. Traditional when surname||
 |吶|呐|内 never 內||
 |吼||||
 |呂||呂 never 吕||
@@ -2043,6 +2043,7 @@
 |惱||||
 |惶||||
 |愁||||
+|愆|Replace 衍 with 彳水|Compare 衍 Reform|No|
 |愕||||
 |慨||||
 |愧||||
@@ -2252,7 +2253,7 @@
 |晶||||
 |晾||||
 |暑||||
-|暇||||
+|暇|日㞋||No|
 |暈||||
 |暖||||
 |暢||||
@@ -2549,6 +2550,7 @@
 |瀕||||
 |瀛|溋|Compare 贏 Reform||
 |瀝|𤁋|||
+|瀡|氵陏|Compare variant https://dict.variants.moe.edu.tw/variants/temp_png/f7ef2.png||
 |瀧|滝|||
 |瀰|弓尔|Merge 彌、瀰 into 弥. 尔 never 尓|Unicode might display wrong|
 |瀾||||
@@ -2599,7 +2601,7 @@
 |燦||||
 |燭|烛|||
 |燼|烬|||
-|爍|Left: 火 Right: 幺木(Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
+|爍|Left: 火 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
 |爐|火戶|戶 never 户/戸, Compare 所|Unicode might display wrong|
 |爪||||
 |爹||||
@@ -2722,7 +2724,7 @@
 |盔||||
 |盞|盏|戋 never 㦮||
 |盟||||
-|盧|Remove 田|Traditional for surnames, Reformed otherwise. Compare 慮→虑、虜→虏|No|
+|盧|Remove 田|Traditional when surname. Compare 慮→虑、虜→虏|No|
 |盲||||
 |盹||||
 |盼||||
@@ -2784,7 +2786,7 @@
 |礎||||
 |礙|碍|||
 |礦|硄|Compare 擴→挄||
-|礫|Left: 石 Right: 幺木(Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
+|礫|Left: 石 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
 |礬|矾|||
 |祂||||
 |祟||||
@@ -3068,6 +3070,7 @@
 |芹||||
 |芽||||
 |苔||||
+|苕||||
 |苗||||
 |苛||||
 |苞||||
@@ -3134,7 +3137,7 @@
 |蕎||||
 |蕩||||
 |蕪||||
-|蕭|䔥|Traditional for surnames, Reformed otherwise||
+|蕭|䔥|Traditional when surname||
 |蕾||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
 |薄||||
 |薇||Use Traditional Unicode: 儿 at bottom not 几|Unicode might display wrong|
@@ -3195,7 +3198,7 @@
 |蝙||戶 never 户/戸|Unicode might display wrong|
 |蝟|猬|Variant: 集韻 (宋 Song)||
 |蝠||||
-|蝦||||
+|蝦|虫㞋||No|
 |蝨|虱|||
 |蝴||||
 |蝶||||
@@ -3218,9 +3221,9 @@
 |蠶|蚕|||
 |蠹|螙|Variant: 玉篇 (梁 Liang)||
 |蠻|蛮|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
-|衍||||
-|衙||||
-|衡||||
+|衍|彳水|彳 originates from 行|No|
+|衙|彳吾|彳 originates from 行|No, 𢓲|
+|衡|Remove 亍|彳 originates from 行|No|
 |衩||||
 |衫||||
 |衰||||
@@ -3299,7 +3302,7 @@
 |豈||||
 |豌||||
 |豎|竪|Variant: 玉篇 (梁 Liang)、金石文字辨異 (清 Qing)||
-|豐|Remove 豆|Compare 幽、豳. Ideogram: mountain full of lush plants. 丰 when left component e.g. 艳|No, 𠁳 (Needs appearance fixed)|
+|豐|Remove 豆|Compare 幽、豳. Ideogram: mountain full of lush plants. 丰 when left component e.g. 艷→艳|No, 𠁳 (Needs appearance fixed)|
 |豔 (艷)|艳|||
 |豫||||
 |豹||||
@@ -3337,6 +3340,7 @@
 |贛|章工|Compare 槓→杠、variant 贑|No|
 |赤||||
 |赦||||
+|赧|赤㞋|Kangxi, Japanese, Korean|Unicode might display wrong|
 |赫||||
 |赴||||
 |趁||||
@@ -3464,7 +3468,7 @@
 |銅||||
 |銑||||
 |銘||||
-|銜||||
+|銜|彳金|彳 originates from 行|No|
 |銬||||
 |銳|鋭|||
 |銼||||
@@ -3529,6 +3533,7 @@
 |陶||||
 |隅||||
 |隆||Use Traditional/Simplified Unicode: Line above 生|Unicode might display wrong|
+|隋|陏|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan), Merge 隋、隨 into 陏, Traditional when surname||
 |階||||
 |隕|阝匀|Compare 韻→韵, 匀 never 勻|No|
 |隘||||
@@ -3545,7 +3550,7 @@
 |雹||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
 |霎||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
 |霜||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
-|霞||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
+|霞|雨㞋|Use Simplified/Japanese Unicode: ⻗ as top component|No|
 |霧||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
 |霸||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
 |霹||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
@@ -3556,7 +3561,7 @@
 |靴||Use Traditional/Japanese Unicode 化: 匕 never 𠤎|Unicode might display wrong|
 |靶||||
 |鞍||||
-|鞏|巩|Earlier form. Traditional for surnames, Reformed otherwise||
+|鞏|巩|Earlier form. Traditional when surname||
 |鞠||||
 |鞦|秋|Merge 秋、鞦 into 秋||
 |鞭||||
@@ -3622,7 +3627,7 @@
 |驟|馬取乑|Use Simplified Unicode 聚|Unicode might display wrong|
 |驢|馬戶|戶 never 户/戸, Compare 所|Unicode might display wrong|
 |髒|骨庄|Replaces sound component 葬 with 藏 which is replaced with 庄|No|
-|髓|髄|||
+|髓|骨有|Compare variant https://dict.variants.moe.edu.tw/variants/temp_png/4bdd.png|No|
 |髡|兀彡 (Elongate 兀)|Elongate 兀 like 兀 in 尫, Compare 髦→毝|No|
 |髦|毝|||
 |髮|犮彡 (Elongate 犮)|Elongate 犮 like 虎 in 彪, Compare 髦→毝, Use Simplified/Japanese Unicode 犮|No|
@@ -3679,8 +3684,8 @@
 |黴|霉|||
 |鼎||||
 |鼾|Remove 田 in 鼻|Compare 鼻 Reform (no 田)|No|
-|齊|斉|Traditional for surnames, Reformed otherwise||
+|齊|斉|Traditional when surname||
 |齋|斎|||
 |齒|歯|||
 |齡|齢|Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
-|龜|亀|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)|
+|龜|亀|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
