@@ -1,6 +1,6 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)
 
-改革字 Reformed Chinese ⚫︎ 735 Reforms / 3680 漢字 Hanzi (Non-Exhaustive)
+改革字 Reformed Chinese ⚫︎ 736 Reforms / 3680 漢字 Hanzi (Non-Exhaustive)
 ---
 |伝統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -2509,6 +2509,7 @@
 |漱||||
 |漲||||
 |漸||||
+|漾|𣴎|Compare 樣→样, Moves氵below 羊||
 |漿||||
 |潑|氵癶矢||No, 𣺍|
 |潘||||
@@ -3079,7 +3080,6 @@
 |茅||||
 |茉||||
 |茫||||
-|茬||||
 |茴||||
 |茵||||
 |茸||||
