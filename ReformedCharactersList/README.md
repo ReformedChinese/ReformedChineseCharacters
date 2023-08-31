@@ -1376,7 +1376,7 @@
 |胎||||
 |帳||||
 |賞||||
-|拋|抛|Replace 尢 with 九||
+|拋|抛|Variant: 俗書刊誤 (明 Ming), Elongated 九 never elongated 尢||
 |遭||||
 |若||||
 |梯||||
@@ -1915,8 +1915,8 @@
 |寵|宀竜||No, 𫳭|
 |寸||||
 |寺||||
-|尬|Replace 尢 with 九|Compare 拋→抛|No, 𠆷|
-|尷|Replace 尢 with 九|Compare 拋→抛|No|
+|尬|九介 (Elongate 九)|Compare 旭、拋→抛. Elongated 九 never elongated 尢|No, 𠆷|
+|尷|九監 (Elongate 九)|Compare 旭、拋→抛. Elongated 九 never elongated 尢|No|
 |屆|届|||
 |屈||||
 |屎||||
