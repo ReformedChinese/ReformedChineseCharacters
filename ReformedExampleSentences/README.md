@@ -1,4 +1,5 @@
-[View/Comment in Google Docs](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)
+[View/Comment in Google Docs](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)<br>
+Compiled by 盧豫楷 Zeo Lu
 
 改革字 Reformed Chinese ⚫︎ 500 Example Sentences
 ---
