@@ -1912,7 +1912,7 @@
 |寨||||
 |寬|寛|Connected horizontal line in 艹||
 |寰|环|Merge 環、寰 into 环, Similar meaning to 環||
-|寵|Replace 龍 with 竜||No, 𫳭|
+|寵|宀竜||No, 𫳭|
 |寸||||
 |寺||||
 |尬|Replace 尢 with 九|Compare 拋→抛|No, 𠆷|
