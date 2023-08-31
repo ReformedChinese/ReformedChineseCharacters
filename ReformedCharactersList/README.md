@@ -1915,7 +1915,7 @@
 |寵|宀竜||No, 𫳭|
 |寸||||
 |寺||||
-|尬|九介 (Elongate 九)|Compare 旭、拋→抛. Elongated 九 never elongated 尢|No, 𠆷|
+|尬|九介 (Elongate 九)|Variant: 正字通 (明 Ming), Compare 旭、拋→抛. Elongated 九 never elongated 尢|No, 𠆷|
 |尷|九監 (Elongate 九)|Compare 旭、拋→抛. Elongated 九 never elongated 尢|No|
 |屆|届|||
 |屈||||
