@@ -2509,7 +2509,7 @@
 |漱||||
 |漲||||
 |漸||||
-|漾|𣴎|Compare 樣→样, Moves氵below 羊||
+|漾|𣴎|Compare 樣→样, Moves氵below 羊 to differentiate from 洋||
 |漿||||
 |潑|氵癶矢||No, 𣺍|
 |潘||||
