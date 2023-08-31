@@ -1,4 +1,5 @@
-[View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)
+[View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
+Compiled & proposed by 盧豫楷 Zeo Lu
 
 改革字 Reformed Chinese ⚫︎ 752 Reforms / 3685 漢字 Hanzi (Non-Exhaustive)
 ---
