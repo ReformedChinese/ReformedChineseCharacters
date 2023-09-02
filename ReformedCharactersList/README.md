@@ -3125,7 +3125,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蓮||||
 |蔑||||
 |蔓||||
-|蔔||||
+|蔔|苩|Cantonese shorthand||
 |蔗||||
 |蔚||||
 |蔣||||
