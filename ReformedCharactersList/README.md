@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字 Reformed Chinese ⚫︎ 753 Reforms / 3685 漢字 Hanzi (Non-Exhaustive)
+改革字 Reformed Chinese ⚫︎ 755 Reforms / 3685 漢字 Hanzi (Non-Exhaustive)
 ---
 |伝統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -1882,7 +1882,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嫩||||
 |嬉||||
 |嬌||||
-|嬤|嫲|林 never 𣏟||
+|嬤|女庅|Compare 麼→庅|No|
 |嬰|Replace 賏 with 𭕄|Compare 櫻→桜|No, 𰋷|
 |嬸|妉|Compare 瀋→沈||
 |孔||||
@@ -2260,7 +2260,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |暢||||
 |暮||||
 |曆|暦|||
-|曇|昙|||
+|曇|昙|Compare 雲→云||
 |曉|暁|||
 |曙||||
 |曜||||
@@ -2532,6 +2532,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |澥|氵介|Compare 蟹→蚧|No, 𣲤|
 |澱||||
 |澳|氵奥|奥 never 奧|Unicode might display wrong|
+|澾|汏|Compare 達→达||
 |濁|浊|||
 |濃|氵莀|Compare 農→莀|No|
 |澀 (澁)|氵肯|Variant: 龍龕手鑑 (遼 Liang)、重訂直音篇 (明 Ming)|No|
@@ -3071,7 +3072,6 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |芹||||
 |芽||||
 |苔||||
-|苕||||
 |苗||||
 |苛||||
 |苞||||
@@ -3157,7 +3157,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蘆|艹戶|戶 never 户/戸|Unicode might display wrong|
 |蘊|藴|||
 |蘋|苹|平 association is good||
-|蘑||林 never 𣏟|Unicode might display wrong|
+|蘑|艹庅|Compare variant https://dict.variants.moe.edu.tw/variants/temp_png/f52eb.png|No|
 |蘸||||
 |蘿|Replace 維 with 紂|Compare 羅 Reform|No|
 |虎||||
@@ -3547,7 +3547,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |雌||||
 |雕|彫|雕 originally means “a type of fierce bird” while 彫 originally means “to carve jade”||
 |雛|雏|||
-|雲|云|Earlier form, Variant: 玉篇 (梁 Liang)||
+|雲|云|Earlier form, Variant: 玉篇 (梁 Liang), Applies to all derivatives||
 |雹||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
 |霎||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
 |霜||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
