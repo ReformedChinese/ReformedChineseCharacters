@@ -1882,7 +1882,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嫩||||
 |嬉||||
 |嬌||||
-|嬤|女庅|Compare 麼→庅|No|
+|嬤|嫲|林 never 𣏟||
 |嬰|Replace 賏 with 𭕄|Compare 櫻→桜|No, 𰋷|
 |嬸|妉|Compare 瀋→沈||
 |孔||||
