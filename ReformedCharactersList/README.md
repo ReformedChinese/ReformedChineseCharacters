@@ -466,7 +466,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |血||||
 |鐘|鈡|Variant: 四聲篇海 (金 Jin), “clock”, Don’t confuse with 鍾 “cup”||
 |繼|継|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|禮|礼|||
+|禮|礻匕|Variant: 碑別字新編, Compare 礼|No, 𥘇|
 |數|数|||
 |份||||
 |瘋||||
