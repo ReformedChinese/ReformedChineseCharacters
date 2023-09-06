@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字 Reformed Chinese ⚫︎ 755 Reforms / 3685 漢字 Hanzi (Non-Exhaustive)
+改革字 Reformed Chinese ⚫︎ 760 Reforms / 3690 漢字 Hanzi (Non-Exhaustive)
 ---
 |伝統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -2398,6 +2398,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |殿||||
 |毅||||
 |毆|殴|||
+|毗|毘|Variant: 正字通 (明 Ming)||
 |毯||||
 |氈|毡|Variant: 字彙 (明 Ming)||
 |氏||||
@@ -2602,6 +2603,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |燥||||
 |燦||||
 |燭|烛|||
+|燮|亦火 (Vertical)|Compare 戀→恋、variant 爕|No, 𭴢|
 |燼|烬|||
 |爍|Left: 火 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
 |爐|火戶|戶 never 户/戸, Compare 所|Unicode might display wrong|
@@ -2681,7 +2683,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |番||||
 |畸||||
 |畿|田几 (Horizontal)||No|
-|疆||||
+|疆|壃|Variant: 廣韻 (宋 Song)、正字通 (明 Ming)||
 |疇|畴|||
 |疊|畳|||
 |疏||||
@@ -2726,6 +2728,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |盔||||
 |盞|盏|戋 never 㦮||
 |盟||||
+|盥|泴|Variant: 龍龕手鑑 (遼 Liang)||
 |盧|Remove 田|Traditional when surname. Compare 慮→虑、虜→虏|No|
 |盲||||
 |盹||||
@@ -3072,6 +3075,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |芹||||
 |芽||||
 |苔||||
+|苕||||
 |苗||||
 |苛||||
 |苞||||
@@ -3392,6 +3396,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |轍||||
 |轎||||
 |轟||||
+|轡|𦀺|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |辜||||
 |辟||Merge 辟、闢 into 辟||
 |辨|辛刂|辛 appears like 辛 in 辣|No|
@@ -3689,4 +3694,4 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |齋|斎|||
 |齒|歯|||
 |齡|齢|Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
-|龜|亀|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|龜|亀|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)|
