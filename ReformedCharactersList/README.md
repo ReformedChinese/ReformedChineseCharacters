@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字 Reformed Chinese ⚫︎ 760 Reforms / 3690 漢字 Hanzi (Non-Exhaustive)
+改革字 Reformed Chinese ⚫︎ 770 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |伝統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -2380,6 +2380,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |櫺|棂|Compare 靈→灵||
 |櫻|桜|||
 |欄||||
+|欒|栾|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
 |欖|In 覧 replace 見 with 木|Compare 攬 Reform、鍳|No|
 |欣||||
 |欽||||
@@ -2527,10 +2528,12 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |澇||||
 |澈||||
 |澎||||
+|澐|沄|Compare 雲→云||
 |澗||||
 |澡||||
 |澤|沢|Use Shinjitai Unicode. Compare 尺 in 訳|Unicode might display wrong|
 |澥|氵介|Compare 蟹→蚧|No, 𣲤|
+|澧|氵匕|Compare 禮 Reform||
 |澱||||
 |澳|氵奥|奥 never 奧|Unicode might display wrong|
 |澾|汏|Compare 達→达||
@@ -2556,11 +2559,13 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瀡|氵陏|Compare variant https://dict.variants.moe.edu.tw/variants/temp_png/f7ef2.png||
 |瀧|滝|||
 |瀰|弓尔|Merge 彌、瀰 into 弥. 尔 never 尓|Unicode might display wrong|
+|瀲|氵㪘||No, 𭲠|
 |瀾||||
 |灌|潅|||
 |灑|氵丽|Variant: 集韻 (宋 Song)、字彙 (明 Ming)|No, 𣶇|
 |灘|氵歎|Variant: 龍龕手鑑 (遼 Liang)|No, 𤁤|
 |灣|湾|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
+|灩 (灧)|滟|Compare 豔→艳||
 |灶||||
 |灸||||
 |灼||||
@@ -2901,6 +2906,8 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |糧||||
 |糯||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
 |糰|団|Merge 團、糰 into 団||
+|糴|籴|Variant: 干祿字書 (唐 Tang)、康熙字典 (清 Qing)||
+|糶|粜|Variant: 干祿字書 (唐 Tang)、字彙補 (清 Qing)||
 |糾||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |紉||Unhooked Chinese Unicode 糸 left radical never 糹, Use Traditional Unicode 刃|Unicode might display wrong|
 |紊||||
@@ -3220,6 +3227,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蟬|虫単|単 never 单|Unicode might display wrong|
 |蟹|蚧|Cantonese shorthand||
 |蟻||||
+|蟾|䖧|Compare 擔→担||
 |蠅|蝿|||
 |蠕||Use Simplified/Japanese Unicode: ⻗ as top component|Unicode might display wrong|
 |蠟|蛚|Compare 獵 Reform (犭列)||
@@ -3574,6 +3582,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |韁|繮|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |韃|革大|Compare 達→达|No|
 |韆|千|Merge 千、韆 into 千||
+|韉|鞯|Compare 薦→荐||
 |韌||Use Traditional Unicode 刃|Unicode might display wrong|
 |韓||||
 |韭||||
@@ -3677,6 +3686,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鷹|广鳥|Compare 應→応|No, 𩾦|
 |鸚|Replace 賏 with 𭕄|賏 becomes 𭕄, Compare 櫻→桜|No|
 |鸛|権鳥 without 木|Compare 歡→歓|No|
+|鸞|鵉|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
 |鹵|卤|“Salt; halogen”, Don’t confuse with 滷 Reform (“thick cooking sauce; stewed”)||
 |鹹|咸|Merge 咸、鹹 into 咸||
 |鹼|𫠗|||
@@ -3694,4 +3704,4 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |齋|斎|||
 |齒|歯|||
 |齡|齢|Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
-|龜|亀|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)|
+|龜|亀|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
