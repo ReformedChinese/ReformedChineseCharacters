@@ -1092,7 +1092,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |降||||
 |憐|怜|Variant: 集韻 (宋 Song)、正字通 (明 Ming). Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
 |既||||
-|織|糸戈|Compare 職→聀, Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥾮|
+|織|糸戈|Compare 職→聀, Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥾮 (Needs appearance fixed)|
 |執||||
 |戒||||
 |佛||||
