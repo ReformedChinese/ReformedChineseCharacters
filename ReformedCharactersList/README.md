@@ -1116,7 +1116,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |敬||||
 |勁|圣力|圣 never 经 right component|No, 𠡍|
 |帕||||
-|草||艹 top component is always one connecting 一 stroke||
+|草||艹 is always one connecting 一 stroke||
 |醉|酔|||
 |綁||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |層||||
