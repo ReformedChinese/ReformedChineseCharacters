@@ -752,7 +752,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |脫|脱|||
 |瑞||||
 |背||||
-|僅||||
+|僅||Use Traditional/Simplified Unicode 堇: 廿 top component not 艹|Unicode might display wrong|
 |追||||
 |倫||||
 |炸||||
@@ -1644,7 +1644,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |勘||||
 |勛 (勳)|勳|Kangxi, fancier for “medal; meritorious service”||
 |募||||
-|勤||||
+|勤||Use Traditional/Simplified Unicode 堇: 廿 top component not 艹|Unicode might display wrong|
 |勵|励|||
 |勸|勧|||
 |勺||||
@@ -3302,7 +3302,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |謙||||
 |謠|言爫缶|Compare 搖→摇, Use Simplified Unicode right component|Unicode might display wrong|
 |謬||||
-|謹||||
+|謹||Use Traditional/Simplified Unicode 堇: 廿 top component not 艹|Unicode might display wrong|
 |譏|言几||No, 𮗸|
 |譚||||
 |譜||||
