@@ -613,7 +613,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |賣|売|||
 |顯|顕|||
 |監||||
-|圖|图|Comes from 草書||
+|圖|图|Derived from 草書||
 |半||||
 |語||||
 |付||||
