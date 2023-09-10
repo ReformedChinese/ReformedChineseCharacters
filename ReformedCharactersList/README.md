@@ -1349,7 +1349,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |悔||||
 |暫||||
 |爽||||
-|紮|扎|紮→variant 紥→扎. Merge 扎、紮 into 扎||
+|紮|扎|Compare variant 紥. Merge 扎、紮 into 扎||
 |緒||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |訊||||
 |吐||||
