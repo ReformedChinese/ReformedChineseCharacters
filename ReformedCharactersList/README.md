@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字 Reformed Chinese ⚫︎ 770Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字 Reformed Chinese ⚫︎ 770 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |伝統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -526,7 +526,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |首||||
 |改||||
 |忘||||
-|術|彳术|术 never 朮|No|
+|術|彳术|彳 originates from 行, 术 never 朮|No|
 |局||||
 |客||||
 |假|亻㞋||No|
