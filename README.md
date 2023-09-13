@@ -1,16 +1,133 @@
-### Hi there 👋
+改革字&nbsp;Reformed Chinese Characters
 
-<!--
-**ReformedChinese/ReformedChinese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An in-the-middle alternative to Simplified & Traditional
 
-Here are some ideas to get you started:
+# Quick Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   <span class="c2 c6">[改革字 Reformed Chinese characters list](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740544485&usg=AOvVaw3DmELaY8G-K-qji4UQRWHG)</span><span class="c1 c6">:</span><span class="c1 c0"> </span><span class="c0">770</span><span class="c1 c0"> Reforms /</span> <span class="c0">3700</span><span class="c1 c0"> 漢字 Hanzi</span>
+*   <span class="c2 c6">[500 example sentences](https://www.google.com/url?q=https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/&sa=D&source=editors&ust=1694587740545018&usg=AOvVaw0dy2trxX_Yr7RlYYU_6wDV)</span><span class="c1 c0"> in order of</span><span class="c0"> </span><span class="c1 c0">Reformed,</span><span class="c0"> </span><span class="c1 c0">Traditional, Simplified</span>
+
+# Introduction
+
+If you’re familiar with&nbsp;written&nbsp;Chinese, you&nbsp;most likely&nbsp;know about the endless, heated&nbsp;[debate between Simplified Chinese and Traditional Chinese](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Debate_on_traditional_and_simplified_Chinese_characters&sa=D&source=editors&ust=1694587740545758&usg=AOvVaw3kx-c8a1pF4PCZZZMNdWeg)&nbsp;regarding which is the&nbsp;superior&nbsp;character set, both of which&nbsp;have their own pros and cons.&nbsp;Simplified reduces character strokes often at the cost of beauty while Traditional preserves Chinese culture and aesthetics but may be a hassle to handwrite. In today’s digital age, handwriting is not as much of a high priority&nbsp;versus&nbsp;in the past because most people type and typing Traditional takes the same amount of effort as typing Simplified. For example,&nbsp;pinyin&nbsp;inputting&nbsp;“ma”, just two letters, yields both&nbsp;馬 and its Simplified form 马&nbsp;depending on the preferred character set. However when the displayed text size is small,&nbsp;certain&nbsp;complex Traditional characters such as 舊、體、寶 may appear illegible compared to their Simplified counterparts 旧、体、宝. At the same time, Simplified set contains&nbsp;too&nbsp;many visually unpleasing characters e.g. 见、专、风 far off from their historical orthodox forms and it’d be a&nbsp;deep&nbsp;cultural loss to completely&nbsp;discard&nbsp;Traditional for Simplified. Therefore&nbsp;after much meticulous research,&nbsp;I&nbsp;am&nbsp;introducing&nbsp;a new character set, 改革字&nbsp;Reformed Chinese, to capture the best of both worlds:&nbsp;Traditional’s&nbsp;beauty&nbsp;AND&nbsp;Simplified’s&nbsp;legibility.
+
+# Important Usage Notes
+
+- The provided&nbsp;[Reformed Chinese characters list](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740547158&usg=AOvVaw2OUlOb9y1u1L95Iav4YIES)&nbsp;contains a total of&nbsp;3700&nbsp;common characters including&nbsp;770&nbsp;Reforms. It is a&nbsp;non-exhaustive template&nbsp;however&nbsp;3700&nbsp;characters cover over 99% of the characters found in modern Chinese. Characters outside the list are extremely rare and Reformed still applies where applicable.
+
+- Reformed applies primarily to&nbsp;printed text, users are free to&nbsp;handwrite&nbsp;whatever they&nbsp;prefer.
+
+- Surnames are always displayed in Traditional&nbsp;out of respect&nbsp;regardless of the characters’ corresponding&nbsp;Reforms. When&nbsp;not&nbsp;used in surname contexts,&nbsp;characters&nbsp;normally appear in Reformed.
+
+- Traditional may still be printed for cultural or aesthetic purposes,&nbsp;Reformed&nbsp;does not obsolete Traditional.
+
+- Reformed is also designed to be a&nbsp;standardized set across the&nbsp;[Sinosphere](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sinosphere&sa=D&source=editors&ust=1694587740548383&usg=AOvVaw0RiO8VmSyYGbS7w9Fa1wXk)&nbsp;(漢字文化圈) where Chinese characters are commonly used including in Japan. Therefore I have&nbsp;factored in&nbsp;the Japanese language too when compiling these Reforms&nbsp;since characters&nbsp;are not always homophones&nbsp;outside Mandarin. Additionally, 糸 radical like in 統、純、紙、etc always appears as unhooked 糸 instead of 糹closely similar to what’s found in&nbsp;[Kangxi Dictionary](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Kangxi_Dictionary&sa=D&source=editors&ust=1694587740548803&usg=AOvVaw0N8wS0vQv6OyAMWTlDrnRn)&nbsp;(康熙字典) and modern Japanese, Korean printing typefaces. Japanese speakers are more than welcome to adopt Reformed too and especially so because&nbsp;[Shinjitai](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Shinjitai&sa=D&source=editors&ust=1694587740549006&usg=AOvVaw2Zdo1BkFQsh5CrUlMsgLVo)&nbsp;(新字体), Japan’s take on character simplification, was a major inspiration.
+
+# Character Reform Process
+
+Here I’ll detail my general steps when Reforming. There are several factors and guidelines I followed throughout the process:&nbsp;overlap&nbsp;(e.g. 会、点、国 in both Simplified and Shinjitai),&nbsp;resemblance to Traditional&nbsp;(e.g. 變→変、齊→斉),&nbsp;historicity&nbsp;(e.g. 俻 is a variant recorded in Liang dynasty dictionary&nbsp;Yupian&nbsp;玉篇),&nbsp;consistency&nbsp;(e.g. 儈→侩、澮→浍、檜→桧、etc),&nbsp;logic&nbsp;(e.g. 心 “heart” in 愛 “love”),&nbsp;frequency&nbsp;(e.g. 个、几、从),&nbsp;no oddly regularized cursive&nbsp;(nothing like 东、发、図),&nbsp;no cluttering&nbsp;(e.g. 鑿→凿、釁→衅),&nbsp;no drastic component omissions&nbsp;(nothing like 广、产、乡).
+
+1. Collect the most commonly used Chinese characters.&nbsp;[Learn Chinese Characters](https://www.google.com/url?q=https://learnchinesecharacters.academy/common-chinese-characters/&sa=D&source=editors&ust=1694587740550297&usg=AOvVaw01m9BX8cXIAKP8g4nyofpZ)&nbsp;provides a list of 1500 most common characters ordered by frequency. I used Google Translate to convert the list’s Simplified characters into Traditional. I found another list,&nbsp;[DigMandarin](https://www.google.com/url?q=https://www.digmandarin.com/wp-content/uploads/2020/01/3500-Commonly-Used-Modern-Chinese-Characters-List_traditional.pdf&sa=D&source=editors&ust=1694587740550605&usg=AOvVaw2Lt5O9XqGnfYAtXEs5_1l9)'s, which contains 3500 common characters mostly in Traditional but not ordered by frequency. I then combined the two lists and&nbsp;removed&nbsp;duplicates. As Traditional standards vary slightly by region, I&nbsp;adhered&nbsp;to Taiwan standard and replaced characters outside it like 爲、裏、綫 with their respective standard forms (正字). Learn Chinese Characters’ 1500 characters appear first&nbsp;in&nbsp;[Reformed](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740551030&usg=AOvVaw04fgYmhVhOJqmX1X10Okl-)[&nbsp;list](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740551240&usg=AOvVaw3J51-dilki8y3KtTBSrTpU)&nbsp;followed by&nbsp;DigMandarin’s and&nbsp;other characters I added in to better illustrate as a template, totaling&nbsp;3700&nbsp;characters.
+
+<!-- LIST_SEPARATOR -->
+
+2. Compare characters across Traditional, Simplified, Japanese&nbsp;following some adjustments and&nbsp;pick the overlap. In Simplified set, revert all Simplified components to their directly corresponding Traditional forms e.g. 讠→訁、钅→ 釒、贝→貝. Japanese set mainly refers to&nbsp;[Joyo kanji](https://www.google.com/url?q=https://en.wikipedia.org/wiki/J%25C5%258Dy%25C5%258D_kanji&sa=D&source=editors&ust=1694587740551798&usg=AOvVaw3ox1DkgGMWWgkGs7KK_LMa)&nbsp;(常用漢字), 2136 commonly used characters including Shinjitai. As Shinjitai in standard usage doesn’t apply to all characters unlike Simplified,&nbsp;[extend Shinjitai](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Extended_shinjitai&sa=D&source=editors&ust=1694587740552028&usg=AOvVaw3a99q1xH6mEKBX2b3u2RIA)&nbsp;to non-Joyo kanji too e.g. 俠→ 侠、瀆→涜. For both Simplified and&nbsp;Shinjitai, if the character’s top component is missing a dot which Traditional has, add the dot too e.g. 厅 (廳)→ 庁、写 (寫)→㝍. &nbsp;Now between these 3 sets, pick the characters where at least 2 sets overlap. For example, Reformed contains 来、医、学 because Simplified and Japanese overlap. Likewise, Reformed contains 愛、後、開 because Traditional and Japanese overlap. Reformed also contains 説、鉄、撹 after said adjustments.
+
+<!-- LIST_SEPARATOR -->
+
+3. If all 3 sets differ, pick the Simplified or Shinjitai&nbsp;that’s closer to Traditional. For example, Shinjitai 剣、焼、関 resemble Traditional 劍、燒、關 more than their Simplified counterparts 剑、烧、关. If both Simplified and Shinjitai are unsatisfactory, select a&nbsp;historical variant&nbsp;(異體字). In very rare cases where Simplified, Shinjitai, historical variants are all unsatisfactory, stick with Traditional e.g. 戶、亞、龍. Fewer character strokes do not always equate to better legibility e.g. Traditional 亞 (8 strokes) is clearer than Shinjitai 亜 (7 strokes). However&nbsp;a Traditional character&nbsp;with&nbsp;both Simplified and Shinjitai&nbsp;usually&nbsp;indicates&nbsp;the&nbsp;need&nbsp;for a&nbsp;Reform of sorts.&nbsp;Sometimes Reformed is even simpler than Simplified.
+
+<!-- LIST_SEPARATOR -->
+
+4. If the overlapping character is still complex,&nbsp;pick a simpler historical variant&nbsp;for clearer legibility e.g. 麼→庅、農→莀、壇→𡊨. Ministry of Education’s&nbsp;[Dictionary of Chinese Character Variants](https://www.google.com/url?q=https://dict.variants.moe.edu.tw/&sa=D&source=editors&ust=1694587740553169&usg=AOvVaw1RjRw9-yimZrMKrhjHfUez)&nbsp;(教育部異體字字典) provides an outstanding collection of recorded historical variants which I mostly selected from and also indicates the&nbsp;standard Traditional forms of&nbsp;characters. I additionally consulted&nbsp;[簡化字bot](https://www.google.com/url?q=https://twitter.com/jianhuazi_bot&sa=D&source=editors&ust=1694587740553544&usg=AOvVaw2l2fU4eqGnL_-VMQcYmJzB)&nbsp;(@jianhuazi\_bot) and&nbsp;[新字体bot](https://www.google.com/url?q=https://twitter.com/shinjitai_bot&sa=D&source=editors&ust=1694587740553744&usg=AOvVaw2gdBwB9dnNERdUIQm9mjJX)&nbsp;(@shinjitai\_bot) for further historical usages.
+
+<!-- LIST_SEPARATOR -->
+
+5. Keep aesthetic,&nbsp;non-cursive&nbsp;Simplified characters that are&nbsp;too frequently used&nbsp;e.g. 個→个、麗→丽. Many of these are also historical variants. Some common Simplified characters like 过 (過)、时 (時) are&nbsp;not&nbsp;included because otherwise these same Reforms&nbsp;should apply to all their related characters too for consistency&nbsp;e.g. 鍋、渦、待、特. Also keep aesthetic, non-cursive Simplified characters that&nbsp;return to an earlier form&nbsp;e.g. 雲→云、鞏→巩. However, there cannot be any confusion with earlier form characters still in use today.
+
+<!-- LIST_SEPARATOR -->
+
+6. Merge characters&nbsp;with both&nbsp;similar meanings&nbsp;and&nbsp;same pronunciations&nbsp;including tone&nbsp;e.g. 兇→凶、唸→念. I consulted&nbsp;[Wiktionary](https://www.google.com/url?q=https://www.wiktionary.org&sa=D&source=editors&ust=1694587740554775&usg=AOvVaw38bPdDELB7AFq2hSFTe3pG)&nbsp;to ensure characters are homophones in Cantonese and On’yomi (音読み) too, Japanese readings derived from Chinese pronunciations at the time of introduction. I applied&nbsp;overlap mergings&nbsp;found in both Simplified and Japanese usages e.g. 颱→台、讚→賛 as well as&nbsp;historical substitutions&nbsp;e.g. 靈→灵、飆→猋. Merging prerequisites do not apply to extremely obscure characters with no modern usage e.g. 認→訒、辯→䛨.
+
+<!-- LIST_SEPARATOR -->
+
+7. Replace complex sound components with simpler characters&nbsp;and&nbsp;maintain consistency. Sound components (聲符) traditionally hint at character pronunciations and usually do not provide meaning e.g. 巴 in 吧、里 in 理. Many pronunciations have changed over time so might not make sense in Mandarin today but still might in other Chinese topolects (方言) or Japanese. Reformed replaces complex sound components with simpler&nbsp;approximate homophones&nbsp;e.g. 濱→浜、懺→忏 or non-cursive&nbsp;abbreviated characters&nbsp;e.g. 還→还、傳→伝. I checked&nbsp;[Wiktionary](https://www.google.com/url?q=https://www.wiktionary.org&sa=D&source=editors&ust=1694587740555523&usg=AOvVaw1xqgCgHLPK1RPjuu0jAr2p)&nbsp;to see whether characters are near homophones outside Mandarin too. Wiktionary&nbsp;was also helpful in discovering nonofficial shorthands e.g. 蔔→苩 (Cantonese)、羹→焿 (Taiwan).&nbsp;I applied many of the same component replacements found in both Simplified and Shinjitai e.g. 機→机、擇→択. Sound component replacements&nbsp;apply consistently&nbsp;across all related characters e.g. 遠→远、園→园、轅→䡇、etc. While sound components often don’t provide meaning, they&nbsp;shouldn’t&nbsp;contradict their characters’&nbsp;definitions&nbsp;either. I frequently&nbsp;consulted&nbsp;[Pleco](https://www.google.com/url?q=https://www.pleco.com&sa=D&source=editors&ust=1694587740556131&usg=AOvVaw2kz77grqANJyfAb5DcvKgC)&nbsp;add-on&nbsp;[The Outlier Linguistics Dictionary of Chinese Characters](https://www.google.com/url?q=https://www.outlier-linguistics.com/products/outlier-dictionary-of-chinese-characters&sa=D&source=editors&ust=1694587740556390&usg=AOvVaw0y-EzliB8QHKbQg7MCyqaa)&nbsp;to find out which&nbsp;components are sound as well as the original meanings of characters.
+
+<!-- LIST_SEPARATOR -->
+
+8. If all aforementioned options are unfeasible,&nbsp;create a new character&nbsp;based on other Reforms. Many of these new characters do not have Unicode support so I’ve included their character compositions&nbsp;in&nbsp;[Reformed](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740556903&usg=AOvVaw3XcgatG-_QKSV63LH9EzWn)[&nbsp;list](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740557105&usg=AOvVaw0odPp40NLG1dVMUTLdAf29). Simplified, Shinjitai, historical variants inspired these new characters so they are still visually similar e.g. 發→癶矢 (vertical)、穀→禾谷 (horizontal). I also replaced potentially difficult to remember components with simpler, more familiar ones e.g.&nbsp;假→亻㞋、歲→止成 (vertical).
+
+<!-- LIST_SEPARATOR -->
+
+9. Reduce components consisting of 3 or more reduplicated characters&nbsp;(疊字) e.g. 撬→㧌、疊→畳. Such reductions have occurred throughout Chinese history e.g. 靁→雷、纍→累. Reduction never applies to the base reduplicated character itself e.g. 品、晶、磊 but only when a component in other characters. If the would-be resulting&nbsp;reduction conflicts with existing characters in use e.g. 蕊 and 芯、灄 and 洱, then reference variants instead and apply to all related characters e.g. 鑷→銸、躡→踂. In a couple cases I’ve merged the entire character into the reduplicated component if the latter does not appear as a character in modern usage e.g. 協→劦、飆→猋.
+
+<!-- LIST_SEPARATOR -->
+
+10. Apply Reforms consistently to all related characters&nbsp;e.g. 僉→㑒、檢→検、撿→𢮦、etc. Do not Reform related characters differently unless Simplified and Shinjitai overlap following mentioned adjustments e.g. 燈→灯、證→証. To ensure consistency, I pulled all related characters&nbsp;from&nbsp;[Chinese](https://www.google.com/url?q=https://ctext.org/dictionary.pl&sa=D&source=editors&ust=1694587740557844&usg=AOvVaw3qJEKDTNmrGgFjyc6C7BnG)[&nbsp;Text Project Dictionary](https://www.google.com/url?q=https://ctext.org/dictionary.pl&sa=D&source=editors&ust=1694587740558033&usg=AOvVaw0F_1oWm-hpqdqvNslO_Dcl)&nbsp;and&nbsp;compared with&nbsp;what’s&nbsp;in&nbsp;[Reformed](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740558348&usg=AOvVaw26oaHlLS4oDlIs_Fm8plTI)[&nbsp;characters list](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740558556&usg=AOvVaw0QdXIh_rUPlTrCQANc6_1N)&nbsp;to not miss out any characters.
+
+<!-- LIST_SEPARATOR -->
+
+11. Optimize stroke count balance&nbsp;in compound characters and sentences. For example, compounds 寶貝、藝人、職工 have poor balance compared to 宝貝、萟人、聀工 due to having a complex character first followed by a much simpler one. The ideal balance is that all adjacent characters have approximately the same complexity. I tested Reformed on Chinese sentences gathered from social media,&nbsp;[placing them next to Traditional and Simplified for comparison](https://www.google.com/url?q=https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/&sa=D&source=editors&ust=1694587740559046&usg=AOvVaw29OZs46M0GoVSSnzbSqhj1). I often repeated earlier Reform steps when characters still looked unbalanced together.
+
+# Reformed Characters List
+
+I&nbsp;aimed&nbsp;to&nbsp;keep&nbsp;[Reformed](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740559669&usg=AOvVaw3vjUlSGKsEE_MF7sRoYAQM)[&nbsp;Chinese characters list](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740559881&usg=AOvVaw04l28olwqfeKBMHRKuy2On)&nbsp;straightforward and self-explanatory. You are highly encouraged to&nbsp;comment, critique,&nbsp;ask&nbsp;questions&nbsp;anywhere&nbsp;in the Google Sheets,&nbsp;please indicate which character set you normally use.&nbsp;I’d&nbsp;love to know your thoughts&nbsp;e.g. you hate a Reform, wonder why a certain Reform is that way, believe a character should stay in Traditional, think this project is cool, etc.&nbsp;The leftmost column displays&nbsp;3700&nbsp;common Traditional characters following Taiwan standard. You will notice the Chinese name for “Traditional” in column header is「伝統字」instead of the more well-known name「繁體字」. This is because Simplified and Traditional users each have different names for the character sets. Simplified users&nbsp;commonly&nbsp;call Traditional「繁体字」“complex form characters” which is mostly a misrepresentative umbrella term with a biased, negative undertone. In contrast, many Traditional users call Traditional「正體字」“standard form characters” which isn’t accurate when encompassing the entire Sinosphere where standards differ regionally now. Therefore I literally translated&nbsp;the&nbsp;English name “Traditional characters” into「傳統字」which in Reformed is「伝統字」, 統 having unhooked 糸 instead of 糹. The next column contains&nbsp;770&nbsp;character Reforms. Blank means no change from Traditional otherwise I listed the Reform including character composition if no Unicode support. The following column contains justifications, usage notes, and Unicode appearance info. The header reminds you to&nbsp;filter columns for easier, selective viewing. Maybe you’ll want to see only character Reforms or ones without proper Unicode support. The last column is Unicode support, blank means there already is correct Unicode support. When unsure whether Unicode support exists for a Reform I searched in&nbsp;[Chinese Text Project Dictionary](https://www.google.com/url?q=https://ctext.org/dictionary.pl&sa=D&source=editors&ust=1694587740560906&usg=AOvVaw2QKKp8waDQqSsmrmlAknGj)&nbsp;e.g. “石+光”&nbsp;for&nbsp;硄、“言+上” results in “No matching characters found”. At least 235&nbsp;characters might display different Unicode&nbsp;appearances&nbsp;across other character sets and&nbsp;Reformed’s purpose is to unify all into one standard. For example, Reformed 亮 should have 儿 at bottom as found in Traditional Chinese&nbsp;and&nbsp;Japanese Unicodes instead of 几. 74&nbsp;Reforms have Unicode data but no proper support yet so they normally will not display e.g. 𧥾 (言戈)、𮬥 (鳥几), however you can still&nbsp;copy and paste them into&nbsp;[Google Images](https://www.google.com/url?q=https://images.google.com&sa=D&source=editors&ust=1694587740561509&usg=AOvVaw3wS2GRspC1AEzZx6tQI0m1)&nbsp;to see how they look. 139&nbsp;Reforms do not have any Unicode data or support. In previous Notes column I detailed how Reformed Unicode should appear, these are the main ones which currently have Unicode appearance issues due to merging:
+
+*   <span class="c1 c0">言 top component is always 亠 never 二</span>
+*   <span class="c1 c0">艹 is always one connecting 一 stroke</span>
+*   <span class="c1 c0">戶 never 户/戸</span>
+*   <span class="c1 c0">月 never ⺼</span>
+*   <span class="c1 c0">雨 as top component is always ⻗</span>
+*   <span class="c1 c0">Chinese Unicode 令 never 令</span>
+*   <span class="c1 c0">戋 never 㦮</span>
+*   <span class="c1 c0">林 never 𣏟</span>
+*   <span class="c1 c0">匀 never 勻</span>
+*   <span class="c1 c0">単 never 单</span>
+*   <span class="c1 c0">圣 never 经 right-side component</span>
+*   <span class="c1 c0">亦 as top component is always 亦 itself</span>
+*   <span class="c1 c0">术 never 朮</span>
+*   <span class="c0">与 final 一 stroke does</span> <span class="c6">not</span><span class="c1 c0"> extend across ㇉</span>
+*   <span class="c1 c0">呂 never 吕</span>
+*   <span class="c1 c0">奥 never 奧</span>
+*   <span class="c1 c0">彐 never 彑 except in 互 derivatives</span>
+*   <span class="c1 c0">录 never 彔</span>
+*   <span class="c1 c0">尔 never 尓</span>
+*   <span class="c1 c0">昷 never 𥁕</span>
+*   <span class="c1 c0">木 never unhooked 朩</span>
+*   <span class="c1 c0">負 never 刀貝 (vertical)</span>
+*   <span class="c1 c0">内 never 內</span>
+*   <span class="c1 c0">彦 never 彥</span>
+*   <span class="c1 c0">産 never 產</span>
+*   <span class="c1 c0">黄 never 黃 except when surname</span>
+*   <span class="c1 c0">吴 never 吳 except when surname</span>
+*   <span class="c1 c0">步 never 歩</span>
+*   <span class="c0">堇</span> <span class="c0 c24">top component is always 廿 never 艹</span>
+*   <span class="c0 c24">𦰩 top component is always 廿 never 艹</span>
+
+# Example Sentences
+
+I gathered&nbsp;[500 innocuous example sentences](https://www.google.com/url?q=https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/&sa=D&source=editors&ust=1694587740564293&usg=AOvVaw2SNjYgPPwX6HNsp6Oakq1D)&nbsp;to demonstrate how Reformed looks in practice, placing them next to Traditional and Simplified for comparison. Only characters with Unicode support&nbsp;appear however&nbsp;you&nbsp;are free to&nbsp;reference&nbsp;[Reformed](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740564685&usg=AOvVaw1UoPtJKQF07NA1xCa0hBRM)[&nbsp;characters list](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740564879&usg=AOvVaw1B1hn4fCxftQ1wJ5F8Ix53)&nbsp;and&nbsp;try yourself&nbsp;in&nbsp;converting Chinese sentences&nbsp;into Reformed.&nbsp;Do&nbsp;note Reformed’s emphasis on both&nbsp;beauty&nbsp;and&nbsp;legibility.
+
+# Potential Applications
+
+As mentioned, Reformed’s primary purpose is to unify Simplified and Traditional into one same standard and potentially Japanese kanji too. Most Simplified users are reluctant to adopt Traditional&nbsp;and same vice&nbsp;versa. Sharing the same script may help bridge the gap in bringing people closer together. Simplified and Traditional have unfortunately become too politicized nowadays so Reformed offers a clean, new slate. Reformed as a standardized set for the Sinosphere would also simplify Unicode mergings in&nbsp;[Han unification](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Han_unification&sa=D&source=editors&ust=1694587740565779&usg=AOvVaw3AqjGIP1U1wOqt0DMeq8yh)&nbsp;which now has to account for all the different regional varieties. Alternatively, Reformed&nbsp;can&nbsp;serve as a stepping stone for Simplified users in case they choose to adopt Traditional in the future, love for traditional Chinese culture is on the rise&nbsp;after all. At the very least Reformed is closer to Chinese historical orthodoxy and also practical for 書法&nbsp;[Chinese calligraphy](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Chinese_calligraphy&sa=D&source=editors&ust=1694587740566108&usg=AOvVaw0wUmIgzKsYwqub5AJyMf_9)&nbsp;while still being legible.&nbsp;Let’s preserve the beauty of Chinese characters and culture forever.
+
+# Acknowledgements
+
+Thank you very much
+
+*   <span class="c2 c0">[1500 Most Common Chinese Characters](https://www.google.com/url?q=https://learnchinesecharacters.academy/common-chinese-characters/&sa=D&source=editors&ust=1694587740566749&usg=AOvVaw0oco6c2H_tA2pdmKIeHnhp)</span><span class="c1 c0">,</span> <span class="c8 c0">Learn Chinese Characters</span>
+*   <span class="c2 c0">[3500 Commonly Used Modern Chinese Characters List](https://www.google.com/url?q=https://www.digmandarin.com/wp-content/uploads/2020/01/3500-Commonly-Used-Modern-Chinese-Characters-List_traditional.pdf&sa=D&source=editors&ust=1694587740567153&usg=AOvVaw246zPCn67eHPkfoQa474ak)</span><span class="c1 c0">,</span> <span class="c8 c0">DigMandarin</span>
+*   <span class="c2 c0">[Chinese Text Project Dictionary](https://www.google.com/url?q=https://ctext.org/dictionary.pl&sa=D&source=editors&ust=1694587740567504&usg=AOvVaw34J5M4ve-8EQETeo-29CW5)</span>
+*   <span class="c2 c0 c26">[Dictionary of Chinese Character Variants 教育部異體字字典](https://www.google.com/url?q=https://dict.variants.moe.edu.tw/&sa=D&source=editors&ust=1694587740567799&usg=AOvVaw2GeIfnRKbGxEKoSnf6h1Z4)</span>
+*   <span class="c2 c0">[Outlier Linguistics Dictionary of Chinese Characters](https://www.google.com/url?q=https://www.outlier-linguistics.com/products/outlier-dictionary-of-chinese-characters&sa=D&source=editors&ust=1694587740568136&usg=AOvVaw0ABgrBMWwRvOm_7s0kC2wJ)</span>
+*   <span class="c2 c0">[Pleco Software](https://www.google.com/url?q=https://www.pleco.com&sa=D&source=editors&ust=1694587740568444&usg=AOvVaw1C17nlqW4DTryWTSP7urMY)</span>
+*   <span class="c2 c0">[Wiktionary](https://www.google.com/url?q=https://en.wiktionary.org/&sa=D&source=editors&ust=1694587740568708&usg=AOvVaw0hr5Ml-xBvD4x0VQzo7FYb)</span>
+*   <span class="c2 c0">[簡化字bot](https://www.google.com/url?q=https://twitter.com/jianhuazi_bot&sa=D&source=editors&ust=1694587740568999&usg=AOvVaw12nqKsB_S-GRZT81gvpL9T)</span><span class="c1 c0"> (@jianhuazi_bot)</span>
+*   <span class="c2 c0">[新字体bot](https://www.google.com/url?q=https://twitter.com/shinjitai_bot&sa=D&source=editors&ust=1694587740569236&usg=AOvVaw1vtDlSomHAlZu_9draYZ-U)</span><span class="c1 c0"> (@shinjitai_bot)</span>
+
+# Contact
+
+Please remember you are encouraged to comment, critique,&nbsp;ask&nbsp;questions&nbsp;about&nbsp;[Reformed](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740569905&usg=AOvVaw131HQNqOyCtFOogess24Na)[&nbsp;Chinese characters list](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/&sa=D&source=editors&ust=1694587740570106&usg=AOvVaw3rA6cGC37zOJSdt064rxyB)&nbsp;in the Google Sheets itself,&nbsp;I will answer them there. Otherwise you may email me at&nbsp;[ReformedChinese@gmail.com](mailto:ReformedChinese@gmail.com). Thank you!
+
+―盧豫楷 Zeo Lu
