@@ -999,7 +999,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |搶||||
 |檔|档|||
 |僱|雇|Merge 雇、僱 into 雇. 戶 never 户/戸|Unicode might display wrong|
-|廣|广黄|黄 not 黃|Unicode might display wrong|
+|廣|广光|Korean hanja shorthand: 선문강요 (1749), 黃 is sound component|No, 𭙛|
 |丹||||
 |銀||||
 |鏡||||
