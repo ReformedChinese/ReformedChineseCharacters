@@ -605,7 +605,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |終||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |差||||
 |夢||||
-|贏|貝盈 (Horizontal)|Everything except 貝 is sound component|No|
+|贏|貝盈 (Horizontal)|Compare 楹, Everything except 貝 is sound component|No|
 |藥|艹幺木 (Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
 |迪||||
 |店||||
