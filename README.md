@@ -1,4 +1,4 @@
-[Preferably view in Google Docs](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/)
+[View in Google Docs for best experience](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/)
 
 # 改革字 Reformed Chinese Characters
 
