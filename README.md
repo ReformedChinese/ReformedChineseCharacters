@@ -51,6 +51,7 @@ I aimed to keep [Reformed Chinese characters list](https://docs.google.com/sprea
 
 - Unhooked Chinese Unicode 糸 when left-side radical never 糹
 <img src="https://github.com/ReformedChinese/ReformedChineseCharacters/blob/main/LeftsideRadical糸.png" width=15% height=15%>
+
 - 言 top component is always 亠 never 二
 - 艹 is always one connecting 一 stroke
 - 戶 never 户/戸
