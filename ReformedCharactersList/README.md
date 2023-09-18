@@ -854,7 +854,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |戀|恋|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
 |弗||||
 |季||||
-|嚴|厳|||
+|嚴|𭕄厂言 (Vertical)|Compare 厳. Original meaning: “a lot of words”, 言 becomes sound-meaning component|No|
 |推||||
 |伯||||
 |莉||||
