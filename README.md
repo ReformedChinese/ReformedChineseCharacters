@@ -2,7 +2,7 @@
 
 # 改革字 Reformed Chinese Characters
 
-***An in-the-middle alternative to Simplified & Traditional***
+***An in-the-middle alternative to Simplified & Traditional Chinese***
 
 Quick Links
 ---
