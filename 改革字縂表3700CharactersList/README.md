@@ -272,7 +272,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |員||||
 |總|縂|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |噢|口奥|奥 never 奧|Unicode might display wrong|
-|系||Merge 系、繫 into 系, Don’t confuse with 係 “to tie”||
+|系||Merge 系、繫 into 系, Don’t confuse with 係 “to relate”||
 |幾|几|||
 |管||||
 |玩||||
