@@ -1,4 +1,4 @@
-[View in Google Docs for best experience](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/)
+[View in Google Docs for best experience](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/), also on [Medium.com](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63)
 
 # 改革字 Reformed Chinese Characters
 
@@ -7,7 +7,7 @@
 Quick Links
 ---
 - [改革字縂表 **Reformed Chinese Characters List**](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/): 770 Reforms / 3700 漢字 Hanzi
-- [改革字例句 **500 example sentences**](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/) in order of Reformed, Traditional, Simplified
+- [改革字例句 **500 Example Sentences**](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/) in order of Reformed, Traditional, Simplified
 
 Introduction
 ---
