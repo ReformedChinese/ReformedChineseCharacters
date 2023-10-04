@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 770 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 775 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |伝統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -461,7 +461,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |忙||||
 |壞|坏|||
 |久||||
-|議||||
+|議|言䒑我|Compare 義 Reform|No|
 |衣||||
 |血||||
 |鐘|鈡|Variant: 四聲篇海 (金 Jin), “clock”, Don’t confuse with 鍾 “cup”||
@@ -623,7 +623,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |偷||||
 |敢||Use Traditional/Japanese Unicode: 丅 not 乛 in upper left component like in Kangxi|Unicode might display wrong|
 |油||||
-|餐||||
+|餐|湌|Variant: 說文 (Han)||
 |破||||
 |杯||||
 |市||||
@@ -661,7 +661,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |標||||
 |檢|検|||
 |各||||
-|義||||
+|義|䒑我|Compare 首、益, Applies to all descendants|No|
 |百||||
 |民||||
 |功||||
@@ -1384,7 +1384,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |震||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |述||术 never 朮|Unicode might display wrong|
 |陣||||
-|儀||||
+|儀|亻䒑我|Compare 義 Reform|No|
 |乖||||
 |宮||呂 never 吕||
 |咬||||
@@ -2266,7 +2266,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |曙||||
 |曜||||
 |曠|晄|Compare 擴→挄||
-|曦|㬢|Variant: 類篇 (宋 Song), Compare 犧→犠||
+|曦|日䒑我|Compare 義 Reform、variant 㬢|No|
 |曹||||
 |朦||||
 |朧|月竜||No, 𪱨|
@@ -2622,7 +2622,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |牽|亠丷冖牛|Compare 旁 but replace 方 with 牛|No|
 |犁||||
 |犀|尸牛|Variant: 龍龕手鑑 (遼 Liang)、重訂直音篇 (明 Ming)|No, 𰠨|
-|犧|犠|Variant: 隸辨 (清 Qing), Compare 曦→㬢||
+|犧|牛䒑我|Compare 義 Reform、variant 犠|No|
 |犬||||
 |狐||||
 |狠||||
@@ -3226,7 +3226,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蟋||||
 |蟬|虫単|単 never 单|Unicode might display wrong|
 |蟹|蚧|Cantonese shorthand||
-|蟻||||
+|蟻|虫䒑我|Compare 義 Reform|No|
 |蟾|䖧|Compare 擔→担||
 |蠅|蝿|||
 |蠕||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
