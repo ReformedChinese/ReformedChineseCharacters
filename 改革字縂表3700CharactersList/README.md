@@ -661,7 +661,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |標||||
 |檢|検|||
 |各||||
-|義|䒑我|Compare 首、益, Applies to all descendants|No|
+|義|䒑我|Compare 前、益, Applies to all descendants|No|
 |百||||
 |民||||
 |功||||
