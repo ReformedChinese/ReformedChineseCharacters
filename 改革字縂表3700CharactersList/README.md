@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 775 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 785 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |伝統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -15,7 +15,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |這||||
 |一||||
 |他||||
-|麼|庅|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|麼|s|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
 |在||||
 |有||||
 |個|个|Variant: 正字通 (明 Ming)||
@@ -297,7 +297,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |醫|医|||
 |通||||
 |體|体|||
-|樂|幺木 (Vertical)|No 白 in earlier form, Use Traditional/Simplified Unicode 幺, Applies to all descendants|No|
+|樂|幺木 (Vertical)|No 白 in earlier form, Use Traditional/Simplified Unicode 幺, Applies to all derivatives|No|
 |並||||
 |三||||
 |早||||
@@ -661,7 +661,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |標||||
 |檢|検|||
 |各||||
-|義|䒑我|Compare 前、益, Applies to all descendants|No|
+|義|䒑我|Compare 前、益, Applies to all derivatives|No|
 |百||||
 |民||||
 |功||||
@@ -673,7 +673,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |臉|月㑒||No|
 |引||||
 |擇|択|||
-|疑|Remove 龴疋|Earlier form, Compare 旨, Applies to all descendants|No, 𠤕|
+|疑|Remove 龴疋|Earlier form, Compare 旨, Applies to all derivatives|No, 𠤕|
 |趕||||
 |倆||||
 |獨|独|||
@@ -784,7 +784,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |苦||||
 |念||Merge 念、唸 into 念||
 |適||||
-|華||||
+|華|艹华|Original form of 花, Vietnamese chữ Hán shorthand, 匕 never 𠤎, Applies to all derivatives|No|
 |衝|㣫|“Charge”, Don't confuse with 沖 (water-related), 彳 originates from 行||
 |騙||戶 never 户/戸|Unicode might display wrong|
 |厭|厌|Compare 壓 Reform, Applies to all derivatives||
@@ -1459,7 +1459,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |載||||
 |爬||||
 |挖||||
-|驕||||
+|驕|Replace 喬 with 吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
 |獸|獣|||
 |嫁||||
 |潔|洁|||
@@ -1578,7 +1578,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |傭|佣|||
 |債||||
 |傾||||
-|僑||||
+|僑|Replace 喬 with 吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
 |僕|亻业|Compare 業→业、variant 㒒|No|
 |僚||||
 |僥|亻尭||No|
@@ -1758,7 +1758,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嘆||Use Traditional Unicode 𦰩: 廿 top component not 艹|Unicode might display wrong|
 |嘉||||
 |嘔|呕|||
-|嘩||||
+|嘩|Replace 華 with 艹华|Compare 華 Reform, Use Traditional/Japanese Unicode 化: 匕 never 𠤎|No|
 |嘮||||
 |嘯|嘨|||
 |嘰|叽|||
@@ -1881,7 +1881,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嫡||||
 |嫩||||
 |嬉||||
-|嬌||||
+|嬌|Replace 喬 with 吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
 |嬤|女庅|Compare 麼→庅|No|
 |嬰|Replace 賏 with 𭕄|Compare 櫻→桜|No, 𰋷|
 |嬸|妉|Compare 瀋→沈||
@@ -2360,10 +2360,10 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |樞|枢|||
 |樟||||
 |樸|木业|Compare 業→业、variant 檏|No|
-|樺||||
+|樺|Replace 華 with 艹华|Compare 華 Reform, Use Traditional/Japanese Unicode 化: 匕 never 𠤎|No|
 |橄||||
 |橇|枆|||
-|橋||||
+|橋|Replace 喬 with 吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
 |橐|士冖石 (Vertical)|槖 without 木|No|
 |橘||||
 |橙||||
@@ -2610,7 +2610,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |燭|烛|||
 |燮|亦火 (Vertical)|Compare 戀→恋、variant 爕|No, 𭴢|
 |燼|烬|||
-|爍|Left: 火 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
+|爍|Left: 火 Right: 幺木(Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
 |爐|火戶|戶 never 户/戸, Compare 所|Unicode might display wrong|
 |爪||||
 |爹||||
@@ -2764,7 +2764,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |矢||||
 |矩||||
 |矮||||
-|矯||||
+|矯|Replace 喬 with 吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
 |矽||||
 |泵||||
 |砂||||
@@ -2796,7 +2796,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |礎||||
 |礙|碍|||
 |礦|硄|Compare 擴→挄||
-|礫|Left: 石 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
+|礫|Left: 石 Right: 幺木(Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
 |礬|矾|||
 |祂||||
 |祟||||
@@ -3146,7 +3146,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蔽||||
 |蕉||||
 |蕊|芯木 (Vertical)|Compare 蘂, 木 never unhooked 朩|No, 𦲜|
-|蕎||||
+|蕎|Replace 喬 with 吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
 |蕩||||
 |蕪||||
 |蕭|䔥|Traditional when surname||
@@ -3402,7 +3402,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |轄||||
 |轅|䡇|Compare 遠→远||
 |轍||||
-|轎||||
+|轎|Replace 喬 with 吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
 |轟||||
 |轡|𦀺|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |辜||||
