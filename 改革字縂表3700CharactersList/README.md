@@ -15,7 +15,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |這||||
 |一||||
 |他||||
-|麼|s|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|麼|庅|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
 |在||||
 |有||||
 |個|个|Variant: 正字通 (明 Ming)||
