@@ -310,7 +310,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |命||||
 |且||||
 |向||Merge 向、嚮 into 向||
-|興|兴|||
+|興|丿㒷|Compare top 丿 in 向、囱|No|
 |球||||
 |服||||
 |入||||
@@ -1256,7 +1256,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |良||||
 |叛||||
 |駕||||
-|範||||
+|範|笵|Variant: 玉篇 (梁 Liang)||
 |俄||||
 |豬|猪|||
 |辛||||
@@ -2860,7 +2860,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |笛||||
 |笤||||
 |筋||||
-|筍|笋|Variant: 五經文字 (唐 Tang)||
+|筍||||
 |筏||||
 |筐||||
 |筒||||
