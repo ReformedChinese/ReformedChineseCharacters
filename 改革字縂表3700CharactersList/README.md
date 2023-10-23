@@ -2396,7 +2396,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |殞|歹匀|Compare 韻→韵, 匀 never 勻|No|
 |殲|歼|||
 |殷||||
-|殼|Remove 殳|一 above 几, Variant: 字彙補 (清 Qing), Compare 穀 Reform|Unicode might display wrong|
+|殼|吉几|Removes sound component 殳, Compare 羣→群、穀 Reform|No|
 |殿||||
 |毅||||
 |毆|殴|||
@@ -2829,7 +2829,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |稼||||
 |稽|Replace 旨 with 目|Variant: 漢隸字源 (宋 Song) https://dict.variants.moe.edu.tw/variants/temp_png/f42ad.png|No|
 |稿||||
-|穀|Remove 殳|Variant: 馬王堆漢墓帛書, Compare 殼 Reform, “Grain”, Don’t confuse with 谷 “gorge”|No|
+|穀|吉禾|Removes sound component 殳, Compare 羣→群、殼 Reform|No|
 |穆||||
 |積||||
 |穎||||
