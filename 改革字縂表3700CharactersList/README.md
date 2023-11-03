@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 785 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 795 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |伝統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -891,7 +891,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |亡||||
 |狀||||
 |魯||||
-|療||||
+|療|Replace 尞 top with 大|Variant: 偏類碑別字|No|
 |操||||
 |遺||||
 |判||||
@@ -1580,7 +1580,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |傾||||
 |僑|Replace 喬 with 吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
 |僕|亻业|Compare 業→业、variant 㒒|No|
-|僚||||
+|僚|Replace 尞 top with 大|Variant: 碑別字新編|No|
 |僥|亻尭||No|
 |僧||||
 |僵||Don’t confuse with 殭 like in 殭屍 jiangshi||
@@ -1764,7 +1764,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嘰|叽|||
 |嘲||||
 |嘶||||
-|嘹||||
+|嘹|Replace 尞 top with 大|Variant: 龍龕手鑑 (遼 Liang)|No|
 |噴||||
 |噠|口大|Compare 達→达|No, 𠯈|
 |噩||||
@@ -2182,7 +2182,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |撕||||
 |撣|扌単|単 never 单|No|
 |撥|扌癶矢||No, 𢲕|
-|撩||||
+|撩|Replace 尞 top with 大|Compare 嘹 Reform|No|
 |撫||||
 |撬|㧌|||
 |撮||||
@@ -2520,7 +2520,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |潘||||
 |潟|氵与|Compare 寫→㝍, Simplified 与 Unicode not Shinjitai|No|
 |潤||||
-|潦||||
+|潦|Replace 尞 top with 大|Compare 嘹 Reform|No|
 |潭||||
 |潮||||
 |潰||||
@@ -2602,7 +2602,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |熬||||
 |熾|火戈|Compare 職→聀|No|
 |燃|Remove dot in 犬|Removes reference to dog meat|No|
-|燎||||
+|燎|Replace 尞 top with 大|Variant: 廣碑別字|No|
 |燕||||
 |燙||||
 |燥||||
@@ -2610,7 +2610,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |燭|烛|||
 |燮|亦火 (Vertical)|Compare 戀→恋、variant 爕|No, 𭴢|
 |燼|烬|||
-|爍|Left: 火 Right: 幺木(Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
+|爍|Left: 火 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
 |爐|火戶|戶 never 户/戸, Compare 所|Unicode might display wrong|
 |爪||||
 |爹||||
@@ -2755,7 +2755,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瞞||||
 |瞪||||
 |瞬||||
-|瞭||||
+|瞭|Replace 尞 top with 大|Compare 嘹 Reform|No|
 |瞳||||
 |瞻|目旦||No, 𥅃|
 |矇||“To deceive”, Don’t confuse with 蒙 “to cover; suffer”、濛 “drizzling”、懞 “sincere”||
@@ -2796,7 +2796,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |礎||||
 |礙|碍|||
 |礦|硄|Compare 擴→挄||
-|礫|Left: 石 Right: 幺木(Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
+|礫|Left: 石 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
 |礬|矾|||
 |祂||||
 |祟||||
@@ -2944,7 +2944,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |績||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繁||||
 |繃|綳|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|繚||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
+|繚|Replace 尞 top with 大|Compare 嘹 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繞|糸尭|Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繡|綉|Variant: 正字通 (明 Ming), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繩|縄|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
@@ -3435,7 +3435,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |遴|辶令|Compare 憐→怜. Use Traditional/Simplified Unicode 令 never 令|No, 𮞊|
 |遵||||
 |遷|迁|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
-|遼||||
+|遼|Replace 尞 top with 大|Variant: 碑別字新編|No|
 |邂|辶介|Compare 蟹→蚧|No, 𨑸|
 |邅|辶玄|Compare 壇→𡊨|No|
 |邏|Replace 維 with 紂|Compare 羅 Reform|No|
@@ -3512,7 +3512,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鏈|鍊|Merge 鍊、鏈 into 鍊. “Chain”, use 煉 for “smelt”||
 |鏟|金産|産 never 產|Unicode might display wrong|
 |鏽|銹|||
-|鐐||||
+|鐐|Replace 尞 top with 大|Compare 嘹 Reform|No|
 |鐮|鎌|Variant: 集韻 (宋 Song)||
 |鐺|𫟰|||
 |鑄|鋳|||
