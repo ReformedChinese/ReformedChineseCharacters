@@ -59,7 +59,7 @@ I aimed to keep [Reformed Chinese characters list](https://docs.google.com/sprea
 - 戶 never 户/戸
 - 月 never ⺼
 - 雨 as top component is always ⻗
-- Chinese Unicode 令 never 令
+- Chinese Unicode 令 never Japanese Unicode 令
 - 戋 never 㦮
 - 林 never 𣏟
 - 匀 never 勻
