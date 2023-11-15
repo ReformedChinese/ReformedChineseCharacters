@@ -3,7 +3,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 
 改革字縂表 Reformed Chinese ⚫︎ 795 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
-|伝統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
+|傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
 |我||||
 |的||||
@@ -383,7 +383,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |搞||||
 |戰|戦|||
 |火||||
-|羅|Replace 維 with 紂|Variant: 龍龕手鑑 (遼 Liang)、字彙 (明 Ming), Applies to all derivatives|No, 𦋝|
+|羅|䍜|Earlier form||
 |至||||
 |萬|万|||
 |聲|声|||
@@ -1777,7 +1777,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嚼||||
 |囁|口耴|Compare 鑷→銸|No, 𠲷|
 |囂||||
-|囉|Replace 維 with 紂|Compare 羅 Reform|No|
+|囉|口䍜|Compare 羅→䍜|No|
 |囊|士冖上 (Vertical)|Compare 壤→圵|No|
 |囑|嘱|||
 |囚||||
@@ -2888,7 +2888,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |籠|篭|||
 |籤|⺮千|“Label; bamboo slip”, Don't confuse with 簽 Reform (⺮㑒) “to sign”|No|
 |籬|筣|Variant: 字彙 (明 Ming)||
-|籮|Replace 維 with 紂|Compare 羅 Reform|No|
+|籮|⺮䍜|Compare 羅→䍜|No|
 |籲|侖頁|Compare variant 龥|No|
 |籽||||
 |粒||||
@@ -3170,7 +3170,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蘋|苹|平 association is good||
 |蘑|艹庅|Compare variant https://dict.variants.moe.edu.tw/variants/temp_png/f52eb.png|No|
 |蘸||||
-|蘿|Replace 維 with 紂|Compare 羅 Reform|No|
+|蘿|艹䍜|Compare 羅→䍜|No|
 |虎||||
 |彪||||
 |虐||||
@@ -3438,7 +3438,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |遼|Replace 尞 top with 大|Variant: 碑別字新編|No|
 |邂|辶介|Compare 蟹→蚧|No, 𨑸|
 |邅|辶玄|Compare 壇→𡊨|No|
-|邏|Replace 維 with 紂|Compare 羅 Reform|No|
+|邏|𨗴|Compare 羅→䍜||
 |邑||||
 |邢||||
 |郊||||
@@ -3521,7 +3521,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鑲|金上|Compare 讓→让|No, 𫒆|
 |鑷|銸|Variant: 類篇 (宋 Song)、重訂直音篇 (明 Ming)||
 |鑹|鋛|||
-|鑼|Replace 維 with 紂|Compare 羅 Reform|No|
+|鑼|金䍜|Compare 羅→䍜|No|
 |鑿|凿|Used in Qing novels||
 |閏||||
 |閘||||
