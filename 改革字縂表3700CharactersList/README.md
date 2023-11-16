@@ -383,7 +383,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |搞||||
 |戰|戦|||
 |火||||
-|羅|䍜|Earlier form||
+|羅|䍜|Earlier form, Applies to all derivatives||
 |至||||
 |萬|万|||
 |聲|声|||
