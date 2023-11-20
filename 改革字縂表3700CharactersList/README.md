@@ -310,7 +310,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |命||||
 |且||||
 |向||Merge 向、嚮 into 向||
-|興|丿㒷|Compare top 丿 in 向、囱|No|
+|興|丿㒷|Retracted 1935 simplification https://glyphwiki.org/wiki/zihai-011405|No|
 |球||||
 |服||||
 |入||||
@@ -445,7 +445,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |論||||
 |飛||||
 |亞||||
-|續|Replace 賣 with 士冖天|Compare 賣 Reform|No|
+|續|Replace 賣 with 士冖天|Retracted 1935 simplification, Compare 賣 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |視||||
 |母||||
 |空||||
@@ -610,7 +610,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |迪||||
 |店||||
 |麗|丽|Variant: 集韻 (宋 Song)||
-|賣|士冖天|Retracted 1935 simplified batch, Applies to all derivatives, https://glyphwiki.org/wiki/twedu-a03968-012|No|
+|賣|士冖天|Retracted 1935 simplification https://glyphwiki.org/wiki/twedu-a03968-012, Applies to all derivatives|No|
 |顯|顕|||
 |監||||
 |圖|图|Derived from 草書||
@@ -819,7 +819,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |詞||||
 |食||||
 |諾||||
-|讀|Replace 賣 with 士冖天|Compare 賣 Reform|No|
+|讀|Replace 賣 with 士冖天|Retracted 1935 simplification https://glyphwiki.org/wiki/u8b80-itaiji-002, Compare 賣 Reform|No|
 |誤|言吴|Variant: 玉篇 (梁 Liang), 吴 not 吳|Unicode might display wrong|
 |撒||||
 |突||||
@@ -1660,7 +1660,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |匾||戶 never 户/戸|Unicode might display wrong|
 |匿||||
 |卑||||
-|卒|卆|||
+|卒|卆|Variant: 敦煌俗字譜, Applies to all derivatives||
 |卓||||
 |占||||
 |卦||||
@@ -3349,7 +3349,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |贊|賛|Merge 贊、讚 into 賛||
 |贍|貝旦||No, 𮙻|
 |贓|賍|||
-|贖|Replace 賣 with 士冖天|Compare 賣 Reform|No|
+|贖|Replace 賣 with 士冖天|Retracted 1935 simplification https://glyphwiki.org/wiki/u2ff0-u8c9d-u2ff3-u58eb-u5196-u5929, Compare 賣 Reform|No|
 |贛|章工|Compare 槓→杠、variant 贑|No|
 |赤||||
 |赦||||
