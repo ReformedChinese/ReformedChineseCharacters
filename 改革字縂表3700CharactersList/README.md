@@ -152,7 +152,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |候||||
 |次||Use Simplified/Japanese Unicode: 冫not 二. Applies to all derivatives|Unicode might display wrong|
 |信||||
-|歡|歓|||
+|歡|芄欠|雚 is variant of 芄|No|
 |正||||
 |實|実|||
 |關|関|||
@@ -445,7 +445,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |論||||
 |飛||||
 |亞||||
-|續|続|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
+|續|Replace 賣 with 士冖天|Compare 賣 Reform|No|
 |視||||
 |母||||
 |空||||
@@ -532,7 +532,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |假|亻㞋||No|
 |永||||
 |維||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|歲|止成 (Vertical)|Applies to all derivatives|No|
+|歲|𡷫|Compare variant 嵗, Applies to all derivatives||
 |據|据|Variant: 集韻 (宋 Song)||
 |派||||
 |票||||
@@ -610,7 +610,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |迪||||
 |店||||
 |麗|丽|Variant: 集韻 (宋 Song)||
-|賣|売|||
+|賣|士冖天|Retracted 1935 simplified batch, Applies to all derivatives, https://glyphwiki.org/wiki/twedu-a03968-012|No|
 |顯|顕|||
 |監||||
 |圖|图|Derived from 草書||
@@ -629,7 +629,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |市||||
 |城||||
 |哇||||
-|權|権|||
+|權|木芄|雚 is variant of 芄|No|
 |某||||
 |激||||
 |立||||
@@ -691,7 +691,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |博||||
 |置||||
 |逃||||
-|觀|観|||
+|觀|芄見|雚 is variant of 芄|No|
 |痛||||
 |狂||||
 |足||||
@@ -819,7 +819,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |詞||||
 |食||||
 |諾||||
-|讀|読|||
+|讀|Replace 賣 with 士冖天|Compare 賣 Reform|No|
 |誤|言吴|Variant: 玉篇 (梁 Liang), 吴 not 吳|Unicode might display wrong|
 |撒||||
 |突||||
@@ -1646,7 +1646,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |募||||
 |勤||Use Traditional/Simplified Unicode 堇: 廿 top component not 艹|Unicode might display wrong|
 |勵|励|||
-|勸|勧|||
+|勸|芄力|雚 is variant of 芄|No|
 |勺||||
 |勻|匀|匀 never 勻, Applies to all derivatives||
 |勾||||
@@ -1821,7 +1821,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |墩||||
 |墮|堕|||
 |墳||||
-|墾|狠土|Variant: 敦煌俗字譜 https://dict.variants.moe.edu.tw/variants/temp_png/2136d.png|No, 𡍭|
+|墾|狠土|Variant: 敦煌俗字譜 https://glyphwiki.org/wiki/u2136d|No, 𡍭|
 |壁||||
 |壇|𡊨|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
 |壕||||
@@ -2396,7 +2396,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |殞|歹匀|Compare 韻→韵, 匀 never 勻|No|
 |殲|歼|||
 |殷||||
-|殼|吉几|Removes sound component 殳, Compare 羣→群、穀 Reform|No|
+|殼|殻 without 殳|Compare 壳, No 一 between 冖 and 几|Unicode might display wrong|
 |殿||||
 |毅||||
 |毆|殴|||
@@ -2549,7 +2549,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |濱|浜|||
 |濺|氵貝戋|戋 never 㦮|No|
 |濾|滤|||
-|瀆|涜|||
+|瀆|Replace 賣 with 士冖天|Compare 賣 Reform|No|
 |瀉|氵㝍||No|
 |瀋|沈|Variant: 集韻 (宋 Song), Merge 沈、瀋 into 沈||
 |瀑||||
@@ -2561,7 +2561,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瀰|弓尔|Merge 彌、瀰 into 弥. 尔 never 尓|Unicode might display wrong|
 |瀲|氵㪘||No, 𭲠|
 |瀾||||
-|灌|潅|||
+|灌|氵芄|雚 is variant of 芄|No|
 |灑|氵丽|Variant: 集韻 (宋 Song)、字彙 (明 Ming)|No, 𣶇|
 |灘|氵歎|Variant: 龍龕手鑑 (遼 Liang)|No, 𤁤|
 |灣|湾|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
@@ -2614,7 +2614,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |爐|火戶|戶 never 户/戸, Compare 所|Unicode might display wrong|
 |爪||||
 |爹||||
-|牘|片売||No|
+|牘|Replace 賣 with 士冖天|Compare 賣 Reform|No|
 |牠||Animal “it”, Don’t confuse with 它 (inanimate object “it”)||
 |牡||||
 |牧||||
@@ -2827,14 +2827,14 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |稠||||
 |稻||||
 |稼||||
-|稽|Replace 旨 with 目|Variant: 漢隸字源 (宋 Song) https://dict.variants.moe.edu.tw/variants/temp_png/f42ad.png|No|
+|稽|Replace 旨 with 目|Variant: 漢隸字源 (宋 Song) https://glyphwiki.org/wiki/u2ff0-u79be-u2ff1-u5c24-u76ee|No|
 |稿||||
-|穀|吉禾|Removes sound component 殳, Compare 羣→群、殼 Reform|No|
+|穀|士冖禾 (Vertical)|Compare 殼 Reform, No 一 between 冖 and 禾|No|
 |穆||||
 |積||||
 |穎||||
 |穗|穂|Variant: 龍龕手鑑 (遼 Liang)、宋元以來俗字譜 (宋 Song、元 Yuan), Compare 惠→恵||
-|穢|Replace 歲 with 止成|Compare 歲 Reform|No|
+|穢|禾𡷫|Compare 歲→𡷫|No|
 |穫|禾芰|Compare 隻→支|No|
 |穴||||
 |窄||||
@@ -2960,7 +2960,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |纖|䊹|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |纜|In 覧 replace 見 with 糸|Compare 攬 Reform, 鍳|No|
 |缸||||
-|罐|𮉸|Compare 歡→歓||
+|罐|缶芄|雚 is variant of 芄|No|
 |罕||||
 |罩||||
 |署||||
@@ -3349,7 +3349,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |贊|賛|Merge 贊、讚 into 賛||
 |贍|貝旦||No, 𮙻|
 |贓|賍|||
-|贖|貝売||No|
+|贖|Replace 賣 with 士冖天|Compare 賣 Reform|No|
 |贛|章工|Compare 槓→杠、variant 贑|No|
 |赤||||
 |赦||||
@@ -3685,7 +3685,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鷗|鴎|||
 |鷹|广鳥|Compare 應→応|No, 𩾦|
 |鸚|Replace 賏 with 𭕄|賏 becomes 𭕄, Compare 櫻→桜|No|
-|鸛|権鳥 without 木|Compare 歡→歓|No|
+|鸛|芄鳥|雚 is variant of 芄|No|
 |鸞|鵉|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
 |鹵|卤|“Salt; halogen”, Don’t confuse with 滷 Reform (“thick cooking sauce; stewed”)||
 |鹹|咸|Merge 咸、鹹 into 咸||
