@@ -102,6 +102,7 @@ Acknowledgements
 - [3500 Commonly Used Modern Chinese Characters List](https://www.digmandarin.com/wp-content/uploads/2020/01/3500-Commonly-Used-Modern-Chinese-Characters-List_traditional.pdf), *DigMandarin*
 - [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl)
 - [Dictionary of Chinese Character Variants 教育部異體字字典](https://dict.variants.moe.edu.tw/)
+- [GlyphWiki](https://glyphwiki.org/wiki/GlyphWiki:メインページ)
 - *Kingdom of Characters: The Language Revolution That Made China Modern*, Jing Tsu
 - [Outlier Linguistics Dictionary of Chinese Characters](https://www.outlier-linguistics.com/products/outlier-dictionary-of-chinese-characters)
 - [Pleco Software](https://www.pleco.com)
