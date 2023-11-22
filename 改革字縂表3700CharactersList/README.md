@@ -854,7 +854,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |戀|恋|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
 |弗||||
 |季||||
-|嚴|𭕄厂言 (Vertical)|Compare 厳. Original meaning: “a lot of words”, 言 becomes sound-meaning component|No|
+|嚴|吅厂火 (Vertical)|火 resembles component in earlier form, https://glyphwiki.org/wiki/eason9000_u56b4-t|No|
 |推||||
 |伯||||
 |莉||||
@@ -1479,7 +1479,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |障||||
 |慈||||
 |仇||||
-|廠|Remove 攵|Very close variant: 宋元以來俗字譜 (宋 Song、元 Yuan), https://glyphwiki.org/wiki/u22252-g|No, 𢉒|
+|廠|广尚|Very close variant: 宋元以來俗字譜 (宋 Song、元 Yuan), https://glyphwiki.org/wiki/u22252-g|No, 𢉒|
 |怨||||
 |遜||||
 |黎||||
@@ -1604,7 +1604,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |冕||||
 |冗||||
 |冤||||
-|冥||Compare 塷、variant 䀋||
+|冥||||
 |冬||||
 |冶||||
 |凌||||
@@ -2075,7 +2075,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |懦||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |懲|惩|||
 |懶|忄束負|負 never 刀貝, Compare 赖|Unicode might display wrong|
-|懸|忄縣 without 系|No 𠃊 protrusion in 縣 left component, Not Simplified nor Shinjitai appearance, https://glyphwiki.org/wiki/u60ac-itaiji-001|No|
+|懸|忄縣 without 系|No 𠃊 protrusion in 縣 left component, Not Simplified nor Shinjitai appearance|No|
 |懺|忏|||
 |懾|㤴|Compare 鑷→銸||
 |戈||||
