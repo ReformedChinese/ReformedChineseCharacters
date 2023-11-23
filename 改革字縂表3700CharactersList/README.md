@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 795 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 796 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -1348,7 +1348,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |霍||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |悔||||
 |暫||||
-|爽||||
+|爽|Replace each 爻 with 㐅|https://glyphwiki.org/wiki/u302dc|No, 𰋜|
 |紮|扎|Compare variant 紥. Merge 扎、紮 into 扎||
 |緒||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |訊||||
@@ -1573,7 +1573,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |傀||||
 |傅||||
 |傍||||
-|傘|Replace 𠈌 with 从|Compare 从 in 坐、來|No|
+|傘|Replace 𠈌 with 从|Compare 从 in 坐、來. https://glyphwiki.org/wiki/u5098-itaiji-003|No|
 |催||||
 |傭|佣|||
 |債||||
