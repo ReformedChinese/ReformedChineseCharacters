@@ -2,7 +2,7 @@ View in [Google Docs](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_
 
 # 改革字 Reformed Chinese Characters
 
-***An in-the-middle alternative to Simplified & Traditional Chinese***
+***A unifying in-the-middle alternative to Simplified & Traditional Chinese***
 
 Quick Links
 ---
