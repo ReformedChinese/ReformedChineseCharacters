@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 796 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 806 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -250,7 +250,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |結||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |利||||
 |朋||||
-|警||||
+|警|儆|Same character, https://glyphwiki.org/wiki/u5106-j|Unicode might display wrong|
 |士||||
 |外||||
 |件||||
@@ -655,7 +655,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |建||||
 |團|団|專 bottom has 寸, Merge 團、糰 into 団||
 |王||||
-|驚||||
+|驚|忄敬|https://glyphwiki.org/wiki/u228a9-jv|No, 𢢩|
 |迎||||
 |段||||
 |標||||
@@ -1966,7 +1966,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |幔||||
 |幟|巾戈|Compare 職→聀, https://glyphwiki.org/wiki/u2ff0-u5dfe-u6208|No|
 |幢||||
-|幣||||
+|幣|比巾 (Vertical)|Compare |→毙, https://glyphwiki.org/wiki/zhenlige_var5e01|No|
 |干||“Shield”, Don't confuse with 乾 “dry”、幹 “to do; f*ck”||
 |幹||“To do; f*ck”, Don't confuse with 乾 “dry”、干 “shield”||
 |幼||||
@@ -1987,7 +1987,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |龐|广竜||No|
 |延||||
 |廷||||
-|弊||||
+|弊|比廾 (Vertical)|Compare |→毙, https://glyphwiki.org/wiki/u30409-u|No, 𰐉|
 |弓||||
 |弛||||
 |弦||||
@@ -2058,7 +2058,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |慷||||
 |憂||||
 |憊|俻心 (Vertical)|https://glyphwiki.org/wiki/u2ff1-u4ffb-u5fc3|No|
-|憋||||
+|憋|比心 (Vertical)|Compare |→毙|No|
 |憎||||
 |憑||||
 |憔||||
@@ -2175,7 +2175,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |摳|抠|||
 |摹||||
 |摻|掺|||
-|撇||||
+|撇|比手 (Vertical)|Compare |→毙、variant 撆|No|
 |撈||||
 |撐|撑|Variant: 字彙 (明 Ming)||
 |撓|扌尭|https://glyphwiki.org/wiki/u6493-itaiji-001|No|
@@ -2193,7 +2193,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |撿|𢮦|||
 |擂||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |擅|扌玄|Compare 壇→𡊨|No, 𢫔|
-|擎||||
+|擎|擏|Variant: 正字通 (明 Ming), https://glyphwiki.org/wiki/u64cf|Unicode might display wrong|
 |擒||||
 |擠|㨈|||
 |擬|Remove 龴疋|Compare 疑 Reform, https://glyphwiki.org/wiki/u22b60|No, 𢭠|
@@ -2218,7 +2218,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |敦||||
 |敷||||
 |斂|㪘|||
-|斃||||
+|||毙|Compare |→毙||
 |斑||||
 |斗||“Dipper”, Don’t confuse with 鬥 “fight”||
 |斜||||
@@ -3143,7 +3143,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蔥|茐|Compare 葱||
 |蔫||||
 |蔬||||
-|蔽||||
+|蔽|芘|Compare |→毙||
 |蕉||||
 |蕊|芯木 (Vertical)|Compare 蘂, 木 never unhooked 朩|No, 𦲜|
 |蕎|艹吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
@@ -3660,7 +3660,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鯽||||
 |鯨||||
 |鰭||||
-|鱉||||
+|鱉|比魚 (Vertical)|Compare |→毙|No|
 |鱗|魿|Compare 憐→怜||
 |鱷|鰐|||
 |鱸|魚戶|戶 never 户/戸, Compare 所|Unicode might display wrong|
