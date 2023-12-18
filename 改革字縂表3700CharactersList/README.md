@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 806 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 808 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -617,7 +617,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |半||||
 |語||||
 |付||||
-|熱||||
+|熱|秇灬|Compare 藝→萟|No|
 |排||||
 |楚||||
 |偷||||
@@ -1036,7 +1036,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |勞||||
 |攻||||
 |忍||Use Traditional Unicode 刃, Applies to all derivatives|Unicode might display wrong|
-|勢||||
+|勢|秇力|Compare 藝→萟|No|
 |尊||||
 |吻||||
 |湯||||
@@ -1057,7 +1057,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |府||||
 |透||||
 |魂||||
-|藝|萟|Variant: 佛教難字字典, Fixes 芸 issue in Japanese||
+|藝|萟|Variant: 佛教難字字典, Compare variant 蓺, Fixes 芸 ambiguity in Japanese||
 |掌||||
 |啥||||
 |升||||
