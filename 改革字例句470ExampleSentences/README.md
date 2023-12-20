@@ -1,7 +1,7 @@
 [View/Comment in Google Docs](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)<br>
 Compiled by 盧豫楷 Zeo Lu
 
-改革字例句 Reformed Chinese ⚫︎ 466 Example Sentences
+改革字例句 Reformed Chinese ⚫︎ 47 Example Sentences
 ---
 改革字 Reformed Chinese<br>
 傳統字 Traditional Chinese<br>
@@ -1474,6 +1474,22 @@ Compiled by 盧豫楷 Zeo Lu
 看来老板感触頗深哪<br>
 看來老闆感觸頗深哪<br>
 看来老板感触颇深哪<br>
+<br>
+他从進站前就這样了，到坐下还是一直這样挙着<br>
+他從進站前就這樣了，到坐下還是一直這樣舉著<br>
+他从进站前就这样了，到坐下还是一直这样举着<br>
+<br>
+這賛数我吓到了<br>
+這讚數我嚇到了<br>
+这赞数我吓到了<br>
+<br>
+她不想当条堿魚<br>
+她不想當條鹹魚<br>
+她不想当条咸鱼<br>
+<br>
+那个𫠗粽冰看起来超消暑的啦<br>
+那個鹼粽冰看起來超消暑的啦<br>
+那个碱粽冰看起来超消暑的啦<br>
 <br>
 応該不是関係企业<br>
 應該不是關係企業<br>
