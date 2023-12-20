@@ -7,7 +7,7 @@ View in [Google Docs](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_
 Quick Links
 ---
 - [改革字縂表 **Reformed Chinese Characters List**](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/): 808 Reforms / 3700 漢字 Hanzi
-- [改革字例句 **466 Example Sentences**](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/) in order of Reformed, Traditional, Simplified
+- [改革字例句 **470 Example Sentences**](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/) in order of Reformed, Traditional, Simplified
 
 Introduction
 ---
@@ -89,7 +89,7 @@ I aimed to keep [Reformed Chinese characters list](https://docs.google.com/sprea
 
 Example Sentences
 ---
-I gathered [466 innocuous example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/) to demonstrate how Reformed looks in practice, placing them next to Traditional and Simplified for comparison. Only characters with Unicode support appear however you are free to reference [Reformed characters list](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/) and <ins>**try yourself**</ins> converting Chinese sentences into Reformed. Do note Reformed’s emphasis on both **beauty** *and* **legibility**.
+I gathered [470 innocuous example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/) to demonstrate how Reformed looks in practice, placing them next to Traditional and Simplified for comparison. Only characters with Unicode support appear however you are free to reference [Reformed characters list](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/) and <ins>**try yourself**</ins> converting Chinese sentences into Reformed. Do note Reformed’s emphasis on both **beauty** *and* **legibility**.
 
 Potential Applications
 ---
