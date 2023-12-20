@@ -1708,7 +1708,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |咨||Merge 咨、諮 into 咨. Use Simplified/Japanese Unicode 次: 冫not 二|Unicode might display wrong|
 |咪||||
 |咳||||
-|咸||Merge 咸、鹹 into 咸||
+|咸||“All”, Don’t confuse with 鹹 Reform “salty”||
 |咽||||
 |哀||||
 |哄||||
@@ -3688,7 +3688,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鸛|芄鳥|雚 is variant of 芄|No|
 |鸞|鵉|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
 |鹵|卤|“Salt; halogen”, Don’t confuse with 滷 Reform (“thick cooking sauce; stewed”)||
-|鹹|咸|Merge 咸、鹹 into 咸||
+|鹹|堿|“Salty”, Don’t confuse with 咸 “all”||
 |鹼|𫠗|||
 |鹽|土卤|Compare 塷、variant 䀋, https://glyphwiki.org/wiki/u2ff0-u571f-u5364|No|
 |鹿||||
