@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 808 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 810 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -15,7 +15,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |這||||
 |一||||
 |他||||
-|麼|庅|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|麼|庅|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |在||||
 |有||||
 |個|个|Variant: 正字通 (明 Ming)||
@@ -270,7 +270,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |證|証|||
 |物||||
 |員||||
-|總|縂|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
+|總|縂|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |噢|口奥|奥 never 奧|Unicode might display wrong|
 |系||Merge 系、繫 into 系, Don’t confuse with 係 “to relate”||
 |幾|几|||
@@ -345,7 +345,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |色||||
 |號|号|||
 |世||||
-|遠|远|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|遠|远|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |片||||
 |官||||
 |口||||
@@ -621,9 +621,9 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |排||||
 |楚||||
 |偷||||
-|敢||Use Traditional/Japanese Unicode: 丅 not 乛 in upper left component like in Kangxi|Unicode might display wrong|
+|敢||Use Traditional/Japanese Unicode: 丅 not 乛 in upper left component like in 康熙 Kangxi|Unicode might display wrong|
 |油||||
-|餐|湌|Variant: 說文 (Han)||
+|餐|湌|Variant: 說文 (東漢 Eastern Han)||
 |破||||
 |杯||||
 |市||||
@@ -674,7 +674,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |引||||
 |擇|択|||
 |疑|Remove 龴疋|Earlier form, Compare 旨, Applies to all derivatives, https://glyphwiki.org/wiki/hkcs_m20915|No, 𠤕|
-|趕||||
+|趕|赶|Unlike 趕, recorded in 說文 Shuowen (東漢 Eastern Han)||
 |倆||||
 |獨|独|||
 |冷||Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
@@ -742,7 +742,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |秘||||
 |奶||||
 |遇||||
-|職|聀|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|職|聀|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |架||||
 |即||||
 |挺||||
@@ -837,7 +837,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |浪||||
 |石||||
 |順||||
-|舉 (擧)|挙|Shinjitai based on Kangxi 擧, 手 emphasizes “lift up”||
+|舉 (擧)|挙|Shinjitai based on 康熙 Kangxi 擧, 手 emphasizes “lift up”||
 |按||||
 |旅||||
 |努||||
@@ -861,7 +861,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |武||||
 |勝||||
 |毛||||
-|壓|厌土 (Vertical)|Compare 靨→靥, Variant: 宋元以來俗字譜 (宋 Song、元 Yuan) https://glyphwiki.org/wiki/u30267-jv|No, 𰉧|
+|壓|厌土 (Vertical)|Compare 靨→靥, Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan) https://glyphwiki.org/wiki/u30267-jv|No, 𰉧|
 |敗||||
 |究||||
 |評||||
@@ -982,7 +982,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |社||||
 |輪||||
 |頂||||
-|聰|聪|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|聰|聪|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |秀||||
 |刀||||
 |莫||||
@@ -1072,7 +1072,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |隱|隐|||
 |附||||
 |搜||||
-|擺|摆|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|擺|摆|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |散||||
 |陽||||
 |協|劦|Earlier form||
@@ -1200,7 +1200,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |例||||
 |財||||
 |瓶||||
-|牆|墙|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|牆|墙|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |拳||||
 |牢||||
 |典||||
@@ -1479,7 +1479,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |障||||
 |慈||||
 |仇||||
-|廠|广尚|Very close variant: 宋元以來俗字譜 (宋 Song、元 Yuan), https://glyphwiki.org/wiki/u22252-g|No, 𢉒|
+|廠|广尚|Very close variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), https://glyphwiki.org/wiki/u22252-g|No, 𢉒|
 |怨||||
 |遜||||
 |黎||||
@@ -1487,7 +1487,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |春||||
 |額||||
 |豆||||
-|罷|罢|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|罷|罢|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |裂||||
 |擋|挡|||
 |偏||戶 never 户/戸|Unicode might display wrong|
@@ -1642,7 +1642,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |勃||||
 |勉||||
 |勘||||
-|勛 (勳)|勳|Kangxi, fancier for “medal; meritorious service”||
+|勛 (勳)|勳|康熙 Kangxi, fancier for “medal; meritorious service”||
 |募||||
 |勤||Use Traditional/Simplified Unicode 堇: 廿 top component not 艹|Unicode might display wrong|
 |勵|励|||
@@ -1823,7 +1823,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |墳||||
 |墾|狠土|Variant: 敦煌俗字譜 https://glyphwiki.org/wiki/u2136d|No, 𡍭|
 |壁||||
-|壇|𡊨|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|壇|𡊨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |壕||||
 |壘|𡊰|Merge 壘、儡 into 𡊰||
 |壙|垙|Compare 擴→挄||
@@ -2821,7 +2821,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |秸||||
 |稀||||
 |稅|税|||
-|稈||||
+|稈|秆|Variant: 干祿字書 (唐 Tang)||
 |稚||||
 |稟||||
 |稠||||
@@ -2833,7 +2833,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |穆||||
 |積||||
 |穎||||
-|穗|穂|Variant: 龍龕手鑑 (遼 Liao)、宋元以來俗字譜 (宋 Song、元 Yuan), Compare 惠→恵||
+|穗|穂|Variant: 龍龕手鑑 (遼 Liao)、宋元以來俗字譜 (since 宋 Song、元 Yuan), Compare 惠→恵||
 |穢|禾𡷫|Compare 歲→𡷫|No|
 |穫|禾芰|Compare 隻→支|No|
 |穴||||
@@ -3353,7 +3353,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |贛|章工|Compare 槓→杠、variant 贑|No|
 |赤||||
 |赦||||
-|赧|赤㞋|Kangxi, Japanese, Korean|Unicode might display wrong|
+|赧|赤㞋|康熙 Kangxi, Japanese, Korean|Unicode might display wrong|
 |赫||||
 |赴||||
 |趁||||
@@ -3434,7 +3434,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |遮||||
 |遴|辶令|Compare 憐→怜. Use Traditional/Simplified Unicode 令 never 令|No, 𮞊|
 |遵||||
-|遷|迁|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|遷|迁|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |遼|Replace 尞 top with 大|Variant: 碑別字新編|No|
 |邂|辶介|Compare 蟹→蚧, https://glyphwiki.org/wiki/u28478-var-001|No, 𨑸|
 |邅|辶玄|Compare 壇→𡊨|No|
@@ -3445,7 +3445,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |郭||||
 |鄂||||
 |鄖|匀阝|Compare 韻→韵, 匀 never 勻|No|
-|鄙|啚|Variant: 說文 (Han)、正字通 (明 Ming)、玉篇 (梁 Liang)、字彙 (明 Ming)||
+|鄙|啚|Variant: 說文 (東漢 Eastern Han)、正字通 (明 Ming)、玉篇 (梁 Liang)、字彙 (明 Ming)||
 |鄧||||
 |鄭||||
 |酌||||
@@ -3547,7 +3547,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |陶||||
 |隅||||
 |隆||Use Traditional/Simplified Unicode: Line above 生|Unicode might display wrong|
-|隋|陏|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan), Merge 隋、隨 into 陏, Traditional when surname||
+|隋|陏|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Merge 隋、隨 into 陏, Traditional when surname||
 |階||||
 |隕|阝匀|Compare 韻→韵, 匀 never 勻|No|
 |隘||||
@@ -3704,4 +3704,4 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |齋|斎|||
 |齒|歯|||
 |齡|齢|Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
-|龜|亀|Variant: 宋元以來俗字譜 (宋 Song、元 Yuan)||
+|龜|亀|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
