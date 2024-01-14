@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 810 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 813 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -1046,7 +1046,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |偶||||
 |熟||||
 |營||呂 never 吕|Unicode might display wrong|
-|蘇||||
+|蘇|䒩|Compare 酥 where 禾 is phonetic abbreviation of 穌. Traditional when surname||
 |爺||||
 |微||Use Traditional Unicode: 儿 at bottom not 几|Unicode might display wrong|
 |埃||||
@@ -1831,7 +1831,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |壤|圵|||
 |壩|垻|Variant: 重訂直音篇 (明 Ming)||
 |壯||||
-|壹||||
+|壹|壱|||
 |壺||||
 |壽|寿|||
 |夕||||
@@ -3328,7 +3328,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |貪||||
 |貫||||
 |貯||||
-|貳||||
+|貳|弍|Ancient form of 二||
 |貶||||
 |貸||||
 |貿||||
