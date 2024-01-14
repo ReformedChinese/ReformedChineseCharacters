@@ -3328,7 +3328,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |貪||||
 |貫||||
 |貯||||
-|貳|弍|Ancient form of 二||
+|貳|弍|Ancient form of 二, Applies to all derivatives||
 |貶||||
 |貸||||
 |貿||||
