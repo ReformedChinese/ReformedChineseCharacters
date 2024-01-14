@@ -784,7 +784,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |苦||||
 |念||Merge 念、唸 into 念||
 |適||||
-|華|艹华|Original form of 花, Vietnamese chữ Hán shorthand, 匕 never 𠤎, Applies to all derivatives, https://glyphwiki.org/wiki/u83ef-itaiji-004|No|
+|華|艹华|花 and 華 share same origin, Vietnamese chữ Hán shorthand, 匕 never 𠤎, Applies to all derivatives, https://glyphwiki.org/wiki/u83ef-itaiji-004|No|
 |衝|㣫|“Charge”, Don't confuse with 沖 (water-related), 彳 originates from 行||
 |騙||戶 never 户/戸|Unicode might display wrong|
 |厭|厌|Compare 壓 Reform, Applies to all derivatives||
