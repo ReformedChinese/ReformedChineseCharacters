@@ -1,7 +1,7 @@
 [View/Comment in Google Docs](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)<br>
 Compiled by 盧豫楷 Zeo Lu
 
-改革字例句 Reformed Chinese ⚫︎ 470 Example Sentences
+改革字例句 Reformed Chinese ⚫︎ 480 Example Sentences
 ---
 改革字 Reformed Chinese<br>
 傳統字 Traditional Chinese<br>
@@ -1878,6 +1878,46 @@ Compiled by 盧豫楷 Zeo Lu
 車身顔色不符会被検挙<br>
 車身顏色不符會被檢舉<br>
 车身颜色不符会被检举<br>
+<br>
+原子邦妮実境体験的一天<br>
+原子邦妮實境體驗的一天<br>
+原子邦妮实境体验的一天<br>
+<br>
+我願意相信大家来是㣫着它好吃<br>
+我願意相信大家來是衝著它好吃<br>
+我愿意相信大家来是冲着它好吃<br>
+<br>
+数学課本裡面出現的那个人<br>
+數學課本裡面出現的那個人<br>
+数学课本里面出现的那个人<br>
+<br>
+明明買的是机場巴士車票，請問単兵該如何処理<br>
+明明買的是機場巴士車票，請問單兵該如何處理<br>
+明明买的是机场巴士车票，请问单兵该如何处理<br>
+<br>
+我寻思這不応該簡単<br>
+我尋思這不應該簡單<br>
+我寻思这应该不简单<br>
+<br>
+小精灵専用脚踏車道<br>
+小精靈專用腳踏車道<br>
+小精灵专用脚踏车道<br>
+<br>
+為什庅是這几支動物畳在一起<br>
+為什麼是這幾隻動物疊在一起<br>
+为什么是这几只动物叠在一起<br>
+<br>
+這莀産品応該很高級<br>
+這農產品應該很高級<br>
+这农产品应该很高级<br>
+<br>
+不知這个号志所指之意為何<br>
+不知這個號誌所指之意為何<br>
+不知这个号志所指之意为何<br>
+<br>
+誰家訂的熊猫，赶快出来取湌吧<br>
+誰家訂的熊貓，趕快出來取餐吧<br>
+谁家订的熊猫，赶快出来取餐吧<br>
 <br>
 我会変成童話裡 你愛的那个天使<br>
 我會變成童話裡 你愛的那個天使<br>
