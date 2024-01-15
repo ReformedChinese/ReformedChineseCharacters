@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 814 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 815 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -2942,7 +2942,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |縱|糸从|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥾺 (Needs appearance fixed)|
 |縷|糸娄|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𫃵 (Needs appearance fixed)|
 |績||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|繁||||
+|繁|緐|Compare variant 䋣||
 |繃|綳|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繚|Replace 尞 top with 大|Compare 嘹 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繞|糸尭|Unhooked Chinese Unicode 糸 left radical never 糹|No|
@@ -3043,7 +3043,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |膝||||
 |膠||||
 |膨||||
-|膩|月弍|Variant: 說文 (東漢 Eastern Han)|No|
+|膩|月弍|Variant: 說文 (東漢 Eastern Han), https://glyphwiki.org/wiki/u81a9-itaiji-001|No|
 |膳||||
 |膺|广月|Compare 應→応|No|
 |膿|月莀|Compare 農→莀|No|
