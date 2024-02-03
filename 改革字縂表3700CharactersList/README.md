@@ -3651,7 +3651,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鬍|胡|Merge 胡、鬍 into 胡||
 |鬚|須|Earlier form, Merge 須、鬚 into 須||
 |鬢|兵彡||No|
-|鬱|林郁 (Vertical)|“Gloomy; luxuriant”, Don’t confuse with 郁 “fragrant”|No|
+|鬱|林勹玉 (Vertical)|“Gloomy; luxuriant”, Don’t confuse with 郁 “fragrant”, https://glyphwiki.org/wiki/u31908|No, 𱤈|
 |魁||||
 |魄||||
 |魅||||
