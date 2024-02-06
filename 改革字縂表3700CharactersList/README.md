@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 820 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 825 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -279,7 +279,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |處|処|||
 |辦|辛力|辛 appears like 辛 in 辣|No|
 |主||||
-|氣||||
+|氣|气火 (Vertical)|Variant: 字彙補 (清 Qing)|No, 𣱛|
 |每||||
 |少||||
 |切||||
@@ -906,7 +906,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |尋|寻|||
 |質||||
 |供||||
-|獎||||
+|獎|爿大|Compare 醬、漿 Reforms. Simplified & Shinjitai derived from 奬|No|
 |袋||||
 |胡||Merge 胡、鬍 into 胡||
 |臟|脏|||
@@ -2354,7 +2354,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |榴||||
 |槐||||
 |槓|杠|||
-|槳||||
+|槳|牀|Compare 醬、漿 Reforms||
 |槽||||
 |樁||||
 |樊|棥|||
@@ -2516,7 +2516,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |漲||||
 |漸||||
 |漾|𣴎|Compare 樣→样, Moves氵below 羊 to differentiate from 洋||
-|漿||||
+|漿|爿水|Variant: 說文 (東漢 Eastern Han)、玉篇 (梁 Liang), https://glyphwiki.org/wiki/u2456f|No, 𤕯|
 |潑|氵癶矢|https://glyphwiki.org/wiki/u23e8d|No, 𣺍|
 |潘||||
 |潟|氵与|Compare 寫→㝍, Simplified 与 Unicode not Shinjitai|No|
@@ -3459,7 +3459,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |醇||||
 |醋||||
 |醞|醖|昷 never 𥁕||
-|醬||||
+|醬|爿酉|Variant: 說文 (東漢 Eastern Han)、玉篇 (梁 Liang), https://glyphwiki.org/wiki/u287fb-g|No, 𨟻|
 |釀|酉上|https://glyphwiki.org/wiki/zihai-137213|No|
 |釁|衅|Variant: 玉篇 (梁 Liang)、集韻 (宋 Song)||
 |采||||
