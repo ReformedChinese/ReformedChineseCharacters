@@ -1772,6 +1772,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |噪||||
 |噸||||
 |嚎||||
+|嚏|㖒|||
 |嚨|𠺠|口竜|Most likely doesn't support|
 |嚮|向|Merge 向、嚮 into 向||
 |嚷|口上|https://glyphwiki.org/wiki/u20bb5|No, 𠮵|
@@ -2537,7 +2538,6 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |澧|氵匕|Compare 禮 Reform|No|
 |澱||||
 |澳|氵奥|奥 never 奧|Unicode might display wrong|
-|澾|汏|Compare 達→达||
 |濁|浊|||
 |濃|氵莀|Compare 農→莀|No|
 |澀 (澁)|氵肯|Variant: 龍龕手鑑 (遼 Liao)、重訂直音篇 (明 Ming), https://glyphwiki.org/wiki/twedu-a02360-015|No|
