@@ -279,7 +279,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |處|処|||
 |辦|辛力|辛 appears like 辛 in 辣|No|
 |主||||
-|氣|气火 (Vertical)|Variant: 字彙補 (清 Qing)|No, 𣱛|
+|氣|气火 (Vertical)|Variant: 字彙補 (清 Qing), Compare variant 炁, https://glyphwiki.org/wiki/u23c5b|No, 𣱛|
 |每||||
 |少||||
 |切||||
@@ -1332,7 +1332,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |尺||Use Simplified/Shinjitai Unicode, not Traditional. Compare 尺 in 訳|Unicode might display wrong|
 |愉||||
 |序||||
-|鼠||||
+|鼠|丿鼡 (Vertical)|Applies to all derivatives, https://glyphwiki.org/wiki/u24506-t|No, 𤔆|
 |幕||||
 |踢||||
 |憾||||
@@ -2849,7 +2849,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |窯||||
 |窺||||
 |窿||||
-|竄||||
+|竄|穴丿鼡 (Vertical)|Compare 鼠 Reform|No|
 |竅|窍|||
 |竊|窃|||
 |竣||||
