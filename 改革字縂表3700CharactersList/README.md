@@ -1584,7 +1584,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |僚|Replace 尞 top with 大|Variant: 碑別字新編, https://glyphwiki.org/wiki/u50da-itaiji-001|No|
 |僥|亻尭|https://glyphwiki.org/wiki/u50e5-itaiji-001|No|
 |僧||||
-|僵|亻姜|Don’t confuse with 殭 like in 殭屍 jiangshi|No, 𠋄|
+|僵|亻姜|Compare 薑→姜、Don’t confuse with 殭 like in 殭屍 jiangshi|No, 𠋄|
 |僻||||
 |億||||
 |儉|倹|||
@@ -2689,7 +2689,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |番||||
 |畸||||
 |畿|田几 (Horizontal)||No|
-|疆|土姜|Compare variant 壃|No|
+|疆|土姜|Compare 薑→姜、variant 壃|No|
 |疇|畴|||
 |疊|畳|||
 |疏||||
@@ -3579,7 +3579,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鞠||||
 |鞦|秋|Merge 秋、鞦 into 秋||
 |鞭||||
-|韁|糸姜|Compare variant 繮, Unhooked Chinese Unicode 糸 left radical never 糹|No|
+|韁|糸姜|Compare 薑→姜、variant 繮, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |韃|革大|Compare 達→达|No|
 |韆|千|Merge 千、韆 into 千||
 |韉|鞯|Compare 薦→荐||
