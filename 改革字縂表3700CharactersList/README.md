@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 828 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 823 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -80,7 +80,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |如||||
 |家||||
 |後||“After”, Don't confuse with 后 "empress"||
-|兒|皃|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Applies to all derivatives||
+|兒||||
 |多||||
 |意||||
 |別||||
@@ -279,7 +279,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |處|処|||
 |辦|辛力|辛 appears like 辛 in 辣|No|
 |主||||
-|氣|气火 (Vertical)|Variant: 字彙補 (清 Qing), Compare variant 炁, https://glyphwiki.org/wiki/u23c5b|No, 𣱛|
+|氣||||
 |每||||
 |少||||
 |切||||
@@ -1332,7 +1332,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |尺||Use Simplified/Shinjitai Unicode, not Traditional. Compare 尺 in 訳|Unicode might display wrong|
 |愉||||
 |序||||
-|鼠|丿鼡 (Vertical)|Applies to all derivatives, https://glyphwiki.org/wiki/u24506-t|No, 𤔆|
+|鼠||||
 |幕||||
 |踢||||
 |憾||||
@@ -1567,7 +1567,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |倚||||
 |倡||||
 |倦||||
-|倪|亻皃|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)|No, 𬾐|
+|倪||||
 |偎||||
 |側||||
 |偽||||
@@ -2849,7 +2849,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |窯||||
 |窺||||
 |窿||||
-|竄|穴丿鼡 (Vertical)|Compare 鼠 Reform|No|
+|竄||||
 |竅|窍|||
 |竊|窃|||
 |竣||||
