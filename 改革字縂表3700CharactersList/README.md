@@ -2383,7 +2383,6 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |櫺|棂|Compare 靈→灵||
 |櫻|桜|||
 |欄||||
-|欒|栾|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
 |欖|臣𠂉一木|Compare 攬 Reform、鍳|No|
 |欣||||
 |欽||||
@@ -2490,7 +2489,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |湧|涌|Compare 踴→踊||
 |溉||||
 |滋||||
-|溜||||
+|溜||Merge 溜、瀏 into 溜||
 |溝|沟|||
 |溢||||
 |溪||||
@@ -2553,6 +2552,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瀆|Replace 賣 with 士冖天|Compare 賣 Reform, https://glyphwiki.org/wiki/u6d9c-itaiji-001|No|
 |瀉|氵㝍||No|
 |瀋|沈|Variant: 集韻 (宋 Song), Merge 沈、瀋 into 沈||
+|瀏|溜|Merge 溜、瀏 into 溜||
 |瀑||||
 |瀕||||
 |瀛|溋|Compare 贏 Reform||
