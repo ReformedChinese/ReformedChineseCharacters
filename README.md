@@ -77,7 +77,7 @@ I aimed to keep [Reformed Chinese characters list](https://docs.google.com/sprea
 - 尔 never 尓
 - 昷 never 𥁕
 - 木 never unhooked 朩
-- 負 never vertical 刀貝
+- 負 never ⿱刀貝
 - 内 never 內
 - 彦 never 彥
 - 産 never 產
