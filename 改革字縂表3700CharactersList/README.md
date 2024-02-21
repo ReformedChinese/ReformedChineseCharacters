@@ -542,7 +542,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |取||||
 |遊||“To play”, Don’t confuse with 游 “swim”||
 |糟||||
-|令||Use Traditional/Simplified Unicode 令 never 令. Applies to all derivatives|Unicode might display wrong|
+|令||Use Traditional Unicode 令 never 令. Applies to all derivatives|Unicode might display wrong|
 |隨|陏|Merge 隋、隨 into 陏||
 |五||||
 |聖||||
@@ -677,7 +677,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |趕|赶|Unlike 趕, recorded in 說文 Shuowen (東漢 Eastern Han)||
 |倆||||
 |獨|独|||
-|冷||Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
+|冷||Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |妹||||
 |樓|楼|||
 |皮||||
@@ -731,7 +731,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |洗||||
 |政||||
 |迷||||
-|領||Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
+|領||Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |午||||
 |納|糸内|Unhooked Chinese Unicode 糸 left radical never 糹, 内 never 內|Unicode might display wrong|
 |謊||||
@@ -1090,7 +1090,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |痴 (癡)||||
 |富||||
 |降||||
-|憐|怜|Variant: 集韻 (宋 Song)、正字通 (明 Ming). Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
+|憐|怜|Variant: 集韻 (宋 Song)、正字通 (明 Ming). Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |既||||
 |織|糸戈|Compare 職→聀, Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥾮 (Needs appearance fixed)|
 |執||||
@@ -1537,7 +1537,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |伏||||
 |伐||||
 |伙||伙 for person, 夥 for “many”||
-|伶||Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
+|伶||Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |伸||||
 |伺||||
 |佃||||
@@ -2649,7 +2649,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |玉||||
 |玖||||
 |玫||||
-|玲||Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
+|玲||Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |玷||||
 |玻||||
 |珊||||
@@ -2973,7 +2973,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |羽||||
 |翁||||
 |翅||||
-|翎||Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
+|翎||Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |翔||||
 |翠|翆|||
 |翩||戶 never 户/戸|Unicode might display wrong|
@@ -3188,7 +3188,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蛀||||
 |蛆||||
 |蛇||||
-|蛉||Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
+|蛉||Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |蛔||||
 |蛙||||
 |蛛||||
@@ -3432,7 +3432,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |遞|递|Variant: 龍龕手鑑 (遼 Liao)||
 |遣||||
 |遮||||
-|遴|辶令|Compare 憐→怜. Use Traditional/Simplified Unicode 令 never 令|No, 𮞊|
+|遴|辶令|Compare 憐→怜. Use Traditional Unicode 令 never 令|No, 𮞊|
 |遵||||
 |遷|迁|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |遼|Replace 尞 top with 大|Variant: 碑別字新編|No|
@@ -3473,7 +3473,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鈕||||
 |鈞|金匀|匀 never 勻|Unicode might display wrong|
 |鈣||||
-|鈴||Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
+|鈴||Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |鉀||||
 |鉗||||
 |鉚||||
@@ -3692,7 +3692,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鹼|𫠗|||
 |鹽|土卤|Compare 塷、variant 䀋, https://glyphwiki.org/wiki/u2ff0-u571f-u5364|No|
 |鹿||||
-|麟|鹿令|Compare 憐→怜. Use Traditional/Simplified Unicode 令 never 令|No|
+|麟|鹿令|Compare 憐→怜. Use Traditional Unicode 令 never 令|No|
 |麩|麸 (Elongate 麦)|Use Shinjitai Unicode|Unicode might display wrong|
 |麵|麺 (Elongate 麦）|Use Shinjitai Unicode|Unicode might display wrong|
 |黍||||
@@ -3703,5 +3703,5 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |齊|斉|Traditional when surname||
 |齋|斎|||
 |齒|歯|||
-|齡|齢|Use Traditional/Simplified Unicode 令 never 令|Unicode might display wrong|
+|齡|齢|Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |龜|亀|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
