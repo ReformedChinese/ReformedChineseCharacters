@@ -562,7 +562,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |唱||||
 |答||||
 |倒||||
-|劃|画刂|Use Simplified Unicode 画 not Shinjitai, https://glyphwiki.org/wiki/zihai-005409|No, 㓰 (Needs appearance fixed)|
+|劃|画刂|Use Simplified Unicode 画 not Shinjitai, https://glyphwiki.org/wiki/u34f0-var-002|No, 㓰 (Needs appearance fixed)|
 |控||||
 |味||||
 |區|区|||
