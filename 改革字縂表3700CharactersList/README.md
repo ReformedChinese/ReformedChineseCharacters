@@ -187,7 +187,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |美||||
 |於||||
 |帶|Replace top with 艹||No|
-|今||||
+|今||Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |力||||
 |工||||
 |許||||
@@ -782,7 +782,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |甚||E.g. 甚至, Don’t confuse with 什 e.g. 什庅||
 |糕||||
 |苦||||
-|念||Merge 念、唸 into 念||
+|念||Merge 念、唸 into 念, Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |適||||
 |華|艹华|花 and 華 share same origin, Vietnamese chữ Hán shorthand, 匕 never 𠤎, Applies to all derivatives, https://glyphwiki.org/wiki/u83ef-itaiji-004|No|
 |衝|㣫|“Charge”, Don't confuse with 沖 (water-related), 彳 originates from 行||
@@ -1584,7 +1584,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |僚|Replace 尞 top with 大|Variant: 碑別字新編, https://glyphwiki.org/wiki/u50da-itaiji-001|No|
 |僥|亻尭|https://glyphwiki.org/wiki/u50e5-itaiji-001|No|
 |僧||||
-|僵|亻姜|Compare 薑→姜、Don’t confuse with 殭 like in 殭屍 jiangshi|No, 𠋄|
+|僵|亻姜|Compare 薑→姜, Don’t confuse with 殭 like in 殭屍 jiangshi|No, 𠋄|
 |僻||||
 |億||||
 |儉|倹|||
@@ -1686,10 +1686,10 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |君||||
 |吝||||
 |吞||||
-|吟||||
+|吟||Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |吠||||
 |吩||||
-|含||||
+|含||Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |吭||||
 |吮||||
 |吱||||
@@ -1728,7 +1728,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |唐||||
 |唧||||
 |唬||||
-|唸|念|Merge 念、唸 into 念||
+|唸|念|Merge 念、唸 into 念, Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |唾||||
 |啃||||
 |啄||||
@@ -2657,7 +2657,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |琉||||
 |琅||||
 |琢||||
-|琴||||
+|琴||Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |瑟||||
 |瑣||||
 |瑤|王爫缶|Compare 搖→摇, Use Simplified Unicode right component, https://glyphwiki.org/wiki/u7476-g|Unicode might display wrong|
@@ -3325,7 +3325,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |貢||||
 |貧||||
 |販||||
-|貪||||
+|貪||Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |貫||||
 |貯||||
 |貳|弍|Ancient form of 二, Applies to all derivatives||
@@ -3651,7 +3651,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鬍|胡|Merge 胡、鬍 into 胡||
 |鬚|須|Earlier form, Merge 須、鬚 into 須||
 |鬢|兵彡||No|
-|鬱|林勹玉 (Vertical)|“Gloomy; luxuriant”, Don’t confuse with 郁 “fragrant”, https://glyphwiki.org/wiki/u31908|No, 𱤈|
+|鬱|林勹玉 (Vertical)|“Gloomy; luxuriant”, Don’t confuse with 郁 “fragrant”, https://glyphwiki.org/wiki/u31908|No, |
 |魁||||
 |魄||||
 |魅||||
@@ -3696,7 +3696,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |麩|麸 (Elongate 麦)|Use Shinjitai Unicode|Unicode might display wrong|
 |麵|麺 (Elongate 麦）|Use Shinjitai Unicode|Unicode might display wrong|
 |黍||||
-|黔||||
+|黔||Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |黴|霉|||
 |鼎||||
 |鼾|Remove 田 in 鼻|Compare 鼻 Reform (no 田)|No|
