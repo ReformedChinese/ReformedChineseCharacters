@@ -376,12 +376,12 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |內|内|内 never 內, Applies to all derivatives||
 |運||||
 |根||||
-|單|単|単 never 单, Applies to all derivatives||
+|單|单|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), 单 never 単, Applies to all derivatives||
 |寶|宝|||
 |哥||||
 |張||||
 |搞||||
-|戰|戦|||
+|戰|单戈|Variant: 四聲篇海 (金 Jin), 单 never 単 https://glyphwiki.org/wiki/u229d0-g|No, 𢧐|
 |火||||
 |羅|䍜|Earlier form, Applies to all derivatives||
 |至||||
@@ -579,7 +579,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |組||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |滿||||
 |造||||
-|彈|弾|単 never 单||
+|彈|弹|单 never 単||
 |靜|静|||
 |故||||
 |吸||Use Simplified/Japanese Unicode 及|Unicode might display wrong|
@@ -1460,7 +1460,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |爬||||
 |挖||||
 |驕|馬吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
-|獸|獣|||
+|獸|兽犬|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan) https://glyphwiki.org/wiki/u7363-ue0102|No|
 |嫁||||
 |潔|洁|||
 |晨||||
@@ -2182,7 +2182,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |撐|撑|Variant: 字彙 (明 Ming)||
 |撓|扌尭|https://glyphwiki.org/wiki/u6493-itaiji-001|No|
 |撕||||
-|撣|扌単|単 never 单, https://glyphwiki.org/wiki/u63b8-jv|No|
+|撣|扌单|单 never 単, https://glyphwiki.org/wiki/u63b8-g|Unicode might display wrong|
 |撥|扌癶矢|https://glyphwiki.org/wiki/u22c95|No, 𢲕|
 |撩|Replace 尞 top with 大|Compare 嘹 Reform|No|
 |撫||||
@@ -2806,7 +2806,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |祭||||
 |禍||||
 |禦|御|Merge 御、禦 into 御||
-|禪|礻単|単 never 单|Unicode might display wrong|
+|禪|礻单|单 never 単|Unicode might display wrong|
 |禰|礻尔|尔 never 尓|Unicode might display wrong|
 |禽||||
 |禾||||
@@ -3224,7 +3224,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蟀||||
 |蟆||||
 |蟋||||
-|蟬|虫単|単 never 单|Unicode might display wrong|
+|蟬|虫单|单 never 単|Unicode might display wrong|
 |蟹|蚧|Cantonese shorthand||
 |蟻|虫䒑我|Compare 義 Reform|No|
 |蟾|䖧|Compare 擔→担||
@@ -3534,7 +3534,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |闆|板|Historical substitute for 闆, Merge 板、闆 into 板||
 |闊||||
 |闖||||
-|闡|門単|単 never 单, https://glyphwiki.org/wiki/u2ff5-u9580-u5358|No|
+|闡|門单|单 never 単, https://glyphwiki.org/wiki/u2ff5-u9580-u5355|No|
 |闢|辟|Variant: 增廣字學舉隅, Merge 辟、闢 into 辟||
 |阱||||
 |陋||||
