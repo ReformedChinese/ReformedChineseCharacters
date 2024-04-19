@@ -106,6 +106,7 @@ Acknowledgements
 - [Dictionary of Chinese Character Variants 教育部異體字字典](https://dict.variants.moe.edu.tw/)
 - [GlyphWiki 字形維基](https://glyphwiki.org/wiki/GlyphWiki:メインページ)
 - *Kingdom of Characters: The Language Revolution That Made China Modern*, Jing Tsu
+- *Long Story of Short Forms: Simplified Chinese Characters from A to Z*, Roar Bökset
 - [Outlier Linguistics Dictionary of Chinese Characters](https://www.outlier-linguistics.com/products/outlier-dictionary-of-chinese-characters)
 - [Pleco Software](https://www.pleco.com)
 - [Wiktionary 維基詞典](https://en.wiktionary.org/)
