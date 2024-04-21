@@ -2948,7 +2948,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |繚|Replace 尞 top with 大|Compare 嘹 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繞|糸尭|Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繡|綉|Variant: 正字通 (明 Ming), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|繩|縄|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
+|繩|䋲|Variant: 增廣字學舉隅, Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繪|絵|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繫|系|Merge 系、繫 into 系||
 |繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𬗌 (Needs appearance fixed)|
@@ -3228,7 +3228,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蟹|蚧|Cantonese shorthand||
 |蟻|虫䒑我|Compare 義 Reform|No|
 |蟾|䖧|Compare 擔→担||
-|蠅|蝿|||
+|蠅|虫黾|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan) https://glyphwiki.org/wiki/u8747-g|Unicode might display wrong|
 |蠕||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |蠟|蛚|Compare 獵 Reform (犭列)||
 |蠶|蚕|||
