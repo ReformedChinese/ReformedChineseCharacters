@@ -2566,7 +2566,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |灑|氵丽|Variant: 集韻 (宋 Song)、字彙 (明 Ming) https://glyphwiki.org/wiki/u23d87|No, 𣶇|
 |灘|氵歎|Variant: 龍龕手鑑 (遼 Liao) https://glyphwiki.org/wiki/u24064|No, 𤁤|
 |灣|湾|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
-|灩 (灧)|滟|Compare 豔→艳, 丰 appears like 丰 in 邦|Unicode might display wrong|
+|灩 (灧)|氵丰色|Compare 豔→艳, 丰 appears like 丰 in 邦|No, 滟 (Needs appearance fixed)|
 |灶||||
 |灸||||
 |灼||||
@@ -3316,7 +3316,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |豌||||
 |豎|竪|Variant: 玉篇 (梁 Liang)、金石文字辨異 (清 Qing)||
 |豐|Remove 豆|Compare 幽、豳. Ideogram: mountain full of lush plants. 丰 when left component like in 邦 https://glyphwiki.org/wiki/u20073-var-001|No, 𠁳 (Needs appearance fixed)|
-|豔 (艷)|艳||Unicode might display wrong|
+|豔 (艷)|丰色|丰 appears like 丰 in 邦 https://glyphwiki.org/wiki/u8273-var-101|No, 艳 (Needs appearance fixed)|
 |豫||||
 |豹||||
 |豺||||
