@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 824 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 826 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -493,7 +493,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |混||||
 |便||||
 |狗||||
-|腦||||
+|腦|Replace 囟 with 山|Variant: 玉篇 (梁 Liang) https://glyphwiki.org/wiki/u266c1|No, 𦛁|
 |業|业|||
 |歌||||
 |精||||
@@ -819,7 +819,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |詞||||
 |食||||
 |諾||||
-|讀|Replace 賣 with 士冖天|Retracted 1935 simplification https://glyphwiki.org/wiki/u8b80-itaiji-002, Compare 賣 Reform|No|
+|讀|Replace 賣 with 士冖天|Retracted 1935 simplification https://glyphwiki.org/wiki/u8b80-itaiji-002, Compare 賣Reform|No|
 |誤|言吴|Variant: 玉篇 (梁 Liang), 吴 not 吳, https://glyphwiki.org/wiki/u8aa4-g|Unicode might display wrong|
 |撒||||
 |突||||
@@ -2043,7 +2043,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |惠|恵|Variant: 隸辨 (清 Qing), Applies to all derivatives, Compare 專→専||
 |惦||||
 |惰|㤢|||
-|惱||||
+|惱|Replace 囟 with 山|Variant: 集韻 (宋 Song) https://glyphwiki.org/wiki/u60a9|No, 𢙉|
 |惶||||
 |愁||||
 |愆|Replace 衍 with 彳水|Compare 衍 Reform|No|
@@ -2566,7 +2566,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |灑|氵丽|Variant: 集韻 (宋 Song)、字彙 (明 Ming) https://glyphwiki.org/wiki/u23d87|No, 𣶇|
 |灘|氵歎|Variant: 龍龕手鑑 (遼 Liao) https://glyphwiki.org/wiki/u24064|No, 𤁤|
 |灣|湾|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
-|灩 (灧)|滟|Compare 豔→艳||
+|灩 (灧)|滟|Compare 豔→艳, 丰 appears like 丰 in 邦|Unicode might display wrong|
 |灶||||
 |灸||||
 |灼||||
@@ -2611,7 +2611,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |燭|烛|||
 |燮|亦火 (Vertical)|Compare 戀→恋、variant 爕, https://glyphwiki.org/wiki/u2dd22|No, 𭴢|
 |燼|烬|||
-|爍|Left: 火 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
+|爍|Left: 火 Right: 幺木(Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
 |爐|火戶|戶 never 户/戸, Compare 所|Unicode might display wrong|
 |爪||||
 |爹||||
@@ -2797,7 +2797,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |礎||||
 |礙|碍|||
 |礦|硄|Compare 擴→挄||
-|礫|Left: 石 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
+|礫|Left: 石 Right: 幺木(Vertical)|Compare 樂 Reform, Use Traditional/Simplified Unicode 幺|No|
 |礬|矾|||
 |祂||||
 |祟||||
@@ -2870,7 +2870,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |箏|筝|||
 |箕||||
 |箭||||
-|篆|Replace 彑 with 彐|Variant: 集韻 (宋 Song)、四聲篇海 (金 Jin)、重訂直音篇 (明 Ming), Compare 緣→縁, 彐 never 彑, https://glyphwiki.org/wiki/u7bc6-var-001|No|
+|篆|Replace 彑 with 彐|Variant: 集韻 (宋 Song)、四聲篇海 (金 Jin)、重訂直音篇 (明 Ming), Compare 緣→縁, 彐never 彑, https://glyphwiki.org/wiki/u7bc6-var-001|No|
 |篇||戶 never 户/戸|Unicode might display wrong|
 |築|筑|Earlier form||
 |篙||||
@@ -3315,8 +3315,8 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |豈||||
 |豌||||
 |豎|竪|Variant: 玉篇 (梁 Liang)、金石文字辨異 (清 Qing)||
-|豐|Remove 豆|Compare 幽、豳. Ideogram: mountain full of lush plants. 丰 when left component e.g. 艷→艳, https://glyphwiki.org/wiki/u20073-var-001|No, 𠁳 (Needs appearance fixed)|
-|豔 (艷)|艳|||
+|豐|Remove 豆|Compare 幽、豳. Ideogram: mountain full of lush plants. 丰 when left component like in 邦 https://glyphwiki.org/wiki/u20073-var-001|No, 𠁳 (Needs appearance fixed)|
+|豔 (艷)|艳||Unicode might display wrong|
 |豫||||
 |豹||||
 |豺||||
