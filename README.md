@@ -53,7 +53,7 @@ I aimed to keep [Reformed Chinese characters list](https://docs.google.com/sprea
 
 - ⻌ never ⻎
 - Unhooked Chinese Unicode 糸 when left-side radical never 糹
-<img src="https://github.com/ReformedChinese/ReformedChineseCharacters/blob/main/LeftsideRadical糸.png" width=15% height=15%>
+<img src="https://github.com/ReformedChinese/ReformedChineseCharacters/blob/main/LeftsideRadical糸.png" width=20% height=20%>
 
 - 言 top component is always 亠 never 二
 - 艹 is always one connecting 一 stroke
