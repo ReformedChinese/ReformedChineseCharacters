@@ -493,7 +493,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |混||||
 |便||||
 |狗||||
-|腦|Replace 囟 with 山|Variant: 玉篇 (梁 Liang) https://glyphwiki.org/wiki/u266c1|No, 𦛁|
+|腦|Replace 囟 with 山|Variant: 玉篇 (梁 Liang) https://glyphwiki.org/wiki/hkcs_m266c1|No, 𦛁|
 |業|业|||
 |歌||||
 |精||||
@@ -2043,7 +2043,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |惠|恵|Variant: 隸辨 (清 Qing), Applies to all derivatives, Compare 專→専||
 |惦||||
 |惰|㤢|||
-|惱|Replace 囟 with 山|Variant: 集韻 (宋 Song) https://glyphwiki.org/wiki/u60a9|No, 𢙉|
+|惱|Replace 囟 with 山|Variant: 集韻 (宋 Song) https://glyphwiki.org/wiki/hkcs_m22649|No, 𢙉|
 |惶||||
 |愁||||
 |愆|Replace 衍 with 彳水|Compare 衍 Reform|No|
