@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 826 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 827 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -688,7 +688,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |斷|断|||
 |設||||
 |鬆|松|Merge 松、鬆 into 松||
-|博||||
+|博||Use Traditional/Simplified Unicode 尃|Unicode might display wrong|
 |置||||
 |逃||||
 |觀|芄見|雚 is variant of 芄|No|
@@ -1572,7 +1572,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |側||||
 |偽||||
 |傀||||
-|傅||||
+|傅||Use Traditional/Simplified Unicode 尃|Unicode might display wrong|
 |傍||||
 |傘|Replace 𠈌 with 从|Compare 从 in 坐、來. https://glyphwiki.org/wiki/u5098-itaiji-003|No|
 |催||||
@@ -2165,7 +2165,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |揪||||
 |揭||||
 |搋|挮|Compare 遞→递||
-|搏||||
+|搏||Use Traditional/Simplified Unicode 尃|Unicode might display wrong|
 |搓||||
 |搔||||
 |搗||||
@@ -2882,7 +2882,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |簫|簘|||
 |簸||||
 |簾|帘|Homophone & similar meaning||
-|簿||||
+|簿||Use Traditional/Simplified Unicode 尃|Unicode might display wrong|
 |籃||||
 |籌|筹|||
 |籍||||
@@ -2936,7 +2936,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |緬||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |緯||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |縐|䋓|Variant: 四聲篇海 (金 Jin), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|縛||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
+|縛||Use Traditional/Simplified Unicode 尃, Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |縣|Remove 系|Only left component, No 𠃊 protrusion, not Simplified nor Shinjitai appearance, https://glyphwiki.org/wiki/u770c-var-002|No|
 |縫|綘|Variant: 漢隸字源 (宋 Song)、集韻 (宋 Song), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |縮||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
@@ -3035,7 +3035,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |腹||||
 |腺||||
 |膀||||
-|膊||||
+|膊||Use Traditional/Simplified Unicode 尃|Unicode might display wrong|
 |膏|Remove bottom 口|Variant: 偏類碑別字, Compare 毫 but replace 毛 with 月, https://glyphwiki.org/wiki/u2e314-tv|No|
 |膘||||
 |膚|虍月|Compare 慮→虑、虜→虏|No|
@@ -3151,7 +3151,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蕪||||
 |蕭|䔥|Traditional when surname||
 |蕾||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
-|薄||||
+|薄||Use Traditional/Simplified Unicode 尃|Unicode might display wrong|
 |薇||Use Traditional Unicode: 儿 at bottom not 几|Unicode might display wrong|
 |薑|姜|||
 |薔|蔷|Compare 嗇→啬||
@@ -3565,7 +3565,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |霎||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |霜||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |霞|雨㞋|Use Simplified/Japanese Unicode: ⻗ top component|No|
-|霧||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
+|霧|雺|Variant: 五經文字 (唐 Tang)、玉篇 (梁 Liang)、集韻 (宋 Song), Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |霸||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |霹||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |靂|雨歴|Use Simplified/Japanese Unicode: ⻗ top component|No, 𮦷|
