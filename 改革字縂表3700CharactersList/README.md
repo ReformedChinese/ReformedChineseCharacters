@@ -96,7 +96,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |心||||
 |走||||
 |定||||
-|聽|耳志|Removes sound components 𡈼、罒|No|
+|聽|耳𢛳|一 above 心 https://glyphwiki.org/wiki/u265df|No, 𦗟|
 |覺|覚|||
 |太||||
 |該||||
@@ -290,7 +290,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |必||||
 |備|俻|Variant: 玉篇 (梁 Liang)||
 |合||||
-|德|彳志|Compare 聽 Reform, https://glyphwiki.org/wiki/u2aacd|No, 𪫍|
+|德||一 above 心||
 |隊||||
 |試||||
 |抱||||
