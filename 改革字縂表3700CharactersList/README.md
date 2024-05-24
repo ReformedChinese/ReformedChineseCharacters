@@ -586,7 +586,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |餵||||
 |集||||
 |極||||
-|講|訽|冓 & 句 (gōu) are near homophones, 句 becomes meaning component too (“speak a sentence”)||
+|講|言勾|Compare 構→构|No|
 |塊||||
 |趣||||
 |類||||
@@ -3478,7 +3478,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鉗||||
 |鉚||||
 |鉛||||
-|鉤|鈎|勾 originates from 句, 勾 is much more associated with hooks today||
+|鉤|勾|勾/句 originally meant “crooked, curvy”||
 |銅||||
 |銑||||
 |銘||||
