@@ -1650,7 +1650,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |勸|芄力|雚 is variant of 芄|No|
 |勺||||
 |勻|匀|匀 never 勻, Applies to all derivatives||
-|勾||||
+|勾||Merge 勾、鉤 into 勾||
 |勿||||
 |匈||||
 |匕||||
@@ -3478,7 +3478,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鉗||||
 |鉚||||
 |鉛||||
-|鉤|勾|勾/句 originally meant “crooked, curvy”||
+|鉤|勾|勾/句 originally meant “crooked, curvy”, Merge 勾、鉤 into 勾||
 |銅||||
 |銑||||
 |銘||||
