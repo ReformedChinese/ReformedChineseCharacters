@@ -712,7 +712,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |模||||
 |驗|験|||
 |索||||
-|街|徍|彳 originates from 行||
+|街|彳介|彳 originates from 行|No|
 |呼||||
 |祝||||
 |料||||
