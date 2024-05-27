@@ -2069,7 +2069,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |憩||||
 |憫||||
 |憲||||
-|懇|狠心 (Vertical)|Variant: 龍龕手鏡 (遼 Liao) https://dict.variants.moe.edu.tw/variants/temp_png/f21bb.png|No|
+|懇|狠心 (Vertical)|Variant: 龍龕手鏡 (遼 Liao) https://dict.variants.moe.edu.tw/dictView.jsp?ID=16053|No|
 |懈|忦|Compare 蟹→蚧||
 |懊|忄奥|奥 never 奧|Unicode might display wrong|
 |懞||“Sincere”, Don’t confuse with 蒙 “to cover; suffer”、濛 “drizzling”、矇 “to deceive”||
@@ -2214,6 +2214,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |攢|攅|||
 |攤|擹|Variant: 集韻 (宋 Song)||
 |攪|撹|||
+|攫|扌具|Compare 懼→惧, https://glyphwiki.org/wiki/u22bad-jv|No|
 |攬|臣𠂉一手|Compare 鍳、variant 擥, https://glyphwiki.org/wiki/u2ff1-cdp-8cc9-u624b|No|
 |敘|叙|||
 |敞||||
@@ -2557,10 +2558,9 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瀕||||
 |瀛|溋|Compare 贏 Reform||
 |瀝|𤁋|||
-|瀡|氵陏|Compare variant https://dict.variants.moe.edu.tw/variants/temp_png/f7ef2.png||
+|瀡|氵陏|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=62557||
 |瀧|滝|||
 |瀰|弓尔|Merge 彌、瀰 into 弥. 尔 never 尓|Unicode might display wrong|
-|瀲|氵㪘|https://glyphwiki.org/wiki/u2dca0|No, 𭲠|
 |瀾||||
 |灌|氵芄|雚 is variant of 芄|No|
 |灑|氵丽|Variant: 集韻 (宋 Song)、字彙 (明 Ming) https://glyphwiki.org/wiki/u23d87|No, 𣶇|
@@ -2948,7 +2948,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |繚|Replace 尞 top with 大|Compare 嘹 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繞|糸尭|Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繡|綉|Variant: 正字通 (明 Ming), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|繩|䋲|Variant: 增廣字學舉隅, Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
+|繩|No 一 in top 田 of 縄|Compare 蠅 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繪|絵|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繫|系|Merge 系、繫 into 系||
 |繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𬗌 (Needs appearance fixed)|
@@ -3168,7 +3168,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蘆|艹戶|戶 never 户/戸|Unicode might display wrong|
 |蘊|藴|||
 |蘋|苹|平 association is good||
-|蘑|艹庅|Compare variant https://dict.variants.moe.edu.tw/variants/temp_png/f52eb.png|No|
+|蘑|艹庅|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=39133|No|
 |蘸||||
 |蘿|艹䍜|Compare 羅→䍜|No|
 |虎||||
@@ -3228,7 +3228,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蟹|蚧|Cantonese shorthand||
 |蟻|虫䒑我|Compare 義 Reform|No|
 |蟾|䖧|Compare 擔→担||
-|蠅|虫黾|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan) https://glyphwiki.org/wiki/u8747-g|Unicode might display wrong|
+|蠅|No 一 in top 田 of 蝿|Variant: 重訂直音篇 (明 Ming), https://dict.variants.moe.edu.tw/dictView.jsp?ID=40093|No|
 |蠕||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |蠟|蛚|Compare 獵 Reform (犭列)||
 |蠶|蚕|||
@@ -3642,7 +3642,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |驟|馬取乑|Use Simplified Unicode 聚, https://glyphwiki.org/wiki/aj1-14267|Unicode might display wrong|
 |驢|馬戶|戶 never 户/戸, Compare 所|Unicode might display wrong|
 |髒|骨庄|Replaces sound component 葬 with 藏 which is replaced with 庄|No|
-|髓|骨有|Compare variant https://dict.variants.moe.edu.tw/variants/temp_png/4bdd.png|No|
+|髓|骨有|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=51668|No|
 |髡|兀彡 (Elongate 兀)|Elongate 兀 like 兀 in 尫, Compare 髦→毝|No|
 |髦|毝|||
 |髮|犮彡 (Elongate 犮)|Elongate 犮 like 虎 in 彪, Compare 髦→毝, Use Simplified/Japanese Unicode 犮|No|
@@ -3704,4 +3704,4 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |齋|斎|||
 |齒|歯|||
 |齡|齢|Use Traditional Unicode 令 never 令|Unicode might display wrong|
-|龜|亀|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
+|龜|No 一 in top 田 of 亀|Variant: 金瓶梅詞話 (明 Ming), https://glyphwiki.org/wiki/u2ffb-u20ba5-u7535|No|
