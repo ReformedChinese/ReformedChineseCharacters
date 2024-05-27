@@ -1410,7 +1410,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |零||Use Simplified Unicode 零 not Traditional/Japanese|Unicode might display wrong|
 |診||||
 |噓|嘘|||
-|懼|惧|||
+|懼|惧|Variant: 字學三正 (明 Ming)||
 |拯||||
 |痕||||
 |批||||
@@ -2214,7 +2214,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |攢|攅|||
 |攤|擹|Variant: 集韻 (宋 Song)||
 |攪|撹|||
-|攫|扌具|Compare 懼→惧, https://glyphwiki.org/wiki/u22bad-jv|No|
+|攫|惧|扌具, Compare 懼→惧, https://glyphwiki.org/wiki/u22bad-jv|Most likely doesn't support|
 |攬|臣𠂉一手|Compare 鍳、variant 擥, https://glyphwiki.org/wiki/u2ff1-cdp-8cc9-u624b|No|
 |敘|叙|||
 |敞||||
@@ -3704,4 +3704,4 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |齋|斎|||
 |齒|歯|||
 |齡|齢|Use Traditional Unicode 令 never 令|Unicode might display wrong|
-|龜|No 一 in top 田 of 亀|Variant: 金瓶梅詞話 (明 Ming), https://glyphwiki.org/wiki/u2ffb-u20ba5-u7535|No|
+|龜|No 一 in top 田 of 亀|Variant: 金瓶梅詞話 (明 Ming), https://glyphwiki.org/wiki/u2ffb-u20ba5-u7535-var-003|No|
