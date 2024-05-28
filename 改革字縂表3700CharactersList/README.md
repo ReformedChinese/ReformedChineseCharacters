@@ -2269,7 +2269,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |曙||||
 |曜||||
 |曠|晄|Compare 擴→挄||
-|曦|日䒑我|Compare 義 Reform、variant 㬢|No|
+|曦|日兮||No|
 |曹||||
 |朦||||
 |朧|月竜|https://glyphwiki.org/wiki/u2ac68|No, 𪱨|
@@ -2623,7 +2623,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |牽|亠丷冖牛|Compare 旁 but replace 方 with 牛|No|
 |犁||||
 |犀|尸牛|Variant: 龍龕手鑑 (遼 Liao)、重訂直音篇 (明 Ming) https://glyphwiki.org/wiki/u30828|No, 𰠨|
-|犧|牛䒑我|Compare 義 Reform、variant 犠|No|
+|犧|牛兮|https://glyphwiki.org/wiki/u72a7-itaiji-001|No|
 |犬||||
 |狐||||
 |狠||||
