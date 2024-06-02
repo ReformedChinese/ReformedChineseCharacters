@@ -58,7 +58,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |也||||
 |和||||
 |下||||
-|真||||
+|真||Use Traditional/Simplified Unicode 真|Unicode might display wrong|
 |現||||
 |做||||
 |大||||
@@ -930,7 +930,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |挑||||
 |姑||||
 |爆||||
-|鎮||||
+|鎮||Use Traditional/Simplified Unicode 真|Unicode might display wrong|
 |暴||||
 |困||||
 |項||||
@@ -1813,7 +1813,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |塘||||
 |塚||Use Traditional Unicode: 豖 not 豕|Unicode might display wrong|
 |塢||||
-|填||||
+|填||Use Traditional/Simplified Unicode 真|Unicode might display wrong|
 |塵||||
 |墅||||
 |墉|土用|Compare 傭→佣, https://glyphwiki.org/wiki/u212a4|No, 𡊤|
@@ -2051,7 +2051,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |慨||||
 |愧||||
 |慌||||
-|慎||||
+|慎||Use Traditional/Simplified Unicode 真|Unicode might display wrong|
 |慕||||
 |慚||||
 |慧||||
@@ -3597,7 +3597,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |頰|頬|Variant: 龍龕手鑑 (遼 Liao)||
 |頸|頚|||
 |頹||||
-|顛||||
+|顛||Use Traditional/Simplified Unicode 真|Unicode might display wrong|
 |顫|玄頁|Compare 壇→𡊨|No, 𩑹|
 |顱|戶頁|戶 never 户/戸, Compare 所|No|
 |颯||||
