@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 826 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 824 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -1109,7 +1109,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |掛||||
 |旁||||
 |勇||||
-|鑰|錀|||
+|鑰|鈅|||
 |悲||||
 |婦||||
 |圈||||
@@ -2093,7 +2093,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |扛||||
 |扣||||
 |扭||||
-|扳||Merge 扳、攀 into 扳||
+|扳||||
 |扶||||
 |扼||||
 |抄||||
@@ -2179,7 +2179,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |摻|掺|||
 |撇|比手 (Vertical)|Compare 斃→毙、variant 撆|No|
 |撈||||
-|撐|撑|Variant: 字彙 (明 Ming)||
+|撐||||
 |撓|扌尭|https://glyphwiki.org/wiki/u6493-itaiji-001|No|
 |撕||||
 |撣|扌单|单 never 単, https://glyphwiki.org/wiki/u63b8-g|Unicode might display wrong|
@@ -2203,7 +2203,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |擱||||
 |擲||||
 |擴|挄|Variant: 字彙 (明 Ming)||
-|攀|扳|Variant: 玉篇 (梁 Liang), Merge 扳、攀 into 扳||
+|攀|扌凡||No|
 |攆||||
 |攏|𢲣|扌竜|Most likely doesn't support|
 |攔||||
@@ -2214,7 +2214,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |攢|攅|||
 |攤|擹|Variant: 集韻 (宋 Song)||
 |攪|撹|||
-|攫|惧|扌具, Compare 懼→惧, https://glyphwiki.org/wiki/u22bad-jv|Most likely doesn't support|
+|攫|𢮭|扌具, Compare 懼→惧, https://glyphwiki.org/wiki/u22bad-jv|Most likely doesn't support|
 |攬|臣𠂉一手|Compare 鍳、variant 擥, https://glyphwiki.org/wiki/u2ff1-cdp-8cc9-u624b|No|
 |敘|叙|||
 |敞||||
@@ -2359,7 +2359,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |槳|牀|Compare 醬、漿 Reforms||
 |槽||||
 |樁||||
-|樊|棥|||
+|樊||||
 |樞|枢|||
 |樟||||
 |樸|木业|Compare 業→业、variant 檏|No|
@@ -2382,7 +2382,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |櫃|樻|||
 |櫥|木𢊍|Dot above 厨 component|No|
 |櫺|棂|Compare 靈→灵||
-|櫻|桜|||
+|櫻|Replace 賏 with 巛|https://glyphwiki.org/wiki/u2ff0-u6728-u2bc0a|No|
 |欄||||
 |欖|臣𠂉一木|Compare 攬 Reform、鍳|No|
 |欣||||
@@ -2668,7 +2668,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |璉|瑓|||
 |璧||||
 |璽|王尔 (Horizontal)|尔 never 尓|Unicode might display wrong|
-|瓊|𤧶|||
+|瓊|王穹||No|
 |瓢||||
 |瓣|辛瓜|辛 appears like 辛 in 辣|No|
 |瓤|上瓜||No|
@@ -2828,7 +2828,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |稠||||
 |稻||||
 |稼||||
-|稽|Replace 旨 with 目|Variant: 漢隸字源 (宋 Song) https://glyphwiki.org/wiki/u2ff0-u79be-u2ff1-u5c24-u76ee|No|
+|稽|Replace 旨 with 日|Variant: 碑別字新編, https://glyphwiki.org/wiki/u2ff0-u79be-u2ff1-u5c24-u65e5|No|
 |稿||||
 |穀|士冖禾 (Vertical)|Compare 殼 Reform, No 一 between 冖 and 禾, https://glyphwiki.org/wiki/u257a4-var-001|No|
 |穆||||
@@ -2890,7 +2890,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |籤|⺮千|“Label; bamboo slip”, Don't confuse with 簽 Reform (⺮㑒) “to sign”, https://glyphwiki.org/wiki/u2ff1-u7af9-u5343|No|
 |籬|筣|Variant: 字彙 (明 Ming)||
 |籮|⺮䍜|Compare 羅→䍜|No|
-|籲|侖頁|Compare variant 龥|No|
+|籲|䐓|Compare variant 龥, 鑰→鈅||
 |籽||||
 |粒||||
 |粗||||
@@ -2957,7 +2957,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |繽|糸兵|Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繾|Remove 辶|Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |纏|糸㢆|Compare 缠, Unhooked Chinese Unicode 糸 left radical never 糹|No|
-|纓|䋝|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
+|纓|Replace 賏 with 巛|Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u2ff0-u7cf8-u2bc0a|No|
 |纖|䊹|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |纜|臣𠂉一糸|Compare 攬 Reform, 鍳|No|
 |缸||||
@@ -3232,7 +3232,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蠕||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |蠟|蛚|Compare 獵 Reform (犭列)||
 |蠶|蚕|||
-|蠹|螙|Variant: 玉篇 (梁 Liang)||
+|蠹|士冖虫 (Vertical)|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=40225|No|
 |蠻|蛮|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
 |衍|彳水|彳 originates from 行|No|
 |衙|彳吾|彳 originates from 行, https://glyphwiki.org/wiki/u224f2|No, 𢓲|
@@ -3684,7 +3684,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鶴||||
 |鷗|鴎|||
 |鷹|广鳥|Compare 應→応, https://glyphwiki.org/wiki/u29fa6|No, 𩾦|
-|鸚|Replace 賏 with 𭕄|賏 becomes 𭕄, Compare 櫻→桜, https://glyphwiki.org/wiki/u2ff0-u302f7-u9ce5|No|
+|鸚|Replace 賏 with 巛||No|
 |鸛|芄鳥|雚 is variant of 芄|No|
 |鸞|鵉|Use Shinjitai Unicode 亦 not Simplified, Compare 奕、変|Unicode might display wrong|
 |鹵|卤|“Salt; halogen”, Don’t confuse with 滷 Reform (“thick cooking sauce; stewed”)||
