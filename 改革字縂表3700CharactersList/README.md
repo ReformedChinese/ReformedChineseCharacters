@@ -1459,7 +1459,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |載||||
 |爬||||
 |挖||||
-|驕|馬吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
+|驕|馬吞|吞 is graphical shorthand for sound component 喬|No|
 |獸|兽犬|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan) https://glyphwiki.org/wiki/u7363-ue0102|No|
 |嫁||||
 |潔|洁|||
@@ -1579,7 +1579,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |傭|佣|||
 |債||||
 |傾||||
-|僑|亻吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
+|僑|亻吞|吞 is graphical shorthand for sound component 喬|No|
 |僕|亻业|Compare 業→业、variant 㒒|No|
 |僚|Replace 尞 top with 大|Variant: 碑別字新編, https://glyphwiki.org/wiki/u50da-itaiji-001|No|
 |僥|亻尭|https://glyphwiki.org/wiki/u50e5-itaiji-001|No|
@@ -1883,7 +1883,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嫡||||
 |嫩||||
 |嬉||||
-|嬌|女吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
+|嬌|女吞|吞 is graphical shorthand for sound component 喬|No|
 |嬤|女庅|Compare 麼→庅|No|
 |嬰|Replace 賏 with 巛|Compare 桜, Prevents mix-up with 妥, Applies to all derivatives, https://glyphwiki.org/wiki/u2bc0a|No, 𫰊|
 |嬸|妉|Compare 瀋→沈||
@@ -2366,7 +2366,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |樺|Replace 華 with 艹华|Compare 華 Reform, Use Traditional/Japanese Unicode 化: 匕 never 𠤎|No|
 |橄||||
 |橇|枆|||
-|橋|木吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
+|橋|木吞|吞 is graphical shorthand for sound component 喬|No|
 |橐|士冖石 (Vertical)|槖 without 木, https://glyphwiki.org/wiki/u2545f|No, 𥑟|
 |橘||||
 |橙||||
@@ -2765,7 +2765,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |矢||||
 |矩||||
 |矮||||
-|矯|矢吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
+|矯|矢吞|吞 is graphical shorthand for sound component 喬|No|
 |矽||||
 |泵||||
 |砂||||
@@ -3146,7 +3146,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蔽|芘|Compare 斃→毙||
 |蕉||||
 |蕊|芯木 (Vertical)|Compare 蘂, 木 never unhooked 朩|No, 𦲜|
-|蕎|艹吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
+|蕎|艹吞|吞 is graphical shorthand for sound component 喬|No|
 |蕩||||
 |蕪||||
 |蕭|䔥|Traditional when surname||
@@ -3402,7 +3402,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |轄||||
 |轅|䡇|Compare 遠→远||
 |轍||||
-|轎|車吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
+|轎|車吞|吞 is graphical shorthand for sound component 喬|No|
 |轟||||
 |轡|𦀺|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |辜||||
