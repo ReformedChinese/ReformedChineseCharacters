@@ -261,7 +261,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |希||||
 |查||||
 |拉||||
-|邊|辺|臱 bottom contains 刀, Ideogram resembles edge of knife||
+|邊|辺|Variant: 彙音寶鑑||
 |或||||
 |將||||
 |男||||
