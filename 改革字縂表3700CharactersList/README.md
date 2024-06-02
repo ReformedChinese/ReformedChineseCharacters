@@ -1885,7 +1885,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嬉||||
 |嬌|女吞|Top component 呑 is variant of 吞, 喬 is sound component|No|
 |嬤|女庅|Compare 麼→庅|No|
-|嬰|Replace 賏 with 𭕄|Compare 櫻→桜, https://glyphwiki.org/wiki/u302f7|No, 𰋷|
+|嬰|Replace 賏 with 巛|Compare 桜, Prevents mix-up with 妥, Applies to all derivatives, https://glyphwiki.org/wiki/u2bc0a|No, 𫰊|
 |嬸|妉|Compare 瀋→沈||
 |孔||||
 |孝||||
