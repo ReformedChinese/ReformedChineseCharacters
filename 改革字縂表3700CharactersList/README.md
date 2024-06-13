@@ -416,7 +416,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |願||||
 |象||||
 |影||||
-|擊|撃|Variant: 五經文字 (唐 Tang)||
+|擊|車凵 (Vertical)|Compare 聲→声, https://glyphwiki.org/wiki/u282a5-g|No, 𨊥|
 |使||||
 |二||||
 |喝||||
