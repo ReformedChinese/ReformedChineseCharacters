@@ -277,7 +277,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |管||||
 |玩||||
 |處|処|||
-|辦|辛力|辛 appears like 辛 in 辣|No|
+|辦|弁力||No|
 |主||||
 |氣||||
 |每||||
@@ -1301,7 +1301,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |掃||||
 |核||||
 |損|抣|Compare 韻→韵, 匀 never 勻|Unicode might display wrong|
-|辯|䛨|||
+|辯|言弁|https://glyphwiki.org/wiki/u2c8a2|No, 𬢢|
 |慣||||
 |傲||||
 |減||||
@@ -2670,7 +2670,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |璽|王尔 (Horizontal)|尔 never 尓|Unicode might display wrong|
 |瓊|王穹||No|
 |瓢||||
-|瓣|辛瓜|辛 appears like 辛 in 辣|No|
+|瓣|弁瓜||No|
 |瓤|上瓜||No|
 |瓷||Use Simplified/Japanese Unicode 次: 冫not 二|Unicode might display wrong|
 |甕|瓮|||
@@ -3407,8 +3407,8 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |轡|𦀺|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |辜||||
 |辟||Merge 辟、闢 into 辟||
-|辨|辛刂|辛 appears like 辛 in 辣|No|
-|辮|糸辛|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𦀓 (Needs appearance fixed)|
+|辨|弁刂||No|
+|辮|糸弁|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥿋 (Needs appearance fixed)|
 |辰||||
 |辱||||
 |巡||||
