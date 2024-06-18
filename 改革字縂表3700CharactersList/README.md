@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 824 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 825 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -250,7 +250,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |結||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |利||||
 |朋||||
-|警|儆|Same character, https://glyphwiki.org/wiki/u5106-j|Unicode might display wrong|
+|警|言苟|https://glyphwiki.org/wiki/u2ff0-u8a00-u82df|No|
 |士||||
 |外||||
 |件||||
@@ -655,7 +655,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |建||||
 |團|団|專 bottom has 寸, Merge 團、糰 into 団||
 |王||||
-|驚|忄敬|https://glyphwiki.org/wiki/u228a9-jv|No, 𢢩|
+|驚|馬苟||No|
 |迎||||
 |段||||
 |標||||
@@ -2195,7 +2195,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |撿|𢮦|||
 |擂||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |擅|扌玄|Compare 壇→𡊨|No, 𢫔|
-|擎|擏|Variant: 正字通 (明 Ming), https://glyphwiki.org/wiki/u64cf|Unicode might display wrong|
+|擎|扌苟|https://glyphwiki.org/wiki/u2bf5a|No, 𫽚|
 |擒||||
 |擠|㨈|||
 |擬|Remove 龴疋|Compare 疑 Reform, https://glyphwiki.org/wiki/u22b60|No, 𢭠|
@@ -2849,7 +2849,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |窯||||
 |窺||||
 |窿||||
-|竄||||
+|竄|穴虫|Replaces mouse with snake/worm/insect, https://glyphwiki.org/wiki/u27274|No, 𧉴|
 |竅|窍|||
 |竊|窃|||
 |竣||||
@@ -3407,7 +3407,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |轡|𦀺|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |辜||||
 |辟||Merge 辟、闢 into 辟||
-|辨|弁刂||No|
+|辨|弁刂|https://glyphwiki.org/wiki/u2ff0-u5f01-u5202|No|
 |辮|糸弁|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥿋 (Needs appearance fixed)|
 |辰||||
 |辱||||
