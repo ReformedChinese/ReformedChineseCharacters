@@ -2558,7 +2558,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瀕||||
 |瀛|溋|Compare 贏 Reform||
 |瀝|𤁋|||
-|瀡|氵陏|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=62557||
+|瀡|氵陏|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=62557|No|
 |瀧|滝|||
 |瀰|弓尔|Merge 彌、瀰 into 弥. 尔 never 尓|Unicode might display wrong|
 |瀾||||
@@ -3166,7 +3166,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |藹||||
 |藻||||
 |蘆|艹戶|戶 never 户/戸|Unicode might display wrong|
-|蘊|藴|||
+|蘊|藴|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |蘋|苹|平 association is good||
 |蘑|艹庅|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=39133|No|
 |蘸||||
@@ -3621,7 +3621,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |饒|𩜙|||
 |饗|餉|Merge 餉、饗 into 餉||
 |饞|食馋 without饣|https://glyphwiki.org/wiki/u2974e-var-002|No, 𩝎|
-|馨|䅽|Variant: 字彙補 (清 Qing)||
+|馨|声香 (Horizontal)||No|
 |馮||||
 |馱||||
 |馳||||
