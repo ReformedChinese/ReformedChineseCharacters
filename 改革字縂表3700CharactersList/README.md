@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 825 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 828 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -403,7 +403,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |您||||
 |送||||
 |怕||||
-|護|言芰|Compare 隻→支|No|
+|護|言芰|Compare 隻→支, https://glyphwiki.org/wiki/sunayama_gokanji-001|No|
 |度||||
 |花||Use Japanese Unicode 化|Unicode might display wrong|
 |節||||
@@ -876,7 +876,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蠢|𡗗虫|https://glyphwiki.org/wiki/u2727e|No, 𧉾|
 |丈||||
 |守||||
-|獲|犭芰|Compare 隻→支|No|
+|獲|犭芰|Compare 隻→支, https://glyphwiki.org/wiki/sunayama_gokanji-008|No|
 |八||||
 |致||||
 |細||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
@@ -1795,7 +1795,6 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |坡||||
 |坤||||
 |坪||||
-|坯||||
 |坷||||
 |垂||||
 |垛||||
@@ -1825,7 +1824,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |墳||||
 |墾|狠土|Variant: 敦煌俗字譜 https://glyphwiki.org/wiki/u2136d|No, 𡍭|
 |壁||||
-|壇|𡊨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
+|壇|𡊨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Don’t confuse with 罈 “earthen jar”||
 |壕||||
 |壘|𡊰|Merge 壘、儡 into 𡊰||
 |壙|垙|Compare 擴→挄||
@@ -2523,7 +2522,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |潟|氵与|Compare 寫→㝍, Simplified 与 Unicode not Japanese|No|
 |潤||||
 |潦|Replace 尞 top with 大|Compare 嘹 Reform|No|
-|潭||||
+|潭|氵昙|Compare 罈 Reform|No|
 |潮||||
 |潰||||
 |澄||||
@@ -2961,6 +2960,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |纖|䊹|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |纜|臣𠂉一糸|Compare 攬 Reform, 鍳|No|
 |缸||||
+|罈|缶昙|Compare variant 罎, 曇→昙|No|
 |罐|缶芄|雚 is variant of 芄|No|
 |罕||||
 |罩||||
@@ -3304,7 +3304,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |謬||||
 |謹||Use Chinese Unicode 堇: 廿 top component not 艹|Unicode might display wrong|
 |譏|言几|https://glyphwiki.org/wiki/u2e5f8-var-001|No, 𮗸|
-|譚||||
+|譚|言昙|Compare 罈 Reform, Traditional when surname|No|
 |譜||||
 |譬||||
 |譯|訳|||
