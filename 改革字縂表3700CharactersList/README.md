@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 828 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 831 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -304,7 +304,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |門||||
 |害||||
 |歉||||
-|選||||
+|選|辶⺄共|Variant: 藍立蓂．劉知遠諸宮調校注．第一, https://glyphwiki.org/wiki/u284df-var-001|No, 𨓟|
 |嗨||||
 |房||戶 never 户/戸|Unicode might display wrong|
 |命||||
@@ -1958,6 +1958,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |巢||||
 |巫||||
 |巷||||
+|巽|⺄共 (Vertical)|Compare 選 Reform, Applies to all derivatives|No|
 |巾||||
 |帆||||
 |帖||||
@@ -2187,7 +2188,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |撫||||
 |撬|㧌|||
 |撮||||
-|撰||||
+|撰|扌⺄共|Compare 選 Reform|No|
 |撲|扌业|Compare 業→业、variant 擈, https://glyphwiki.org/wiki/u2d819|No, 𭠙|
 |撻|扌大|Compare 達→达, https://glyphwiki.org/wiki/u22a82|No, 𢪂|
 |撼||||
@@ -3376,7 +3377,6 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |踴|踊|||
 |蹂||||
 |蹄||||
-|蹋||||
 |蹟|跡|Merge 跡、蹟 into 跡||
 |蹦|𨂃|Compare 繃→綳||
 |蹬||||
