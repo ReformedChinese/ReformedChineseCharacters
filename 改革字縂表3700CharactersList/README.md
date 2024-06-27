@@ -906,7 +906,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |尋|寻|||
 |質||||
 |供||||
-|獎|爿太|Compare 醬、漿 Reforms. 太 distinguishes from 狀. Can interpret as “reward given to greatest” instead of dog|No|
+|獎|爿寸|Compare 醬、漿 Reforms、variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=27313|No|
 |袋||||
 |胡||Merge 胡、鬍 into 胡||
 |臟|脏|||
