@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 831 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 837 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -502,7 +502,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |卻|却|||
 |參|参|||
 |院||||
-|務||||
+|務|敄|力 was added later to emphasize meaning||
 |基||||
 |臺|台|Merge 台、颱、臺、檯 into 台||
 |另||||
@@ -896,7 +896,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |遺||||
 |判||||
 |響|音向 (Horizontal)|Compare 响|No|
-|網||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
+|網|罔|糸 was added later to emphasize meaning||
 |箱||||
 |貨||Use Japanese Unicode 化|Unicode might display wrong|
 |圍|囲|四聲篇海 (Jin)||
@@ -1048,7 +1048,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |營||呂 never 吕|Unicode might display wrong|
 |蘇|䒩|Compare 酥 where 禾 is phonetic abbreviation of 穌. Traditional when surname||
 |爺||||
-|微||Use Traditional Unicode: 儿 at bottom not 几|Unicode might display wrong|
+|微|Remove 攵|Compare 徵 Reform, Use Traditional Unicode: 儿 at bottom not 几|No|
 |埃||||
 |抽||||
 |蓋|葢|Variant: 字鑑 (元 Yuan). Compare 盍→盇||
@@ -1364,7 +1364,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |帽||||
 |杜||||
 |豪||||
-|徵||“Assemble; prove”, Don’t confuse with 征 “journey”||
+|徵|Remove 攵|攵 was added later, 王 not 𡈼/壬, “Assemble; prove”, Don’t confuse with 征 “journey”|No|
 |括||||
 |盯||||
 |穩|稳|||
@@ -2010,7 +2010,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |徘||||
 |徙||||
 |循||||
-|徽||||
+|徽|Remove 攵|Compare 徵 Reform|No|
 |忌||||
 |忱||||
 |忽||||
@@ -3153,7 +3153,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蕭|䔥|Traditional when surname||
 |蕾||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |薄||Use Simplified Unicode 尃|Unicode might display wrong|
-|薇||Use Traditional Unicode: 儿 at bottom not 几|Unicode might display wrong|
+|薇|Remove 攵|Compare 微 Reform. Use Traditional Unicode: 儿 at bottom not 几|No|
 |薑|姜|||
 |薔|蔷|Compare 嗇→啬||
 |薛||||
