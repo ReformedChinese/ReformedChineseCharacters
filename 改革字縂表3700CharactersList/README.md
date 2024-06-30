@@ -1949,8 +1949,8 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嵐||||
 |嶄||||
 |嶇|岖|||
-|嶙|岭|Merge 嶙、嶺 into 岭||
-|嶺|岭|Merge 嶙、嶺 into 岭||
+|嶙|岭|Compare 憐→怜||
+|嶺|岺|Variant of 岭||
 |嶼|屿|Simplified 与 Unicode not Japanese||
 |巍||||
 |巒|峦|亦 appears like in 奕|Unicode might display wrong|
