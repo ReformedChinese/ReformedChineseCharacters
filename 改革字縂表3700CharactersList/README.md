@@ -896,7 +896,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |遺||||
 |判||||
 |響|音向 (Horizontal)|Compare 响|No|
-|網|罔|糸 was added later to emphasize meaning||
+|網|罔|Variant: 玉篇 (梁 Liang)、字彙 (明 Ming)、金石文字辨異 (清 Qing), Earlier form||
 |箱||||
 |貨||Use Japanese Unicode 化|Unicode might display wrong|
 |圍|囲|四聲篇海 (Jin)||
