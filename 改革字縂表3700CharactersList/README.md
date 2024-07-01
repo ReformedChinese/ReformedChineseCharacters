@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 837 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 838 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -1950,10 +1950,11 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嶄||||
 |嶇|岖|||
 |嶙|岭|Compare 憐→怜||
-|嶺|岺|Variant of 岭||
+|嶺|阾|Variant: 玉篇零卷 (梁 Liang)||
 |嶼|屿|Simplified 与 Unicode not Japanese||
 |巍||||
 |巒|峦|亦 appears like in 奕|Unicode might display wrong|
+|巔|嵮|Variant: 字彙 (明 Ming), Use Chinese Unicode 真|Unicode might display wrong|
 |川||||
 |巢||||
 |巫||||
@@ -2004,7 +2005,6 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |彰||||
 |役||||
 |征||“Journey”, Don’t confuse with 徵 “assemble; prove”||
-|徊||||
 |徐||||
 |徑|彳圣|圣 never 经 right component, Use Japanese Unicode not Simplified|Unicode might display wrong|
 |徘||||
