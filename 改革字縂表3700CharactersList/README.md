@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 838 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 833 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -78,7 +78,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |隻|支|Merge 隻、支、classifier 枝 into 支, Don't confuse with 只 "only"||
 |些||||
 |如||||
-|家||||
+|家||Merge 家、傢 into 家||
 |後||“After”, Don't confuse with 后 "empress"||
 |兒||||
 |多||||
@@ -89,7 +89,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |小||||
 |自||||
 |回||Merge 回、迴 into 回||
-|然|Remove dot in 犬|Removes reference to dog meat. Applies to all derivatives|No|
+|然||||
 |果||||
 |發|癶矢|Variants contain 矢 “arrow”, Retains original “shooting” meaning, https://glyphwiki.org/wiki/u24f29|No, 𤼩|
 |見||||
@@ -1109,7 +1109,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |掛||||
 |旁||||
 |勇||||
-|鑰|鈅|||
+|鑰|𨥤|||
 |悲||||
 |婦||||
 |圈||||
@@ -1162,7 +1162,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |補||||
 |徒||||
 |稍||||
-|搖|摇|||
+|搖||䍃 top is 夕丶like in 然 never 爫 https://glyphwiki.org/wiki/u6416||
 |躲||||
 |窗 (窻)|穴囱|Simplified Unicode 囱 (夂 inside not 夕) never 囪, https://glyphwiki.org/wiki/u7a97-g|Unicode might display wrong|
 |源||||
@@ -1575,6 +1575,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |傅||Use Simplified Unicode 尃|Unicode might display wrong|
 |傍||||
 |傘|Replace 𠈌 with 从|Compare 从 in 坐、來. https://glyphwiki.org/wiki/u5098-itaiji-003|No|
+|傢|家|Merge 家、傢 into 家||
 |催||||
 |傭|佣|||
 |債||||
@@ -2602,7 +2603,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蒸||||
 |熬||||
 |熾|火戈|Compare 職→聀|No|
-|燃|Remove dot in 犬|Removes reference to dog meat|No|
+|燃||||
 |燎|Replace 尞 top with 大|Variant: 廣碑別字|No|
 |燕||||
 |燙||||
@@ -2660,7 +2661,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |琴||Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |瑟||||
 |瑣||||
-|瑤|王爫缶|Compare 搖→摇, Use Simplified Unicode right component, https://glyphwiki.org/wiki/u7476-g|Unicode might display wrong|
+|瑤||䍃 top is 夕丶like in 然 never 爫 https://glyphwiki.org/wiki/u7464|Unicode might display wrong|
 |瑩||||
 |瑪||||
 |瑰||||
@@ -2859,7 +2860,6 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |笆||||
 |笙||||
 |笛||||
-|笤||||
 |筋||||
 |筍||||
 |筏||||
@@ -2890,7 +2890,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |籤|⺮千|“Label; bamboo slip”, Don't confuse with 簽 Reform (⺮㑒) “to sign”, https://glyphwiki.org/wiki/u2ff1-u7af9-u5343|No|
 |籬|筣|Variant: 字彙 (明 Ming)||
 |籮|⺮䍜|Compare 羅→䍜|No|
-|籲|䐓|Compare variant 龥, 鑰→鈅||
+|籲|口予|“Implore”, Don’t confuse with 吁 “to sigh”, https://glyphwiki.org/wiki/u20c04|No, 𠰄|
 |籽||||
 |粒||||
 |粗||||
@@ -3301,7 +3301,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |謎|詸|Variant: 集韻 (宋 Song)||
 |謗||||
 |謙||||
-|謠|言爫缶|Compare 搖→摇, Use Simplified Unicode right component, https://glyphwiki.org/wiki/u8b21-g|Unicode might display wrong|
+|謠||䍃 top is 夕丶like in 然 never 爫 https://glyphwiki.org/wiki/u8b20-g|Unicode might display wrong|
 |謬||||
 |謹||Use Chinese Unicode 堇: 廿 top component not 艹|Unicode might display wrong|
 |譏|言几|https://glyphwiki.org/wiki/u2e5f8-var-001|No, 𮗸|
@@ -3428,7 +3428,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |逾||||
 |遂||||
 |遏||||
-|遙|辶爫缶|Compare 搖→摇, Use Simplified Unicode right component, https://glyphwiki.org/wiki/u9065-g|Unicode might display wrong|
+|遙||䍃 top is 夕丶like in 然 never 爫 https://glyphwiki.org/wiki/u9059-g|Unicode might display wrong|
 |遞|递|Variant: 龍龕手鑑 (遼 Liao)||
 |遣||||
 |遮||||
