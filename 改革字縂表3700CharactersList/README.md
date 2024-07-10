@@ -886,7 +886,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |丟||||
 |冰||||
 |態||||
-|嚇|吓|||
+|嚇|口㞋|赫 is Southern Min variant of 遐, Don’t confuse with 吓 used commonly in Cantonese|No|
 |古||||
 |亡||||
 |狀||||
