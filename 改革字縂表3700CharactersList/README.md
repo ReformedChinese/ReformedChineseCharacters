@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 833 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 832 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -75,7 +75,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |但||||
 |謝||||
 |著|着 following verbs only|Use 着 for Verb + 着 structure, Use 著 for “notable; famous” e.g. 著名, Use Simplified Unicode|Unicode might display wrong|
-|隻|支|Merge 隻、支、classifier 枝 into 支, Don't confuse with 只 "only"||
+|隻|尺又 (Vertical)|Phoneticization, Compare 尽、昼, Classifier, Don't confuse with 只 "only"|No|
 |些||||
 |如||||
 |家||Merge 家、傢 into 家||
@@ -403,7 +403,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |您||||
 |送||||
 |怕||||
-|護|言芰|Compare 隻→支, https://glyphwiki.org/wiki/sunayama_gokanji-001|No|
+|護|言芰|https://glyphwiki.org/wiki/sunayama_gokanji-001|No|
 |度||||
 |花||Use Japanese Unicode 化|Unicode might display wrong|
 |節||||
@@ -567,7 +567,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |味||||
 |區|区|||
 |漂||||
-|支||Merge 隻、支、classifier 枝 into 支||
+|支||||
 |乎||||
 |錄|録|录 never 彔||
 |考||||
@@ -876,7 +876,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蠢|𡗗虫|https://glyphwiki.org/wiki/u2727e|No, 𧉾|
 |丈||||
 |守||||
-|獲|犭芰|Compare 隻→支, https://glyphwiki.org/wiki/sunayama_gokanji-008|No|
+|獲|犭芰|https://glyphwiki.org/wiki/sunayama_gokanji-008|No|
 |八||||
 |致||||
 |細||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
@@ -2289,7 +2289,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |析||||
 |枕||||
 |枚||||
-|枝|支 for classifier only|枝 when not classifier. Merge 隻、支、classifier 枝 into 支||
+|枝||||
 |枯||||
 |枷||||
 |柄||||
@@ -2837,7 +2837,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |穎||||
 |穗|穂|Variant: 龍龕手鑑 (遼 Liao)、宋元以來俗字譜 (since 宋 Song、元 Yuan), Compare 惠→恵||
 |穢|禾𡷫|Compare 歲→𡷫|No|
-|穫|禾芰|Compare 隻→支|No|
+|穫|禾芰||No|
 |穴||||
 |窄||||
 |窒||||
