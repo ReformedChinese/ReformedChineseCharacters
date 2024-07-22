@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 832 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 834 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -521,7 +521,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |校||||
 |幸||||
 |傳|伝|||
-|復||Merge 復、覆 into 復 for “return; reply” but keep 覆 for all else (same as Simplified usage)||
+|復||Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 㠅 for all else||
 |量||||
 |首||||
 |改||||
@@ -1325,7 +1325,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |尤||||
 |皇||||
 |奪|夺|||
-|郵||||
+|郵|邮|Replaces meaning component 垂 “far away” with meaning-sound component 由 “from”||
 |俱||||
 |九||||
 |盜|盗|||
@@ -3265,7 +3265,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |襠|裆|||
 |襪|袜|Variant: 集韻 (宋 Song)||
 |襯|衬|||
-|覆|復 for “return; reply” only|Merge 復、覆 into 復 for “return; reply” but keep 覆 for all else (same as Simplified usage)||
+|覆|復/㠅|Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 㠅 for all else||
 |覓||||
 |覽|覧|||
 |訛||Use Japanese Unicode 化|Unicode might display wrong|
@@ -3586,7 +3586,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |韌||Use Traditional Unicode 刃|Unicode might display wrong|
 |韓||||
 |韭||||
-|韻|韵|Variant: 字辨, 匀 never 勻|Unicode might display wrong|
+|韻|韵|Variant: 字辨 (清 Qing), 匀 never 勻|Unicode might display wrong|
 |頁||||
 |頃||||
 |頌||||
@@ -3597,7 +3597,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |頰|頬|Variant: 龍龕手鑑 (遼 Liao)||
 |頸|頚|||
 |頹||||
-|顛||Use Chinese Unicode 真|Unicode might display wrong|
+|顛|傎|Variant: 字辨 (清 Qing), Use Chinese Unicode 真|Unicode might display wrong|
 |顫|玄頁|Compare 壇→𡊨|No, 𩑹|
 |顱|戶頁|戶 never 户/戸, Compare 所|No|
 |颯||||
