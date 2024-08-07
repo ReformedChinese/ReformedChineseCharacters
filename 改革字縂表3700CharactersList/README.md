@@ -762,7 +762,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |射||||
 |棄|弃|Variant: 玉篇 (梁 Liang)||
 |傻||||
-|藏|蔵|Sound component 爿 not originally in base character 臧||
+|藏|艹庄|Compare 贓→賍, https://glyphwiki.org/wiki/u2b1fa-var-002|No, 𫇺|
 |屁||||
 |瞧||||
 |修||||
