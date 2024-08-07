@@ -1123,7 +1123,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |吵||||
 |龍||Derivatives all use variant 竜 instead e.g. 籠→篭||
 |揮||||
-|奮|奋|||
+|奮|太田 (Vertical)|Compare 奋, Abbreviates 隹 as 丶, https://glyphwiki.org/wiki/u21612|No, 𡘒|
 |憶||||
 |折||||
 |彼||||
@@ -1324,7 +1324,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |盛||||
 |尤||||
 |皇||||
-|奪|夺|||
+|奪|太寸 (Vertical)|Compare 夺, Abbreviates 隹 as 丶|No|
 |郵|邮|Replaces meaning component 垂 “far away” with meaning-sound component 由 “from”||
 |俱||||
 |九||||
