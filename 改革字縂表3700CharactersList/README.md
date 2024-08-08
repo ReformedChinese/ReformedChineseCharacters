@@ -1048,7 +1048,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |營||呂 never 吕|Unicode might display wrong|
 |蘇|䒩|Compare 酥 where 禾 is phonetic abbreviation of 穌. Traditional when surname||
 |爺||||
-|微|Remove 攵|Compare 徵 Reform, Use Traditional Unicode: 儿 at bottom not 几|No|
+|微|𡵉攵|Variant: 說文 (東漢 Eastern Han), 兀 below 山, https://glyphwiki.org/wiki/u2304b|Unicode might display wrong|
 |埃||||
 |抽||||
 |蓋|葢|Variant: 字鑑 (元 Yuan). Compare 盍→盇||
@@ -1364,7 +1364,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |帽||||
 |杜||||
 |豪||||
-|徵|Remove 攵|攵 was added later, 王 not 𡈼/壬, “Assemble; prove”, Don’t confuse with 征 “journey”|No|
+|徵|徴 without 彳|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=14656, 王 not 𡈼/壬, “Assemble; prove”, Don’t confuse with 征 “journey”, https://glyphwiki.org/wiki/u2ff0-u37b7-u6535-var-001|No|
 |括||||
 |盯||||
 |穩|稳|||
@@ -2011,7 +2011,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |徘||||
 |徙||||
 |循||||
-|徽|Remove 攵|Compare 徵 Reform|No|
+|徽|Remove 彳、一|Compare 徵 Reform, close variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=14682|No|
 |忌||||
 |忱||||
 |忽||||
@@ -3153,7 +3153,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蕭|䔥|Traditional when surname||
 |蕾||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |薄||Use Simplified Unicode 尃|Unicode might display wrong|
-|薇|Remove 攵|Compare 微 Reform. Use Traditional Unicode: 儿 at bottom not 几|No|
+|薇|艹𡵉攵|Variant: 康熙字典 (清 Qing), 兀 below 山, https://glyphwiki.org/wiki/koseki-356380|No, 𦵨 (Needs appearance fixed)|
 |薑|姜|||
 |薔|蔷|Compare 嗇→啬||
 |薛||||
