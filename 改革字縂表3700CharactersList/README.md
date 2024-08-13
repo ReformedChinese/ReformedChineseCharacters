@@ -297,7 +297,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |醫|医|||
 |通||||
 |體|体|||
-|樂|幺木 (Vertical)|No 白 in earlier form, Use Chinese Unicode 幺, Applies to all derivatives|No|
+|樂|幺木 (Vertical)|No 白 in earlier form, Use Chinese Unicode 幺, Applies to all derivatives, https://glyphwiki.org/wiki/u2ff1-u5e7a-u6728|No|
 |並||||
 |三||||
 |早||||
@@ -617,7 +617,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |半||||
 |語||||
 |付||||
-|熱|秇灬|Compare 藝→萟|No|
+|熱|秇灬|Compare 藝→萟, https://glyphwiki.org/wiki/u2ff1-u79c7-u706c|No|
 |排||||
 |楚||||
 |偷||||
@@ -1364,7 +1364,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |帽||||
 |杜||||
 |豪||||
-|徵|徴 without 彳|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=14656, 王 not 𡈼/壬, “Assemble; prove”, Don’t confuse with 征 “journey”, https://glyphwiki.org/wiki/u2ff0-u37b7-u6535-var-001|No|
+|徵|徴 without 彳|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=14656, 王 not 𡈼/壬, “Assemble; prove”, Don’t confuse with 征 “journey”, https://glyphwiki.org/wiki/u2ff0-u37b7-u6535-var-004 |No|
 |括||||
 |盯||||
 |穩|稳|||
@@ -1833,7 +1833,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |壤|圵|||
 |壩|垻|Variant: 重訂直音篇 (明 Ming)||
 |壯||||
-|壹|壱|||
+|壹|士冖土|https://glyphwiki.org/wiki/u2ff1-cdpo-81e4-u571f|No|
 |壺||||
 |壽|寿|||
 |夕||||
@@ -2560,7 +2560,6 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瀛|溋|Compare 贏 Reform||
 |瀝|𤁋|||
 |瀡|氵陏|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=62557|No|
-|瀧|滝|||
 |瀰|弓尔|Merge 彌、瀰 into 弥. 尔 never 尓|Unicode might display wrong|
 |瀾||||
 |灌|氵芄|雚 is variant of 芄|No|
@@ -2959,6 +2958,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |纏|糸㢆|Compare 缠, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |纓|Replace 賏 with 巛|Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u2ff0-u7cf8-u2bc0a|No|
 |纖|䊹|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
+|纛|巾毒 (Horizontal)|Variant: 四聲篇海 (金 Jin)、字彙補 (清 Qing), https://glyphwiki.org/wiki/u220f6-t|No, 𢃶|
 |纜|臣𠂉一糸|Compare 攬 Reform, 鍳|No|
 |缸||||
 |罈|缶昙|Compare variant 罎, 曇→昙|No|
