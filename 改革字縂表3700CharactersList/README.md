@@ -91,7 +91,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |回||Merge 回、迴 into 回||
 |然||||
 |果||||
-|發|癶矢|Variants contain 矢 “arrow”, Retains original “shooting” meaning, https://glyphwiki.org/wiki/u24f29|No, 𤼩|
+|發|癶矢|Variants contain 矢 “arrow”, Retains original “shooting” meaning, https://glyphwiki.org/wiki/u24f29-var-001|No, 𤼩|
 |見||||
 |心||||
 |走||||
@@ -2383,7 +2383,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |櫃|樻|||
 |櫥|木𢊍|Dot above 厨 component|No|
 |櫺|棂|Compare 靈→灵||
-|櫻|Replace 賏 with 巛|https://glyphwiki.org/wiki/u2ff0-u6728-u2bc0a|No|
+|櫻|Replace 賏 with 巛|https://glyphwiki.org/wiki/u2ff0-u6728-u2bc0a-var-001|No|
 |欄||||
 |欖|臣𠂉一木|Compare 攬 Reform、鍳|No|
 |欣||||
