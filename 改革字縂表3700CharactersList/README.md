@@ -1121,7 +1121,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |綁||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |層||||
 |吵||||
-|龍||Derivatives all use variant 竜 instead e.g. 籠→篭||
+|龍||Derivatives’ 龍 component all use variant Korean Unicode 尨 instead http://en.glyphwiki.org/wiki/u5c28-k||
 |揮||||
 |奮|太田 (Vertical)|Compare 奋, Abbreviates 隹 as 丶, https://glyphwiki.org/wiki/u21612|No, 𡘒|
 |憶||||
@@ -1220,7 +1220,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |銷||||
 |邦||||
 |劫||||
-|襲|衤竜||No|
+|襲|衤尨|Use Korean Unicode 尨|No|
 |育||||
 |蟲|虫|||
 |嫌||||
@@ -1774,7 +1774,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |噸||||
 |嚎||||
 |嚏|㖒|||
-|嚨|𠺠|口竜|Most likely doesn't support|
+|嚨|口尨|https://glyphwiki.org/wiki/u54e4-k, Use Korean Unicode 尨|Unicode might display wrong|
 |嚮|向|Merge 向、嚮 into 向||
 |嚷|口上|https://glyphwiki.org/wiki/u20bb5|No, 𠮵|
 |嚼||||
@@ -1829,7 +1829,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |壕||||
 |壘|𡊰|Merge 壘、儡 into 𡊰||
 |壙|垙|Compare 擴→挄||
-|壟|𡏡|土竜 (Horizontal)|Most likely doesn't support|
+|壟|土尨 (Horizontal)|Use Korean Unicode 尨|No|
 |壤|圵|||
 |壩|垻|Variant: 重訂直音篇 (明 Ming)||
 |壯||||
@@ -1915,7 +1915,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |寨||||
 |寬|寛|Connected horizontal line in 艹||
 |寰|环|Merge 環、寰 into 环, Similar meaning to 環||
-|寵|宀竜|https://glyphwiki.org/wiki/u2bced|No, 𫳭|
+|寵|宀尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://glyphwiki.org/wiki/twedu-a01055-002|No|
 |寸||||
 |寺||||
 |尬|九介 (Elongate 九)|Variant: 正字通 (明 Ming), Compare 旭、拋→抛. Elongated 九 never elongated 尢, https://glyphwiki.org/wiki/u201b7|No, 𠆷|
@@ -1988,7 +1988,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |廛|㢆|Merge 廛、釐 into 㢆||
 |廟|庿|Variant: 說文 (東漢 Eastern Han)、五經文字 (唐 Tang)||
 |廬|广戶|戶 never 户/戸|Unicode might display wrong|
-|龐|广竜||No|
+|龐|广尨|Use Korean Unicode 尨, http://en.glyphwiki.org/wiki/u5eac|Unicode might display wrong|
 |延||||
 |廷||||
 |弊|比廾 (Vertical)|Compare 斃→毙, https://glyphwiki.org/wiki/u30409-u|No, 𰐉|
@@ -2206,7 +2206,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |擴|挄|Variant: 字彙 (明 Ming)||
 |攀|扌凡||No|
 |攆||||
-|攏|𢲣|扌竜|Most likely doesn't support|
+|攏|扌尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://dict.variants.moe.edu.tw/dictView.jsp?ID=18394|No|
 |攔||||
 |攘|扌上|https://glyphwiki.org/wiki/u2ff0-u624c-u4e0a|No|
 |攙|搀|||
@@ -2273,7 +2273,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |曦|日兮||No|
 |曹||||
 |朦||||
-|朧|月竜|https://glyphwiki.org/wiki/u2ac68|No, 𪱨|
+|朧|月尨|Use Korean Unicode 尨|No|
 |朱||||
 |朵||||
 |朽||||
@@ -2885,7 +2885,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |籃||||
 |籌|筹|||
 |籍||||
-|籠|篭|||
+|籠|⺮尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://glyphwiki.org/wiki/twedu-a03050-014|No|
 |籤|⺮千|“Label; bamboo slip”, Don't confuse with 簽 Reform (⺮㑒) “to sign”, https://glyphwiki.org/wiki/u2ff1-u7af9-u5343|No|
 |籬|筣|Variant: 字彙 (明 Ming)||
 |籮|⺮䍜|Compare 羅→䍜|No|
@@ -2991,7 +2991,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |聘||||
 |聳|耸|||
 |聶||||
-|聾|耳竜 (Horizontal)||No|
+|聾|耳尨 (Horizontal)|Use Korean Unicode 尨|No|
 |肄||||
 |肅|粛|||
 |肆||||
