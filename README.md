@@ -1,4 +1,4 @@
-View in [Google Docs](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) or [Medium.com](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) for best experience
+Read on [Medium.com](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) or [Google Docs](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) for best experience
 
 # 改革字 Reformed Chinese Characters
 
