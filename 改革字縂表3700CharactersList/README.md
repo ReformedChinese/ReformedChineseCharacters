@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 835 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 833 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://docs.google.com/document/d/1UAd8mkalWxboB_OAptCsP_2lAKHwrNkl3rJftjOKlFY/) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -493,7 +493,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |混||||
 |便||||
 |狗||||
-|腦|Replace 囟 with 山|Variant: 玉篇 (梁 Liang) https://glyphwiki.org/wiki/hkcs_m266c1|No, 𦛁|
+|腦|Replace 囟 with 山|Variant: 玉篇 (梁 Liang) https://glyphwiki.org/wiki/u266c1-g|No, 𦛁|
 |業|业|||
 |歌||||
 |精||||
@@ -703,7 +703,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |妻||||
 |山||||
 |普||||
-|價|亻西|Compare 価, https://glyphwiki.org/glyph/u2ff0-u4ebb-u897f-var-001.svg|No|
+|價|亻甲|https://glyphwiki.org/wiki/u201fa|No, 𠇺|
 |元||||
 |角||||
 |懷|怀|||
@@ -1121,7 +1121,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |綁||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |層||||
 |吵||||
-|龍||Derivatives’ 龍 component all use variant Korean Unicode 尨 instead http://en.glyphwiki.org/wiki/u5c28-k||
+|龍||Derivatives’ 龍 component all use variant Korean Unicode 尨 instead https://glyphwiki.org/wiki/u5c28-k||
 |揮||||
 |奮|太田 (Vertical)|Compare 奋, Abbreviates 隹 as 丶, https://glyphwiki.org/wiki/u21612|No, 𡘒|
 |憶||||
@@ -1459,7 +1459,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |載||||
 |爬||||
 |挖||||
-|驕|馬吞|吞 is graphical shorthand for sound component 喬|No|
+|驕|馬吞|Abbreviates sound component 喬 as 吞|No|
 |獸|兽犬|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan) https://glyphwiki.org/wiki/u7363-ue0102|No|
 |嫁||||
 |潔|洁|||
@@ -1580,7 +1580,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |傭|佣|||
 |債||||
 |傾||||
-|僑|亻吞|吞 is graphical shorthand for sound component 喬|No|
+|僑|亻吞|Abbreviates sound component 喬 as 吞|No|
 |僕|亻业|Compare 業→业、variant 㒒|No|
 |僚|Replace 尞 top with 大|Variant: 碑別字新編, https://glyphwiki.org/wiki/u50da-itaiji-001|No|
 |僥|亻尭|https://glyphwiki.org/wiki/u50e5-itaiji-001|No|
@@ -1883,9 +1883,9 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嫡||||
 |嫩||||
 |嬉||||
-|嬌|女吞|吞 is graphical shorthand for sound component 喬|No|
+|嬌|女吞|Abbreviates sound component 喬 as 吞|No|
 |嬤|女庅|Compare 麼→庅|No|
-|嬰|Replace 賏 with 巛|Compare 桜, Prevents mix-up with 妥, Applies to all derivatives, https://glyphwiki.org/wiki/u2bc0a|No, 𫰊|
+|嬰|Replace 賏 with 巛|Compare 桜, Prevents mix-up with 妥, Applies to all derivatives, https://glyphwiki.org/wiki/u2bc0a-var-001|No, 𫰊|
 |嬸|妉|Compare 瀋→沈||
 |孔||||
 |孝||||
@@ -1988,7 +1988,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |廛|㢆|Merge 廛、釐 into 㢆||
 |廟|庿|Variant: 說文 (東漢 Eastern Han)、五經文字 (唐 Tang)||
 |廬|广戶|戶 never 户/戸|Unicode might display wrong|
-|龐|广尨|Use Korean Unicode 尨, http://en.glyphwiki.org/wiki/u5eac|Unicode might display wrong|
+|龐|广尨|Use Korean Unicode 尨, https://glyphwiki.org/wiki/u5eac|Unicode might display wrong|
 |延||||
 |廷||||
 |弊|比廾 (Vertical)|Compare 斃→毙, https://glyphwiki.org/wiki/u30409-u|No, 𰐉|
@@ -2044,7 +2044,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |惠|恵|Variant: 隸辨 (清 Qing), Applies to all derivatives, Compare 專→専||
 |惦||||
 |惰|㤢|||
-|惱|Replace 囟 with 山|Variant: 集韻 (宋 Song) https://glyphwiki.org/wiki/hkcs_m22649|No, 𢙉|
+|惱|Replace 囟 with 山|Variant: 集韻 (宋 Song) https://glyphwiki.org/wiki/u22649-g|No, 𢙉|
 |惶||||
 |愁||||
 |愆|Replace 衍 with 彳水|Compare 衍 Reform|No|
@@ -2250,7 +2250,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |晃||||
 |晉|晋|||
 |晌||||
-|晒 (曬)|日丽|Compare 麗→丽, https://glyphwiki.org/wiki/u2ff0-u65e5-u4e3d|No|
+|晒 (曬)||||
 |晝|昼|||
 |晤||||
 |晦||||
@@ -2273,7 +2273,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |曦|日兮||No|
 |曹||||
 |朦||||
-|朧|月尨|Use Korean Unicode 尨|No|
+|朧|月尨|Use Korean Unicode 尨, https://glyphwiki.org/wiki/hkcs_m43f5|Unicode might display wrong|
 |朱||||
 |朵||||
 |朽||||
@@ -2367,7 +2367,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |樺|Replace 華 with 艹华|Compare 華 Reform, Use Japanese Unicode 化|No|
 |橄||Use Japanese Unicode 敢|Unicode might display wrong|
 |橇|枆|||
-|橋|木吞|吞 is graphical shorthand for sound component 喬|No|
+|橋|木吞|Abbreviates sound component 喬 as 吞, https://glyphwiki.org/wiki/u2da87-jv|No, 𭪇|
 |橐|士冖石 (Vertical)|槖 without 木, https://glyphwiki.org/wiki/u2545f|No, 𥑟|
 |橘||||
 |橙||||
@@ -2563,7 +2563,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瀰|弓尔|Merge 彌、瀰 into 弥. 尔 never 尓|Unicode might display wrong|
 |瀾||||
 |灌|氵芄|雚 is variant of 芄|No|
-|灑|氵丽|Variant: 集韻 (宋 Song)、字彙 (明 Ming) https://glyphwiki.org/wiki/u23d87|No, 𣶇|
+|灑|洒|Variant: 集韻 (宋 Song)||
 |灘|氵歎|Variant: 龍龕手鑑 (遼 Liao) https://glyphwiki.org/wiki/u24064|No, 𤁤|
 |灣|湾|亦 appears like in 奕|Unicode might display wrong|
 |灩 (灧)|氵丰色|Compare 豔→艳, 丰 appears like 丰 in 邦|No, 滟 (Needs appearance fixed)|
@@ -2704,7 +2704,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |痘||||
 |痢||||
 |痰||||
-|痺|痹|||
+|痹 (痺)||||
 |瘓||||
 |瘟|疒昷|昷 never 𥁕|Unicode might display wrong|
 |瘧||||
@@ -2765,7 +2765,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |矢||||
 |矩||||
 |矮||||
-|矯|矢吞|吞 is graphical shorthand for sound component 喬|No|
+|矯|矢吞|Abbreviates sound component 喬 as 吞|No|
 |矽||||
 |泵||||
 |砂||||
@@ -3147,7 +3147,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蔽|芘|Compare 斃→毙||
 |蕉||||
 |蕊|芯木 (Vertical)|Compare 蘂, 木 never unhooked 朩|No, 𦲜|
-|蕎|艹吞|吞 is graphical shorthand for sound component 喬|No|
+|蕎|艹吞|Abbreviates sound component 喬 as 吞|No|
 |蕩||||
 |蕪||||
 |蕭|䔥|Traditional when surname||
@@ -3316,7 +3316,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |豈||||
 |豌||||
 |豎|竪|Variant: 玉篇 (梁 Liang)、金石文字辨異 (清 Qing)||
-|豐|Remove 豆|Compare 幽、豳. Ideogram: mountain full of lush plants. 丰 when left component like in 邦 https://glyphwiki.org/wiki/u20073-var-001|No, 𠁳 (Needs appearance fixed)|
+|豐|豊|Variant: 漢隸字源 (宋 Song), 丰 when left component like in 邦||
 |豔 (艷)|丰色|丰 appears like 丰 in 邦 https://glyphwiki.org/wiki/u8273-var-101|No, 艳 (Needs appearance fixed)|
 |豫||||
 |豹||||
@@ -3402,7 +3402,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |轄||||
 |轅|䡇|Compare 遠→远||
 |轍||||
-|轎|車吞|吞 is graphical shorthand for sound component 喬|No|
+|轎|車吞|Abbreviates sound component 喬 as 吞|No|
 |轟||||
 |轡|𦀺|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |辜||||
