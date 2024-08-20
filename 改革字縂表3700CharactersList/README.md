@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 833 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 834 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -272,7 +272,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |員||||
 |總|縂|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |噢|口奥|奥 never 奧|Unicode might display wrong|
-|系||Merge 系、繫 into 系, Don’t confuse with 係 “to relate”||
+|系||“System”, Don’t confuse with 係/繫 “to relate; to connect; to tie”||
 |幾|几|||
 |管||||
 |玩||||
@@ -1550,7 +1550,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |侮||||
 |侯||||
 |侶||呂 never 吕. Applies to all derivatives||
-|係||“To relate”, Don’t confuse with 系 “system”||
+|係||Merge 係、繫 into 係, “to relate; to connect; to tie”, Don’t confuse with 系 “system”||
 |促||||
 |俊||||
 |俏||||
@@ -2949,7 +2949,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |繡|綉|Variant: 正字通 (明 Ming), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繩|No 一 in top 田 of 縄|Compare 蠅 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繪|絵|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|繫|系|Merge 系、繫 into 系||
+|繫|係|Merge 係、繫 into 係, “to relate; to connect; to tie”, Don’t confuse with 系 “system”||
 |繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𬗌 (Needs appearance fixed)|
 |繳||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繹|䋇|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
@@ -3057,7 +3057,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |臣||||
 |臼||||
 |舀||||
-|舅||||
+|舅|臼力 (Vertical)|Compare 男、兒, https://glyphwiki.org/wiki/u2ff1-u81fc-u529b|No|
 |舌||||
 |舍||“Residence”, Don’t confuse with 捨 “abandon”||
 |舔||||
