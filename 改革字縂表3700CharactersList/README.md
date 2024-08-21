@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 834 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 838 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -2085,7 +2085,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |戔|戋|戋 never 㦮, Applies to all derivatives||
 |戚||||
 |截||||
-|戳||||
+|戳|宅戈||No|
 |扁||戶 never 户/戸|Unicode might display wrong|
 |扇||戶 never 户/戸|Unicode might display wrong|
 |扈|戶阝(Horizontal)|戶 never 户/戸, Compare 所|No|
@@ -2268,7 +2268,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |曇|昙|Compare 雲→云||
 |曉|暁|||
 |曙||||
-|曜||||
+|曜|日宅||No|
 |曠|晄|Compare 擴→挄||
 |曦|日兮||No|
 |曹||||
@@ -2980,7 +2980,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |翩||戶 never 户/戸|Unicode might display wrong|
 |翼|羽共|Compare 糞→粪, https://glyphwiki.org/wiki/u2e2be-var-002|No, 𮊾 (Needs appearance fixed)|
 |翹|尭羽 (Elongate 尭)|https://glyphwiki.org/wiki/u2ffa-u5c2d-u7fbd|No|
-|耀||||
+|耀|光宅||No|
 |耐||||
 |耕||||
 |耗||||
@@ -3384,7 +3384,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蹲||||
 |蹺|足尭|https://glyphwiki.org/wiki/u2e6e1|No, 𮛡|
 |躁||||
-|躍||||
+|躍|足宅|https://glyphwiki.org/wiki/u28038|No, 𨀸|
 |躡|踂|Compare 鑷→銸||
 |躥|𧾷串|Compare 蹿|No|
 |躪||||
