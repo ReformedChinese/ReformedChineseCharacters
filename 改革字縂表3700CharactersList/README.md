@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 841 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 846 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -536,7 +536,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |據|据|Variant: 集韻 (宋 Song)||
 |派||||
 |票||||
-|蘭||||
+|蘭|萰|Abbreviate all 闌 sound components 萰||
 |惡||||
 |煩||||
 |取||||
@@ -1104,7 +1104,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |耳||||
 |匙||||
 |宣||||
-|爛||||
+|爛|火萰||No|
 |秒||||
 |掛||||
 |旁||||
@@ -2207,7 +2207,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |攀|扌凡||No|
 |攆||||
 |攏|扌尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://dict.variants.moe.edu.tw/dictView.jsp?ID=18394|No|
-|攔||||
+|攔|扌萰||No|
 |攘|扌上|https://glyphwiki.org/wiki/u2ff0-u624c-u4e0a|No|
 |攙|搀|||
 |攛|扌串|Compare 撺, https://glyphwiki.org/wiki/u2ab76|No, 𪭶|
@@ -2384,7 +2384,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |櫥|木𢊍|Dot above 厨 component|No|
 |櫺|棂|Compare 靈→灵||
 |櫻|Replace 賏 with 巛|https://glyphwiki.org/wiki/u2ff0-u6728-u2bc0a-var-001|No|
-|欄||||
+|欄|木萰||No|
 |欖|臣𠂉一木|Compare 攬 Reform、鍳|No|
 |欣||||
 |欽||||
@@ -2561,7 +2561,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瀝|𤁋|||
 |瀡|氵陏|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=62557|No|
 |瀰|弓尔|Merge 彌、瀰 into 弥. 尔 never 尓|Unicode might display wrong|
-|瀾||||
+|瀾|氵萰||No|
 |灌|氵芄|雚 is variant of 芄|No|
 |灑|洒|Variant: 集韻 (宋 Song)||
 |灘|氵歎|Variant: 龍龕手鑑 (遼 Liao) https://glyphwiki.org/wiki/u24064|No, 𤁤|
