@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 846 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 847 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -2607,7 +2607,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |燕||||
 |燙||||
 |燥||||
-|燦||||
+|燦|Top: 歺又 Bottom: 火|Compare 餐、粲|No|
 |燭|烛|||
 |燮|亦火 (Vertical)|Compare 戀→恋、variant 爕, https://glyphwiki.org/wiki/u2dd22|No, 𭴢|
 |燼|烬|||
