@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 838 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 841 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -555,7 +555,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |費||||
 |科||||
 |麻||林 never 𣏟, Applies to all derivatives|Unicode might display wrong|
-|簡||||
+|簡|筧|||
 |易||||
 |流||||
 |治||||
@@ -904,7 +904,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |牌||||
 |戶||戶 never 户/戸, Applies to all derivatives||
 |尋|寻|||
-|質||||
+|質|貭|Variant: 金石文字辨異 (清 Qing)||
 |供||||
 |獎|爿寸|Compare 醬、漿 Reforms、variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=27313|No|
 |袋||||
@@ -1950,8 +1950,8 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嵐||||
 |嶄||||
 |嶇|岖|||
-|嶙|岭|Compare 憐→怜||
-|嶺|阾|Variant: 玉篇零卷 (梁 Liang)||
+|嶙|岺|||
+|嶺|岭|||
 |嶼|屿|Simplified 与 Unicode not Japanese||
 |巍||||
 |巒|峦|亦 appears like in 奕|Unicode might display wrong|
@@ -2532,7 +2532,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |澇||||
 |澈||||
 |澎||||
-|澗||||
+|澗|涀|||
 |澡||||
 |澤|沢|Use Japanese Unicode. Compare 尺 in 訳|Unicode might display wrong|
 |澥|氵介|Compare 蟹→蚧, https://glyphwiki.org/wiki/u23ca4|No, 𣲤|
