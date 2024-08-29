@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 847 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 853 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -279,7 +279,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |處|処|||
 |辦|弁力||No|
 |主||||
-|氣||||
+|氣|气火 (Vertical)|Variant: 字彙補 (清 Qing), https://glyphwiki.org/wiki/simch-kx_t059909|No, 𣱛|
 |每||||
 |少||||
 |切||||
@@ -336,7 +336,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |神||||
 |父||||
 |指||||
-|報||||
+|報|报|Variant: 字學三正 (明 Ming)||
 |留||||
 |水||||
 |教||||
@@ -1093,7 +1093,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |憐|怜|Variant: 集韻 (宋 Song)、正字通 (明 Ming). Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |既||||
 |織|糸戈|Compare 職→聀, Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥾮 (Needs appearance fixed)|
-|執||||
+|執|执|Variant: 佛教難字字典||
 |戒||||
 |佛||||
 |抗||||
@@ -1817,7 +1817,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |塵||||
 |墅||||
 |墉|土用|Compare 傭→佣, https://glyphwiki.org/wiki/u212a4|No, 𡊤|
-|墊||||
+|墊|垫|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |墓||||
 |墜||||
 |墩||||
@@ -2174,7 +2174,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |摘||||
 |摟|搂|||
 |摧||||
-|摯||||
+|摯|挚|Variant: 異體字手冊||
 |摳|抠|||
 |摹||||
 |摻|掺|||
@@ -2197,7 +2197,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |擂||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |擅|扌玄|Compare 壇→𡊨|No, 𢫔|
 |擎|扌苟|https://glyphwiki.org/wiki/u2bf5a|No, 𫽚|
-|擒||||
+|擒|扌芩|Compare variant 扲, https://glyphwiki.org/wiki/u22bbb|No, 𢮻|
 |擠|㨈|||
 |擬|Remove 龴疋|Compare 疑 Reform, https://glyphwiki.org/wiki/u22b60|No, 𢭠|
 |擰|扌寍|Compare 寧→寍, https://glyphwiki.org/wiki/u2ff0-u624c-u5bcd|No|
