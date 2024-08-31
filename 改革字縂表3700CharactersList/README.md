@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 853 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 856 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -1281,7 +1281,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |允||||
 |授||||
 |堆||||
-|慶||||
+|慶|声心 (Vertical)|Homophone with 殸|No|
 |率||||
 |怒||||
 |寓||||
@@ -2059,7 +2059,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |慰||||
 |慵|𢘭|忄用, Compare 傭→佣|Most likely doesn't support|
 |慷||||
-|憂||||
+|憂|忧|||
 |憊|俻心 (Vertical)|https://glyphwiki.org/wiki/u2ff1-u4ffb-u5fc3|No|
 |憋|比心 (Vertical)|Compare 斃→毙|No|
 |憎||||
@@ -2942,7 +2942,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |縱|糸从|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥾺 (Needs appearance fixed)|
 |縷|糸娄|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𫃵 (Needs appearance fixed)|
 |績||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|繁||||
+|繁|緐|||
 |繃|綳|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繚|Replace 尞 top with 大|Compare 嘹 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繞|糸尭|Unhooked Chinese Unicode 糸 left radical never 糹|No|
