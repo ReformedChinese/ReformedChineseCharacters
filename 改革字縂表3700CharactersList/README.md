@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 852 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 851 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -2059,7 +2059,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |慰||||
 |慵|𢘭|忄用, Compare 傭→佣|Most likely doesn't support|
 |慷||||
-|憂|忧|||
+|憂||||
 |憊|俻心 (Vertical)|https://glyphwiki.org/wiki/u2ff1-u4ffb-u5fc3|No|
 |憋|比心 (Vertical)|Compare 斃→毙|No|
 |憎||||
@@ -2357,7 +2357,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |榴||||
 |槐||||
 |槓|杠|||
-|槳|牀|Compare 醬、漿 Reforms||
+|槳|爿舟|Compare 醬、漿 Reforms、variant 䒂|No|
 |槽||||
 |樁||||
 |樊|杋|||
