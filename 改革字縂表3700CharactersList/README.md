@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 851 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 882 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -123,7 +123,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |像||||
 |等||||
 |被||||
-|從|从|Earlier form, Variant: 字彙 (明 Ming)||
+|從|从|Older form, Variant: 字彙 (明 Ming)||
 |明||||
 |中||||
 |哦||||
@@ -150,7 +150,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |西||||
 |己||||
 |候||||
-|次||Use Simplified/Japanese Unicode: 冫not 二. Applies to all derivatives|Unicode might display wrong|
+|次||Use Simplified Unicode: 冫not 二. Applies to all derivatives|Unicode might display wrong|
 |信||||
 |歡|芄欠|雚 is variant of 芄|No|
 |正||||
@@ -229,7 +229,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |接||||
 |拿||||
 |望||Use Japanese Unicode 望|Unicode might display wrong|
-|解||||
+|解||Use Traditional/Japanese Unicode 角, https://glyphwiki.org/wiki/u89e3|Unicode might display wrong|
 |其||||
 |離||||
 |談||||
@@ -244,7 +244,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嗯||||
 |計||||
 |任||||
-|確||||
+|確|确|Older form in 說文 (東漢 Eastern Han), Use Traditional/Japanese Unicode 角 https://glyphwiki.org/wiki/u786e|Unicode might display wrong|
 |吃||||
 |始||||
 |結||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
@@ -297,7 +297,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |醫|医|||
 |通||||
 |體|体|||
-|樂|幺木 (Vertical)|No 白 in earlier form, Use Chinese Unicode 幺, Applies to all derivatives, https://glyphwiki.org/wiki/u2ff1-u5e7a-u6728|No|
+|樂|幺木 (Vertical)|No 白 in older form, Use Chinese Unicode 幺, Applies to all derivatives, https://glyphwiki.org/wiki/u2ff1-u5e7a-u6728|No|
 |並||||
 |三||||
 |早||||
@@ -383,7 +383,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |搞||||
 |戰|单戈|Variant: 四聲篇海 (金 Jin), 单 never 単 https://glyphwiki.org/wiki/u229d0-g|No, 𢧐|
 |火||||
-|羅|䍜|Earlier form, Applies to all derivatives||
+|羅|䍜|Older form, Applies to all derivatives||
 |至||||
 |萬|万|||
 |聲|声|||
@@ -502,7 +502,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |卻|却|||
 |參|参|||
 |院||||
-|務|敄|力 was added later to emphasize meaning||
+|務|敄|力 was added later||
 |基||||
 |臺|台|Merge 台、颱、臺、檯 into 台||
 |另||||
@@ -536,7 +536,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |據|据|Variant: 集韻 (宋 Song)||
 |派||||
 |票||||
-|蘭|萰|Abbreviate all 闌 sound components 萰||
+|蘭|萰|Abbreviate all 闌 sound components to 萰||
 |惡||||
 |煩||||
 |取||||
@@ -611,7 +611,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |店||||
 |麗|丽|Variant: 集韻 (宋 Song)||
 |賣|士冖天|Retracted 1935 simplification https://glyphwiki.org/wiki/twedu-a03968-012, Applies to all derivatives|No|
-|顯|顕|||
+|顯|显|頁 was added later||
 |監||||
 |圖|图|Derived from 草書||
 |半||||
@@ -673,7 +673,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |臉|月㑒|https://glyphwiki.org/wiki/u2ff0-u6708-u3452|No|
 |引||||
 |擇|択|||
-|疑|Remove 龴疋|Earlier form, Compare 旨, Applies to all derivatives, https://glyphwiki.org/wiki/hkcs_m20915|No, 𠤕|
+|疑|Remove 龴疋|Older form, Compare 旨, Applies to all derivatives, https://glyphwiki.org/wiki/hkcs_m20915|No, 𠤕|
 |趕|赶|Unlike 趕, recorded in 說文 Shuowen (東漢 Eastern Han)||
 |倆||||
 |獨|独|||
@@ -705,7 +705,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |普||||
 |價|亻甲|https://glyphwiki.org/wiki/u201fa|No, 𠇺|
 |元||||
-|角||||
+|角||Use Traditional/Japanese Unicode 角 https://glyphwiki.org/wiki/u89d2|Unicode might display wrong|
 |懷|怀|||
 |床||||
 |奧|奥|奥 never 奧, Applies to all derivatives||
@@ -819,7 +819,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |詞||||
 |食||||
 |諾||||
-|讀|Replace 賣 with 士冖天|Retracted 1935 simplification https://glyphwiki.org/wiki/u8b80-itaiji-002, Compare 賣Reform|No|
+|讀|Replace 賣 with 士冖天|Retracted 1935 simplification https://glyphwiki.org/wiki/u8b80-itaiji-002, Compare 賣 Reform|No|
 |誤|言吴|Variant: 玉篇 (梁 Liang), 吴 not 吳, https://glyphwiki.org/wiki/u8aa4-g|Unicode might display wrong|
 |撒||||
 |突||||
@@ -854,7 +854,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |戀|恋|亦 appears like in 奕|Unicode might display wrong|
 |弗||||
 |季||||
-|嚴|吅厂火 (Vertical)|火 resembles component in earlier form, https://glyphwiki.org/wiki/eason9000_u56b4-t|No|
+|嚴|吅厂火 (Vertical)|火 resembles component in older form, https://glyphwiki.org/wiki/eason9000_u56b4-t|No|
 |推||||
 |伯||||
 |莉||||
@@ -878,7 +878,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |守||||
 |獲|犭芰|https://glyphwiki.org/wiki/sunayama_gokanji-008|No|
 |八||||
-|致||||
+|致||Merge 致、緻 into 致||
 |細||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |勒||||
 |稱|称|尔 never 尓|Unicode might display wrong|
@@ -895,8 +895,8 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |操||||
 |遺||||
 |判||||
-|響|音向 (Horizontal)|Compare 响|No|
-|網|罔|Variant: 玉篇 (梁 Liang)、字彙 (明 Ming)、金石文字辨異 (清 Qing), Earlier form||
+|響|响|Variant: 清平山堂話本 (明 Ming)||
+|網|罔|Variant: 玉篇 (梁 Liang)、字彙 (明 Ming)、金石文字辨異 (清 Qing), Older form||
 |箱||||
 |貨||Use Japanese Unicode 化|Unicode might display wrong|
 |圍|囲|四聲篇海 (Jin)||
@@ -1025,7 +1025,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |搭||||
 |康||||
 |症||||
-|榮||||
+|榮|Replace 炏 with 灬||No|
 |充||||
 |創||||
 |嘗|尝|||
@@ -1033,7 +1033,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |畢|田平 (Vertical)|Variant: 漢隸字源 (宋 Song), Compare 思、畏. Traditional when surname|No|
 |般||||
 |聚|取乑|Use Simplified Unicode, Variant: 隸辨 (清 Qing), https://glyphwiki.org/wiki/u805a-var-002|Unicode might display wrong|
-|勞||||
+|勞|Replace 炏 with 灬||No|
 |攻||||
 |忍||Use Traditional Unicode 刃, Applies to all derivatives|Unicode might display wrong|
 |勢|秇力|Compare 藝→萟|No|
@@ -1045,7 +1045,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蒙||“To cover; suffer”, Don’t confuse with 濛 “drizzling”、矇 “to deceive”、懞 “sincere”||
 |偶||||
 |熟||||
-|營||呂 never 吕|Unicode might display wrong|
+|營|Replace 炏 with 灬|呂 never 吕|No|
 |蘇|䒩|Compare 酥 where 禾 is phonetic abbreviation of 穌. Traditional when surname||
 |爺||||
 |微|𡵉攵|Variant: 說文 (東漢 Eastern Han), 兀 below 山, https://glyphwiki.org/wiki/u2304b|Unicode might display wrong|
@@ -1061,7 +1061,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |掌||||
 |啥||||
 |升||||
-|褲||||
+|褲|袴|Variant: 增廣字學舉隅、字辨 (清 Qing)||
 |臨|臣攵|Compare 區→区|No|
 |智||||
 |盤||||
@@ -1075,7 +1075,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |擺|摆|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |散||||
 |陽||||
-|協|劦|Earlier form||
+|協|劦|Older form||
 |租||||
 |泰||||
 |島||||
@@ -1207,7 +1207,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |垃||||
 |染||||
 |漫||||
-|觸|触|||
+|觸|触|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)、字學三正 (明 Ming), Use Traditional/Japanese Unicode 角|Unicode might display wrong|
 |脅|力月 (Vertical)||No|
 |圾||Use Simplified Unicode 及|Unicode might display wrong|
 |施||||
@@ -1338,7 +1338,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |憾||||
 |汰||||
 |隔||||
-|徹||||
+|徹|彻|||
 |插||||
 |獵|犭列|列 & 巤 are Mandarin homophones, 列 original meaning “to tear with knife” matches 獵 “to hunt”, https://glyphwiki.org/wiki/u2478a|No, 𤞊|
 |尚||||
@@ -1357,14 +1357,14 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |賓||步 never 歩|Unicode might display wrong|
 |偵||||
 |顆||||
-|寧|寍|Variant: 段注本 (清 Qing)||
+|寧|寍|Variant: 段注說文 (清 Qing)||
 |罰||||
 |欲||||
 |鄉||||
 |帽||||
 |杜||||
 |豪||||
-|徵|徴 without 彳|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=14656, 王 not 𡈼/壬, “Assemble; prove”, Don’t confuse with 征 “journey”, https://glyphwiki.org/wiki/u2ff0-u37b7-u6535-var-004 |No|
+|徵|徴 without 彳|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=14656, 王 not 𡈼/壬, “Assemble; prove”, Don’t confuse with 征 “journey”, https://glyphwiki.org/wiki/u2ff0-u37b7-u6535-var-004|No|
 |括||||
 |盯||||
 |穩|稳|||
@@ -1397,7 +1397,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |忠||||
 |策||||
 |鼻|自丌 (Vertical)|Applies to all derivatives, https://glyphwiki.org/wiki/u22342-var-001|No|
-|鑽|鑚|||
+|鑽|鉆|||
 |池||||
 |虛|虚|||
 |桑||||
@@ -1430,7 +1430,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |羊||||
 |荒||||
 |督||||
-|撤||||
+|撤|扌切|Compare 徹→彻|No, 𢪃|
 |胖||||
 |辭|辞|||
 |增||||
@@ -1504,7 +1504,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |葬||||
 |黨|党|||
 |售||||
-|塗||||
+|塗|涂|||
 |丐||||
 |丑||“Clown; ox”, don’t confuse with 醜 “ugly”||
 |丘||||
@@ -1589,7 +1589,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |僻||||
 |億||||
 |儉|倹|||
-|儒||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
+|儒|偄|Variant: 漢隸字源 (宋 Song)||
 |儘|尽|Merge 盡、儘 into 尽||
 |償|偿|||
 |儡|𡊰|Merge 壘、儡 into 𡊰||
@@ -1624,7 +1624,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |刊||||
 |刨||||
 |刪||||
-|刮||||
+|刮||Merge 刮、颳 into 刮||
 |刷||||
 |券||||
 |剃||||
@@ -1761,7 +1761,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嘉||||
 |嘔|呕|||
 |嘩|Replace 華 with 艹华|Compare 華 Reform, Use Japanese Unicode 化|No|
-|嘮||||
+|嘮|Replace 炏 with 灬||No|
 |嘯|嘨|||
 |嘰|叽|||
 |嘲||||
@@ -1771,7 +1771,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |噠|口大|Compare 達→达, https://glyphwiki.org/wiki/u20bc8|No, 𠯈|
 |噩||||
 |噪||||
-|噸||||
+|噸|吨|||
 |嚎||||
 |嚏|㖒|||
 |嚨|口尨|https://glyphwiki.org/wiki/u54e4-k, Use Korean Unicode 尨|Unicode might display wrong|
@@ -1813,7 +1813,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |塘||||
 |塚||Use Traditional Unicode: 豖 not 豕|Unicode might display wrong|
 |塢||||
-|填||Use Traditional/Simplified Unicode 真|Unicode might display wrong|
+|填||Use Chinese Unicode 真|Unicode might display wrong|
 |塵||||
 |墅||||
 |墉|土用|Compare 傭→佣, https://glyphwiki.org/wiki/u212a4|No, 𡊤|
@@ -2063,7 +2063,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |憊|俻心 (Vertical)|https://glyphwiki.org/wiki/u2ff1-u4ffb-u5fc3|No|
 |憋|比心 (Vertical)|Compare 斃→毙|No|
 |憎||||
-|憑||||
+|憑|凭|Variant: 段注說文 (清 Qing)||
 |憔||||
 |憤||||
 |憨||Use Japanese Unicode 敢|Unicode might display wrong|
@@ -2075,10 +2075,10 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |懊|忄奥|奥 never 奧|Unicode might display wrong|
 |懞||“Sincere”, Don’t confuse with 蒙 “to cover; suffer”、濛 “drizzling”、矇 “to deceive”||
 |懟|対心|https://glyphwiki.org/wiki/u2aafc|No, 𪫼|
-|懦||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
+|懦|愞|Variant: 段注說文 (清 Qing)||
 |懲|惩|||
 |懶|忄束負|負 never 刀貝, Compare 赖|Unicode might display wrong|
-|懸|忄縣 without 系|No 𠃊 protrusion in 縣 left component, Not Simplified nor Japanese appearance|No|
+|懸|忄縣 without 系|No 𠃊 protrusion in 縣 left component, Not Simplified nor Shinjitai appearance|No|
 |懺|忏|||
 |懾|㤴|Compare 鑷→銸||
 |戈||||
@@ -2179,7 +2179,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |摹||||
 |摻|掺|||
 |撇|比手 (Vertical)|Compare 斃→毙、variant 撆|No|
-|撈||||
+|撈|Replace 炏 with 灬||No|
 |撐||||
 |撓|扌尭|https://glyphwiki.org/wiki/u6493-itaiji-001|No|
 |撕||||
@@ -2529,15 +2529,15 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |潰||||
 |澄||||
 |澆|氵尭|https://glyphwiki.org/wiki/u23ddd|No, 𣷝|
-|澇||||
-|澈||||
+|澇|Replace 炏 with 灬||No|
+|澈|沏|Compare 徹→彻||
 |澎||||
 |澗|涀|||
 |澡||||
 |澤|沢|Use Japanese Unicode. Compare 尺 in 訳|Unicode might display wrong|
 |澥|氵介|Compare 蟹→蚧, https://glyphwiki.org/wiki/u23ca4|No, 𣲤|
 |澧|氵匕|Compare 禮 Reform|No|
-|澱||||
+|澱|淀|Variant: 重訂直音篇 (明 Ming)||
 |澳|氵奥|奥 never 奧|Unicode might display wrong|
 |濁|浊|||
 |濃|氵莀|Compare 農→莀|No|
@@ -2596,7 +2596,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |煥||||
 |熄||||
 |熏||||
-|熒||||
+|熒|Replace 炏 with 灬||No|
 |熔||||
 |熙|𤋮|Variant: 偏類碑別字, 臣 never 𦣝||
 |蒸||||
@@ -2611,7 +2611,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |燭|烛|||
 |燮|亦火 (Vertical)|Compare 戀→恋、variant 爕, https://glyphwiki.org/wiki/u2dd22|No, 𭴢|
 |燼|烬|||
-|爍|Left: 火 Right: 幺木(Vertical)|Compare 樂 Reform, Use Chinese Unicode 幺|No|
+|爍|Left: 火 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Chinese Unicode 幺|No|
 |爐|火戶|戶 never 户/戸, Compare 所|Unicode might display wrong|
 |爪||||
 |爹||||
@@ -2661,7 +2661,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瑟||||
 |瑣||||
 |瑤||䍃 top is 夕丶like in 然 never 爫 https://glyphwiki.org/wiki/u7464|Unicode might display wrong|
-|瑩||||
+|瑩|Replace 炏 with 灬||No|
 |瑪||||
 |瑰||||
 |璃||||
@@ -2718,7 +2718,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |癟||||
 |癢|痒|||
 |癩|疒束負|負 never 刀貝, Compare 赖|Unicode might display wrong|
-|癬||||
+|癬|㾌|Variant: 龍龕手鑑 (遼 Liao)||
 |癮|瘾|||
 |癰|痈|||
 |癱|疒歎|Compare 攤→擹|No|
@@ -2797,7 +2797,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |礎||||
 |礙|碍|||
 |礦|硄|Compare 擴→挄||
-|礫|Left: 石 Right: 幺木(Vertical)|Compare 樂 Reform, Use Chinese Unicode 幺|No|
+|礫|Left: 石 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Chinese Unicode 幺|No|
 |礬|矾|||
 |祂||||
 |祟||||
@@ -2844,7 +2844,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |窘||||
 |窟||||
 |窩||||
-|窪||||
+|窪|洼|||
 |窮|亻穹|Compare 躰→体、variant 䠻|No|
 |窯||||
 |窺||||
@@ -2869,9 +2869,9 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |箏|筝|||
 |箕||||
 |箭||||
-|篆|Replace 彑 with 彐|Variant: 集韻 (宋 Song)、四聲篇海 (金 Jin)、重訂直音篇 (明 Ming), Compare 緣→縁, 彐never 彑, https://glyphwiki.org/wiki/u7bc6-var-001|No|
+|篆|Replace 彑 with 彐|Variant: 集韻 (宋 Song)、四聲篇海 (金 Jin)、重訂直音篇 (明 Ming), Compare 緣→縁, 彐 never 彑, https://glyphwiki.org/wiki/u7bc6-var-001|No|
 |篇||戶 never 户/戸|Unicode might display wrong|
-|築|筑|Earlier form||
+|築|筑|Older form||
 |篙||||
 |篡||||
 |篩||||
@@ -2881,10 +2881,10 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |簫|簘|||
 |簸||||
 |簾|帘|Homophone & similar meaning||
-|簿||Use Simplified Unicode 尃|Unicode might display wrong|
+|簿|篰|Sound loan||
 |籃||||
 |籌|筹|||
-|籍||||
+|籍|⺮借|Compare 藉→借|No|
 |籠|⺮尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://glyphwiki.org/wiki/twedu-a03050-014|No|
 |籤|⺮千|“Label; bamboo slip”, Don't confuse with 簽 Reform (⺮㑒) “to sign”, https://glyphwiki.org/wiki/u2ff1-u7af9-u5343|No|
 |籬|筣|Variant: 字彙 (明 Ming)||
@@ -2903,8 +2903,8 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |糜||林 never 𣏟|Unicode might display wrong|
 |糞|粪|||
 |糠||||
-|糧||||
-|糯||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
+|糧|粮|Variant: 玉篇 (梁 Liang)||
+|糯|米耎|Variant: 重訂直音篇 (明 Ming)|No, 𥻟|
 |糰|団|Merge 團、糰 into 団||
 |糴|籴|Variant: 干祿字書 (唐 Tang)、康熙字典 (清 Qing)||
 |糶|粜|Variant: 干祿字書 (唐 Tang)、字彙補 (清 Qing)||
@@ -2936,7 +2936,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |緯||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |縐|䋓|Variant: 四聲篇海 (金 Jin), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |縛||Use Simplified Unicode 尃, Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|縣|Remove 系|Only left component, No 𠃊 protrusion, not Simplified nor Japanese appearance, https://glyphwiki.org/wiki/u770c-var-002|No|
+|縣|Remove 系|Only left component, No 𠃊 protrusion, not Simplified nor Shinjitai appearance, https://glyphwiki.org/wiki/u770c-var-002|No|
 |縫|綘|Variant: 漢隸字源 (宋 Song)、集韻 (宋 Song), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |縮||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |縱|糸从|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥾺 (Needs appearance fixed)|
@@ -3049,7 +3049,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |膳||||
 |膺|广月|Compare 應→応|No|
 |膿|月莀|Compare 農→莀|No|
-|臀||||
+|臀|𡱰|Compare 豚 sound||
 |臂||||
 |臊||||
 |臍|𦜝|||
@@ -3152,7 +3152,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蕪||||
 |蕭|䔥|Traditional when surname||
 |蕾||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
-|薄||Use Simplified Unicode 尃|Unicode might display wrong|
+|薄|萡|||
 |薇|艹𡵉攵|Variant: 康熙字典 (清 Qing), 兀 below 山, https://glyphwiki.org/wiki/koseki-356380|No, 𦵨 (Needs appearance fixed)|
 |薑|姜|||
 |薔|蔷|Compare 嗇→啬||
@@ -3220,7 +3220,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |融||||
 |螞||||
 |螟||||
-|螢||||
+|螢|Replace 炏 with 灬||No|
 |螺||||
 |蟀||||
 |蟆||||
@@ -3230,7 +3230,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |蟻|虫䒑我|Compare 義 Reform|No|
 |蟾|䖧|Compare 擔→担||
 |蠅|No 一 in top 田 of 蝿|Variant: 重訂直音篇 (明 Ming), https://dict.variants.moe.edu.tw/dictView.jsp?ID=40093|No|
-|蠕||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
+|蠕|蝡|Variant: 廣韻 (宋 Song)||
 |蠟|蛚|Compare 獵 Reform (犭列)||
 |蠶|蚕|||
 |蠹|士冖虫 (Vertical)|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=40225|No|
@@ -3401,7 +3401,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |輿|車与|Variant: 集韻 (宋 Song), Simplified 与 Unicode not Japanese, https://glyphwiki.org/wiki/u282ae-var-001|No, 𨊮|
 |轄||||
 |轅|䡇|Compare 遠→远||
-|轍||||
+|轍|車切|Compare 徹→彻|No|
 |轎|車吞|Abbreviates sound component 喬 as 吞|No|
 |轟||||
 |轡|𦀺|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
@@ -3560,7 +3560,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |雌||||
 |雕|彫|雕 originally means “a type of fierce bird” while 彫 originally means “to carve jade”||
 |雛|雏|||
-|雲|云|Earlier form, Variant: 玉篇 (梁 Liang), Applies to all derivatives||
+|雲|云|Older form, Variant: 玉篇 (梁 Liang), Applies to all derivatives||
 |雹||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |霎||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |霜||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
@@ -3575,7 +3575,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |靴||Use Japanese Unicode 化|Unicode might display wrong|
 |靶||||
 |鞍||||
-|鞏|巩|Earlier form. Traditional when surname||
+|鞏|巩|Older form. Traditional when surname||
 |鞠||||
 |鞦|秋|Merge 秋、鞦 into 秋||
 |鞭||||
@@ -3649,9 +3649,9 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |髯|冉彡|Compare 髦→毝|No|
 |髻|吉彡|Compare 髦→毝|No|
 |鬍|胡|Merge 胡、鬍 into 胡||
-|鬚|須|Earlier form, Merge 須、鬚 into 須||
+|鬚|須|Older form, Merge 須、鬚 into 須||
 |鬢|兵彡||No|
-|鬱|林勹玉 (Vertical)|“Gloomy; luxuriant”, Don’t confuse with 郁 “fragrant”, https://glyphwiki.org/wiki/u31908|No, 𱤈|
+|鬱|林勹玉 (Vertical)|“Gloomy; luxuriant”, Don’t confuse with 郁 “fragrant”, https://glyphwiki.org/wiki/u31908|No,|
 |魁||||
 |魄||||
 |魅||||
@@ -3680,7 +3680,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鵡||||
 |鵬||||
 |鵲||||
-|鶯||||
+|鶯|Replace 炏 with 灬||No|
 |鶴||||
 |鷗|鴎|||
 |鷹|广鳥|Compare 應→応, https://glyphwiki.org/wiki/u29fa6|No, 𩾦|
