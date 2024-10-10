@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 882 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 884 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -932,7 +932,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |爆||||
 |鎮||Use Chinese Unicode 真|Unicode might display wrong|
 |暴||||
-|困||||
+|困||Merge 困、睏 into 困||
 |項||||
 |概||||
 |摩||林 never 𣏟|Unicode might display wrong|
@@ -1953,7 +1953,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |嶙|岺|||
 |嶺|岭|||
 |嶼|屿|Simplified 与 Unicode not Japanese||
-|巍||||
+|巍|崣|||
 |巒|峦|亦 appears like in 奕|Unicode might display wrong|
 |巔|嵮|Variant: 字彙 (明 Ming), Use Chinese Unicode 真|Unicode might display wrong|
 |川||||
@@ -2274,7 +2274,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |曹||||
 |朦||||
 |朧|月尨|Use Korean Unicode 尨, https://glyphwiki.org/wiki/hkcs_m43f5|Unicode might display wrong|
-|朱||||
+|朱||Merge 朱、硃 into 朱||
 |朵||||
 |朽||||
 |杆||||
@@ -3279,7 +3279,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |詩||||
 |詭||||
 |詳||||
-|誇||||
+|誇|夸|Original form||
 |誌|志|Merge 志、誌 into 志||
 |誘||||
 |誡||||
