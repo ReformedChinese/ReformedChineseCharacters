@@ -521,7 +521,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |校||||
 |幸||||
 |傳|伝|||
-|復||Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 冖復 for all else||
+|復||Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覄 for all else||
 |量||||
 |首||||
 |改||||
@@ -712,7 +712,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |模||||
 |驗|験|||
 |索||||
-|街|彳介|彳 originates from 行|No|
+|街||||
 |呼||||
 |祝||||
 |料||||
@@ -1281,7 +1281,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |允||||
 |授||||
 |堆||||
-|慶|声心 (Vertical)|Homophone with 殸|No|
+|慶|Remove 乛、夂||No|
 |率||||
 |怒||||
 |寓||||
@@ -1396,7 +1396,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |惜||||
 |忠||||
 |策||||
-|鼻|自丌 (Vertical)|Applies to all derivatives, https://glyphwiki.org/wiki/u22342-var-001|No|
+|鼻|自廾 (Vertical)|Applies to all derivatives, https://glyphwiki.org/wiki/hkcs_m22342|No, 𢍂|
 |鑽|鉆|||
 |池||||
 |虛|虚|||
@@ -2059,7 +2059,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |慰||||
 |慵|𢘭|忄用, Compare 傭→佣|Most likely doesn't support|
 |慷||||
-|憂||||
+|憂|一息 (Vertical)|Variant: 玉篇 (梁 Liang)、重訂直音篇 (明 Ming), https://glyphwiki.org/wiki/u226a7|No, 𢚧|
 |憊|俻心 (Vertical)|https://glyphwiki.org/wiki/u2ff1-u4ffb-u5fc3|No|
 |憋|比心 (Vertical)|Compare 斃→毙|No|
 |憎||||
@@ -3265,7 +3265,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |襠|裆|||
 |襪|袜|Variant: 集韻 (宋 Song)||
 |襯|衬|||
-|覆|復、冖復|Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 冖復 for all else|No|
+|覆|復、覄|Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覄 for all else||
 |覓||||
 |覽|覧|||
 |訛||Use Japanese Unicode 化|Unicode might display wrong|
@@ -3699,7 +3699,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |黔||Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |黴|霉|||
 |鼎||||
-|鼾|Remove 田 in 鼻|Compare 鼻 Reform (no 田)|No|
+|鼾|Replace 畀 with 廾|Compare 鼻 Reform|No|
 |齊|斉|Traditional when surname||
 |齋|斎|||
 |齒|歯|||
