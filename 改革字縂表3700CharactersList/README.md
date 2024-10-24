@@ -521,7 +521,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |校||||
 |幸||||
 |傳|伝|||
-|復||Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覄 for all else||
+|復||Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 㠅 for all else||
 |量||||
 |首||||
 |改||||
@@ -3265,7 +3265,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |襠|裆|||
 |襪|袜|Variant: 集韻 (宋 Song)||
 |襯|衬|||
-|覆|復、覄|Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覄 for all else||
+|覆|復、㠅|Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 㠅 for all else||
 |覓||||
 |覽|覧|||
 |訛||Use Japanese Unicode 化|Unicode might display wrong|
