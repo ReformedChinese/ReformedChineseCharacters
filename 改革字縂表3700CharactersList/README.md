@@ -2213,7 +2213,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |攛|扌串|Compare 撺, https://glyphwiki.org/wiki/u2ab76|No, 𪭶|
 |攜|携|||
 |攢|攅|||
-|攤|擹|Variant: 集韻 (宋 Song)||
+|攤|㨏|Based on variant 擹 where 炭 is homophone of 歎||
 |攪|撹|||
 |攫|𢮭|扌具, Compare 懼→惧, https://glyphwiki.org/wiki/u22bad-jv|Most likely doesn't support|
 |攬|臣𠂉一手|Compare 鍳、variant 擥, https://glyphwiki.org/wiki/u2ff1-cdp-8cc9-u624b|No|
@@ -2564,7 +2564,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |瀾|氵萰||No|
 |灌|氵芄|雚 is variant of 芄|No|
 |灑|洒|Variant: 集韻 (宋 Song)||
-|灘|氵歎|Variant: 龍龕手鑑 (遼 Liao) https://glyphwiki.org/wiki/u24064|No, 𤁤|
+|灘|湠|Based on variant氵歎 where 炭 is homophone of 歎||
 |灣|湾|亦 appears like in 奕|Unicode might display wrong|
 |灩 (灧)|氵丰色|Compare 豔→艳, 丰 appears like 丰 in 邦|No, 滟 (Needs appearance fixed)|
 |灶||||
@@ -2721,7 +2721,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |癬|㾌|Variant: 龍龕手鑑 (遼 Liao)||
 |癮|瘾|||
 |癰|痈|||
-|癱|疒歎|Compare 攤→擹|No|
+|癱|疒炭|Compare 攤→㨏|No|
 |皂||||
 |皆||||
 |皖||||
