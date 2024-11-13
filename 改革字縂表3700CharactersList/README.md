@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 884 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 888 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -231,7 +231,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |望||Use Japanese Unicode 望|Unicode might display wrong|
 |解||Use Traditional/Japanese Unicode 角, https://glyphwiki.org/wiki/u89e3|Unicode might display wrong|
 |其||||
-|離||||
+|離|离|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |談||||
 |又||||
 |新||木 not 朩|Unicode might display wrong|
@@ -589,7 +589,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |講|言勾|Compare 構→构|No|
 |塊||||
 |趣||||
-|類||||
+|類|米犬 (Vertical)|https://glyphwiki.org/wiki/u7c7b-jv|Unicode might display wrong|
 |呀||||
 |戲|戯|Variant: 龍龕手鑑 (遼 Liao)||
 |曾||||
@@ -814,7 +814,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |魚||||
 |滾||||
 |志||Merge 志、誌 into 志||
-|雜|雑|木 not 朩|Unicode might display wrong|
+|雜|九木 (Vertical)|木 not 朩, https://glyphwiki.org/wiki/hkcs_m6742|No|
 |居||||
 |詞||||
 |食||||
@@ -837,7 +837,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |浪||||
 |石||||
 |順||||
-|舉 (擧)|挙|Shinjitai based on 康熙 Kangxi 擧, 手 emphasizes “lift up”||
+|舉 (擧)|举|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |按||||
 |旅||||
 |努||||
@@ -936,7 +936,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |項||||
 |概||||
 |摩||林 never 𣏟|Unicode might display wrong|
-|雖||||
+|雖|虽|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |紐||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |享||||
 |配||||
@@ -3553,7 +3553,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |隘||||
 |隙||||
 |隧||||
-|隸|隷|Compare 歀→款||
+|隸|隶|||
 |雀||||
 |雁||||
 |雇||Merge 雇、僱 into 雇. 戶 never 户/戸|Unicode might display wrong|
@@ -3634,7 +3634,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |駭||||
 |駱||||
 |駿||||
-|騰||||
+|騰|駦|Variant: 龍龕手鑑 (遼 Liao)、 字彙 (明 Ming)||
 |騷||||
 |騾||||
 |驅|駆|||
