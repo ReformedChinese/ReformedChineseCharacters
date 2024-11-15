@@ -2844,7 +2844,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |窘||||
 |窟||||
 |窩||||
-|窪|洼|||
+|窪|窐|Variant of 說文 Shuowen form 漥||
 |窮|亻穹|Compare 躰→体、variant 䠻|No|
 |窯||||
 |窺||||
