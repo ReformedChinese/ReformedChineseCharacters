@@ -277,7 +277,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |管||||
 |玩||||
 |處|処|||
-|辦|弁力||No|
+|辦|弁力|https://glyphwiki.org/wiki/u2ff0-u5f01-u529b|No|
 |主||||
 |氣|气火 (Vertical)|Variant: 字彙補 (清 Qing), https://glyphwiki.org/wiki/simch-kx_t059909|No, 𣱛|
 |每||||
@@ -432,7 +432,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |待||||
 |託||||
 |除||||
-|寫|㝍|Dot above 写||
+|寫|㝍|Dot above 写. https://glyphwiki.org/wiki/u374d-var-003||
 |絕|絶|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |界||||
 |帝||||
@@ -814,7 +814,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |魚||||
 |滾||||
 |志||Merge 志、誌 into 志||
-|雜|九木 (Vertical)|木 not 朩, https://glyphwiki.org/wiki/hkcs_m6742|No|
+|雜|九木 (Vertical)|木 not 朩, https://glyphwiki.org/wiki/u2ff1-u4e5d-u6728|No|
 |居||||
 |詞||||
 |食||||
@@ -1028,7 +1028,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |榮|Replace 炏 with 灬||No|
 |充||||
 |創||||
-|嘗|Remove 日|Compare 寧→寍|No|
+|嘗|Remove 日|Compare 寧→寍, https://glyphwiki.org/wiki/u20920|No, 𠤠|
 |列||||
 |畢|田平 (Vertical)|Variant: 漢隸字源 (宋 Song), Compare 思、畏. Traditional when surname|No|
 |般||||
@@ -1048,7 +1048,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |營|Replace 炏 with 灬|呂 never 吕|No|
 |蘇|䒩|Compare 酥 where 禾 is phonetic abbreviation of 穌. Traditional when surname||
 |爺||||
-|微|𡵉攵|Variant: 說文 (東漢 Eastern Han), 兀 below 山, https://glyphwiki.org/wiki/u2304b|Unicode might display wrong|
+|微|𡵉攵|Variant: 說文 (東漢 Eastern Han), 兀 below 山, https://glyphwiki.org/wiki/u2304b-g|Unicode might display wrong|
 |埃||||
 |抽||||
 |蓋|葢|Variant: 字鑑 (元 Yuan). Compare 盍→盇||
@@ -1658,7 +1658,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |匠||||
 |匣||||
 |匪||||
-|匯|匚水|Compare 匠、医|No|
+|匯|匚水|Compare 匠、医. https://glyphwiki.org/wiki/u2ff7-u531a-u6c34-var-002|No|
 |匾||戶 never 户/戸|Unicode might display wrong|
 |匿||||
 |卑||||
@@ -1788,7 +1788,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |囪|囱|Simplified Unicode (夂 inside not 夕), https://glyphwiki.org/wiki/u56f1-h|Unicode might display wrong|
 |固||||
 |圃||||
-|圓|Replace 員 with 匀|Compare 韻→韵, 匀 never 勻|No|
+|圓|Replace 員 with 匀|Compare 韻→韵, 匀 never 勻. https://glyphwiki.org/wiki/u2ff4-u56d7-u5300|No|
 |均|土匀|匀 never 勻|Unicode might display wrong|
 |坊||||
 |坎||||
@@ -1833,7 +1833,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |壤|圵|||
 |壩|垻|Variant: 重訂直音篇 (明 Ming)||
 |壯||||
-|壹|士冖土|https://glyphwiki.org/wiki/u2ff1-cdpo-81e4-u571f|No|
+|壹|士冖土|https://glyphwiki.org/wiki/u2ff1-cdpo-81e4-u571f-var-001|No|
 |壺||||
 |壽|寿|||
 |夕||||
@@ -2950,7 +2950,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |繩|No 一 in top 田 of 縄|Compare 蠅 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繪|絵|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繫|係|Merge 係、繫 into 係, “to relate; to connect; to tie”, Don’t confuse with 系 “system”||
-|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹|No, 𬗌 (Needs appearance fixed)|
+|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001|No, 𬗌 (Needs appearance fixed)|
 |繳||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繹|䋇|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繽|糸兵|Unhooked Chinese Unicode 糸 left radical never 糹|No|
@@ -3689,10 +3689,10 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鸞|鵉|亦 appears like in 奕|Unicode might display wrong|
 |鹵|卤|“Salt; halogen”, Don’t confuse with 滷 Reform (“thick cooking sauce; stewed”)||
 |鹹|堿|“Salty”, Don’t confuse with 咸 “all”||
-|鹼|𫠗|||
+|鹼|𫠗|https://glyphwiki.org/wiki/u2b817-jv||
 |鹽|土卤|Compare 塷、variant 䀋, https://glyphwiki.org/wiki/u2ff0-u571f-u5364|No|
 |鹿||||
-|麟|鹿令|Compare 憐→怜. Use Traditional Unicode 令 never 令|No|
+|麟|鹿令|Compare 憐→怜. Use Traditional Unicode 令 never 令. https://glyphwiki.org/wiki/u2ff0-u9e7f-u4ee4-var-001|No|
 |麩|麸 (Elongate 麦)|Use Japanese Unicode|Unicode might display wrong|
 |麵|麺 (Elongate 麦）|Use Japanese Unicode|Unicode might display wrong|
 |黍||||
