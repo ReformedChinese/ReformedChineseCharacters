@@ -1028,7 +1028,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |榮|Replace 炏 with 灬||No|
 |充||||
 |創||||
-|嘗|尝|||
+|嘗|Remove 日|Compare 寧→寍|No|
 |列||||
 |畢|田平 (Vertical)|Variant: 漢隸字源 (宋 Song), Compare 思、畏. Traditional when surname|No|
 |般||||
@@ -1119,7 +1119,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |草||艹 is always one connecting 一 stroke||
 |醉|酔|||
 |綁||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|層||||
+|層|层|Approximate analogy to 會→会||
 |吵||||
 |龍||Derivatives’ 龍 component all use variant Korean Unicode 尨 instead https://glyphwiki.org/wiki/u5c28-k||
 |揮||||
@@ -1504,7 +1504,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |葬||||
 |黨|党|||
 |售||||
-|塗|涂|||
+|塗||||
 |丐||||
 |丑||“Clown; ox”, don’t confuse with 醜 “ugly”||
 |丘||||
