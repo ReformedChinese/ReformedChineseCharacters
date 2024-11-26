@@ -1591,7 +1591,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |儉|倹|||
 |儒|偄|Variant: 漢隸字源 (宋 Song)||
 |儘|尽|Merge 盡、儘 into 尽||
-|償|偿|||
+|償|倘|Sound loan||
 |儡|𡊰|Merge 壘、儡 into 𡊰||
 |儲||||
 |兆||||
