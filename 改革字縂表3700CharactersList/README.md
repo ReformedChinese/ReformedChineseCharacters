@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 888 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 893 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -336,7 +336,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |神||||
 |父||||
 |指||||
-|報||||
+|報|报|Variant: 字學三正 (明 Ming), 幸 here originally depicts handcuffs||
 |留||||
 |水||||
 |教||||
@@ -776,7 +776,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |呆||||
 |介||||
 |薩|艹阝産|産 never 產, https://glyphwiki.org/wiki/u85a9-g|Unicode might display wrong|
-|魔||林 never 𣏟|Unicode might display wrong|
+|魔|廆|Abbreviates sound component 麻 as 广, 林 never 𣏟|Unicode might display wrong|
 |急||||
 |碰||||
 |甚||E.g. 甚至, Don’t confuse with 什 e.g. 什庅||
@@ -1093,7 +1093,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |憐|怜|Variant: 集韻 (宋 Song)、正字通 (明 Ming). Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |既||||
 |織|糸戈|Compare 職→聀, Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥾮 (Needs appearance fixed)|
-|執||||
+|執|执|Variant: 佛教難字字典, 幸 here originally depicts handcuffs||
 |戒||||
 |佛||||
 |抗||||
@@ -1817,7 +1817,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |塵||||
 |墅||||
 |墉|土用|Compare 傭→佣, https://glyphwiki.org/wiki/u212a4|No, 𡊤|
-|墊||||
+|墊|垫|Variant: 宋元以來俗字譜, Compare 執→执||
 |墓||||
 |墜||||
 |墩||||
@@ -2174,7 +2174,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |摘||||
 |摟|搂|||
 |摧||||
-|摯||||
+|摯|挚|Variant: 異體字手冊, Compare 執→执||
 |摳|抠|||
 |摹||||
 |摻|掺|||
