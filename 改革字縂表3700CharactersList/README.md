@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧豫楷 Zeo Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 893 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 895 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -949,7 +949,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |賭||||
 |阻||||
 |彩||||
-|搬||||
+|搬|扌舟|Compare 盤→盘, https://glyphwiki.org/wiki/u304de-g|No, 𰓞|
 |屬|属|||
 |招||||
 |婆||||
@@ -1064,7 +1064,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |褲|袴|Variant: 增廣字學舉隅、字辨 (清 Qing)||
 |臨|臣攵|Compare 區→区|No|
 |智||||
-|盤||||
+|盤|盘|Abbreviates sound component 般 as 舟||
 |研||||
 |菲||||
 |歸|阝帚|Traditional left component (𠂤止) resembles 阜 which is阝, https://glyphwiki.org/wiki/zihai-016426|No, 𨺜|
