@@ -1,5 +1,5 @@
 [View/Comment in Google Docs](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)<br>
-Compiled by 盧豫楷 Westin Lu
+Compiled by 盧㵵西 Westin Lu
 
 改革字例句 Reformed Chinese ⚫︎ 500 Example Sentences
 ---
