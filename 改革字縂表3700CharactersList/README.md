@@ -1,5 +1,5 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
-Compiled & proposed by 盧豫楷 Westin Lu
+Compiled & proposed by 盧㵵西 Westin Lu
 
 改革字縂表 Reformed Chinese ⚫︎ 896 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
