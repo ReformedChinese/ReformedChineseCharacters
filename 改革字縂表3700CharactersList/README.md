@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
-Compiled & proposed by 盧豫楷 Zeo Lu
+Compiled & proposed by 盧豫楷 Westin Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 895 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 896 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -521,7 +521,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |校||||
 |幸||||
 |傳|伝|||
-|復||Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 㠅 for all else||
+|復||Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覄 for all else||
 |量||||
 |首||||
 |改||||
@@ -3265,7 +3265,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |襠|裆|||
 |襪|袜|Variant: 集韻 (宋 Song)||
 |襯|衬|||
-|覆|復、㠅|Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 㠅 for all else||
+|覆|復、覄|Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覄 for all else||
 |覓||||
 |覽|覧|||
 |訛||Use Japanese Unicode 化|Unicode might display wrong|
@@ -3681,7 +3681,7 @@ Compiled & proposed by 盧豫楷 Zeo Lu
 |鵬||||
 |鵲||||
 |鶯|Replace 炏 with 灬||No|
-|鶴||||
+|鶴|隺|Variant: 字辨 (清 Qing)||
 |鷗|鴎|||
 |鷹|广鳥|Compare 應→応, https://glyphwiki.org/wiki/u29fa6|No, 𩾦|
 |鸚|Replace 賏 with 巛||No|
