@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧㵵西 Westin Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 896 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 897 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -1925,10 +1925,10 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |屎||||
 |屏||||
 |屑||||
-|屜|屉|||
+|屜|屉|Variant: 正字通 (明 Ming)||
 |屠||||
 |屢|屡|||
-|履||||
+|履|尸伏|Compare 覆→覄, https://glyphwiki.org/wiki/u2ff8-u5c38-u4f0f|No|
 |屯||||
 |屹||||
 |岔||||
