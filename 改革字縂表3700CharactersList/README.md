@@ -814,7 +814,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |魚||||
 |滾||||
 |志||Merge 志、誌 into 志||
-|雜|九木 (Vertical)|木 not 朩, https://glyphwiki.org/wiki/u2ff1-u4e5d-u6728|No|
+|雜|九木 (Vertical)|木 not 朩, https://glyphwiki.org/wiki/u6742-jv|No|
 |居||||
 |詞||||
 |食||||
@@ -2059,7 +2059,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |慰||||
 |慵|𢘭|忄用, Compare 傭→佣|Most likely doesn't support|
 |慷||||
-|憂|一息 (Vertical)|Variant: 玉篇 (梁 Liang)、重訂直音篇 (明 Ming), https://glyphwiki.org/wiki/u226a7|No, 𢚧|
+|憂|頁心 (Vertical)|Variant: 龍龕手鑑 (遼 Liao)、字辨 (清 Qing), https://glyphwiki.org/wiki/u2274a|No, 𢝊|
 |憊|俻心 (Vertical)|https://glyphwiki.org/wiki/u2ff1-u4ffb-u5fc3|No|
 |憋|比心 (Vertical)|Compare 斃→毙|No|
 |憎||||
