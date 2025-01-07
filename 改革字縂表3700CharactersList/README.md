@@ -1,7 +1,7 @@
 [View/Comment/Filter/Reorder in Google Sheets](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/)<br>
 Compiled & proposed by 盧㵵西 Westin Lu
 
-改革字縂表 Reformed Chinese ⚫︎ 897 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
+改革字縂表 Reformed Chinese ⚫︎ 900 Reforms / 3700 漢字 Hanzi (Non-Exhaustive)
 ---
 |傳統字 Traditional|改革字 Reformed|Notes, see [project info](https://medium.com/@ReformedChinese/reformed-chinese-characters-4cab6f8ef63) & [example sentences](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)|Unicode support? Blank is Yes|
 |:---:|:---:|:---:|:---:|
@@ -886,7 +886,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |丟||||
 |冰||||
 |態||||
-|嚇|口㞋|赫 is Southern Min variant of 遐, Don’t confuse with 吓 used commonly in Cantonese|No|
+|嚇|㤸|Based on variant 哧, changes 口 to 忄to differentiate from 哧 chī||
 |古||||
 |亡||||
 |狀||||
@@ -975,7 +975,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |輸||||
 |曲||||
 |仍||||
-|訓||||
+|訓||Merge 借、藉 into 借 except in 慰藉、狼藉 (same as Simplified)||
 |借||||
 |扔||||
 |善||||
@@ -1281,7 +1281,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |允||||
 |授||||
 |堆||||
-|慶|Remove 乛、夂||No|
+|慶|Change 乛 to 一, remove 夂|Resembles 𢛳, emphasizes origin as legendary benevolent deer|No|
 |率||||
 |怒||||
 |寓||||
@@ -1779,7 +1779,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |嚷|口上|https://glyphwiki.org/wiki/u20bb5|No, 𠮵|
 |嚼||||
 |囁|口耴|Compare 鑷→銸, https://glyphwiki.org/wiki/u20cb7|No, 𠲷|
-|囂||||
+|囂|Remove bottom 吅|Variant: 玉篇 (梁 Liang), https://glyphwiki.org/wiki/u20f78|No, 𠽸|
 |囉|口䍜|Compare 羅→䍜|No|
 |囊|士冖上 (Vertical)|Compare 壤→圵|No|
 |囑|嘱|||
@@ -1814,7 +1814,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |塚||Use Traditional Unicode: 豖 not 豕|Unicode might display wrong|
 |塢||||
 |填||Use Chinese Unicode 真|Unicode might display wrong|
-|塵||||
+|塵|Remove 比|Remove 比 when 鹿 is top, https://glyphwiki.org/wiki/u5875-itaiji-002|No|
 |墅||||
 |墉|土用|Compare 傭→佣, https://glyphwiki.org/wiki/u212a4|No, 𡊤|
 |墊|垫|Variant: 宋元以來俗字譜, Compare 執→执||
@@ -1982,7 +1982,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |廁||||
 |廂||||
 |廊||||
-|廈||||
+|廈|广下|Variant: 正字通 (明 Ming)|No, 𢇗|
 |廉||||
 |廓||||
 |廛|㢆|Merge 廛、釐 into 㢆||
@@ -2399,7 +2399,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |殞|歹匀|Compare 韻→韵, 匀 never 勻|No|
 |殲|歼|||
 |殷||||
-|殼|殻 without 殳|Compare 壳, No 一 between 冖 and 几, https://glyphwiki.org/wiki/u58f3-g|Unicode might display wrong|
+|殼|士冖一几|Variant: 字彙補 (清 Qing), 一 between 冖 and 几, https://glyphwiki.org/wiki/u58f3|Unicode might display wrong|
 |殿||||
 |毅||||
 |毆|殴|||
@@ -2884,7 +2884,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |簿|篰|Sound loan||
 |籃||||
 |籌|筹|||
-|籍|⺮借|Compare 藉→借|No|
+|籍|耤|Sound loan, Use Simplified Unicode https://glyphwiki.org/wiki/u8024-g|Unicode might display wrong|
 |籠|⺮尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://glyphwiki.org/wiki/twedu-a03050-014|No|
 |籤|⺮千|“Label; bamboo slip”, Don't confuse with 簽 Reform (⺮㑒) “to sign”, https://glyphwiki.org/wiki/u2ff1-u7af9-u5343|No|
 |籬|筣|Variant: 字彙 (明 Ming)||
