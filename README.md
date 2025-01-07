@@ -53,42 +53,42 @@ Reformed Characters List
 I aimed to keep [Reformed Chinese characters list](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/) straightforward and self-explanatory. You are highly encouraged to <ins>**comment, critique, ask questions**</ins> anywhere in the Google Sheets, please indicate which character set you normally use. I’d love to know your thoughts e.g. you hate a Reform, wonder why a Reform is such a way, believe a character should stay in Traditional, think this project is cool, etc. The leftmost column displays 3700 common Traditional characters following Taiwan standard. You will notice the Chinese name for “Traditional” in column header is「傳統字」instead of the more well-known name「繁體字」. This is because Simplified and Traditional users each have different names for the character sets. Simplified users commonly call Traditional「繁体字」“complex form characters” which is mostly a misrepresentative umbrella term with a biased, often negative undertone. In contrast, many Traditional users call Traditional「正體字」“standard form characters” which isn’t accurate when encompassing the entire Sinosphere where standards now differ regionally. Therefore I literally translated the English name “Traditional characters” into「傳統字」which in Reformed would be「伝統字」, 統 having [unhooked 糸](https://glyphwiki.org/wiki/u7cf8-kp01) instead of 糹. The next column contains 900 character Reforms. Blank row means no change from Traditional otherwise I listed the Reform including character composition if no Unicode support. The following column contains justifications, usage notes, and Unicode appearance info. The header reminds you to <ins>**filter columns for easier, selective viewing**</ins>. Maybe you’ll want to see only character Reforms or ones without proper Unicode support. The last column is Unicode support, blank row means there already is correct Unicode support. When unsure whether a Reform has Unicode support I searched in [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl) e.g. “氵+食” for 湌、“言+上” for “No matching characters found”. At least 250 characters might display different Unicode appearances across other character sets and **Reformed’s purpose is to unify all into one standard**. For example, Reformed 亮 should have 儿 at bottom as found in Traditional Chinese and Japanese Unicodes instead of 几. 101 Reforms have Unicode data but no proper support so they normally will not display e.g. [𧥾](https://glyphwiki.org/wiki/u2797e-g) (⿰言戈)、[𮬥](https://glyphwiki.org/wiki/u2eb25) (⿰鳥几), however you can still **copy and paste them into** [**GlyphWiki**](http://en.glyphwiki.org/wiki/GlyphWiki:MainPage) **search bar** for an idea of how they appear. I also included GlyphWiki links for many Reforms. 224 Reforms do not have any Unicode data or support. In previous Notes column I detailed how Reformed Unicode should appear, these are the main ones which currently have Unicode appearance issues due to merging:
 
 - ⻌ never ⻎
-- Unhooked Chinese Unicode 糸 when left-side radical never 糹
+- Unhooked Chinese Unicode 糸 when [left-side radical](https://glyphwiki.org/wiki/u7cf8-kp01) never 糹
 <img src="https://github.com/ReformedChinese/ReformedChineseCharacters/blob/main/LeftsideRadical糸.png" width=20% height=20%>
 
-- 言 top component is always 亠 never 二
-- 艹 is always one connecting 一 stroke
-- ⻀ is always one connecting 一 stroke
-- 今 is always ⿱亼㇇ (Hong Kong, Taiwan, Japan, Korea, Vietnam standard)
-- 令 is always ⿱亼龴 (Hong Kong, Taiwan, Vietnam standard)
+- [言](https://glyphwiki.org/wiki/u8a00-g) top component is always 亠 never [二](https://glyphwiki.org/wiki/u8a00)
+- [艹](https://glyphwiki.org/wiki/u8279) is always one connecting 一 stroke
+- [⻀](https://glyphwiki.org/wiki/u8279) is always one connecting 一 stroke
+- [今](https://glyphwiki.org/wiki/u4eca) is always ⿱亼㇇ (Hong Kong, Taiwan, Japan, Korea, Vietnam standard)
+- [令](https://glyphwiki.org/wiki/u4ee4-t) is always ⿱亼龴 (Hong Kong, Taiwan, Vietnam standard)
 - 戶 never 户/戸
 - 月 never ⺼
-- 雨 as top component is always ⻗
+- 雨 as [top component](https://glyphwiki.org/wiki/u2ed7) is always ⻗
 - 戋 never 㦮
 - 林 never 𣏟
-- 匀 never 勻
+- [匀](https://glyphwiki.org/wiki/u5300) never 勻
 - 单 never 単
-- 圣 never ⿱ス工 (e.g. 𦙾 not 胫)
-- 亦 as top component is always 亦 itself
+- 圣 never [⿱ス工](https://glyphwiki.org/wiki/u22016) (e.g. 𦙾 not 胫)
+- 亦 as [top component](https://glyphwiki.org/wiki/u4ea6-03-var-001?view=all) is always 亦 itself
 - 术 never 朮
-- 与 final 一 stroke does **not** extend across ㇉
+- [与](https://glyphwiki.org/wiki/u4e0e-g) final 一 stroke does **not** extend across ㇉
 - 呂 never 吕
 - 奥 never 奧
 - 彐 never 彑 except in 互 derivatives
 - 录 never 彔
 - 尔 never 尓
 - 昷 never 𥁕
-- 木 never unhooked 朩
-- 負 never ⿱刀貝
+- 木 never unhooked [朩](https://glyphwiki.org/wiki/u6729)
+- 負 never [⿱刀貝](https://glyphwiki.org/wiki/u8ca0-ue0101)
 - 内 never 內
 - 彦 never 彥
 - 産 never 產
 - 黄 never 黃 except when surname
 - 吴 never 吳 except when surname
 - 步 never 歩
-- 堇 top component is always 廿 never 艹
-- 𦰩 top component is always 廿 never 艹
-- 䍃 top component is 夕丶like in 然 never 爫
+- [堇](https://glyphwiki.org/wiki/u5807) top component is always 廿 never [艹](https://glyphwiki.org/wiki/u26c0c-jv)
+- [𦰩](https://glyphwiki.org/wiki/u26c29-u) top component is always 廿 never [艹](https://glyphwiki.org/wiki/u26c29)
+- [䍃](https://glyphwiki.org/wiki/u4343) top component is 夕丶like in 然 never [爫](https://glyphwiki.org/wiki/u4343-g)
 
 Example Sentences
 ---
