@@ -1062,7 +1062,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |啥||||
 |升||||
 |褲|袴|Variant: 增廣字學舉隅、字辨 (清 Qing)||
-|臨|臣攵|Compare 區→区|No|
+|臨|臣攵|Compare 區→区, https://glyphwiki.org/wiki/u81e8-var-001|No|
 |智||||
 |盤|盘|Abbreviates sound component 般 as 舟||
 |研||||
@@ -3211,7 +3211,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |蝙||戶 never 户/戸|Unicode might display wrong|
 |蝟|猬|Variant: 集韻 (宋 Song)||
 |蝠||||
-|蝦|虫㞋||No|
+|蝦|虫㞋|https://glyphwiki.org/wiki/u8766-var-001|No|
 |蝨|虱|||
 |蝴||||
 |蝶||||
