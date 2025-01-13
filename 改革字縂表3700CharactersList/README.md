@@ -3522,7 +3522,7 @@ Compiled & proposed by 盧㵵西 Westin Lu
 |鑷|銸|Variant: 類篇 (宋 Song)、重訂直音篇 (明 Ming)||
 |鑹|鋛|||
 |鑼|金䍜|Compare 羅→䍜|No|
-|鑿|凿|Used in Qing novels||
+|鑿|鈼|Sound loan||
 |閏||||
 |閘||||
 |閣||||
