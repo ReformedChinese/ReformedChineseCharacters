@@ -120,4 +120,4 @@ Contact
 ---
 Please remember you are encouraged to comment, critique, ask questions about [Reformed Chinese characters list](https://docs.google.com/spreadsheets/d/1lK39EUCqPZukM4NCPzidQg1L0zzKc6zavR6WR9Z6XZQ/) in the Google Sheets itself, I will address them there. Otherwise you may email me at ReformedChinese@gmail.com. You are also welcome to follow [@ReformedChinese on Instagram](https://www.instagram.com/reformedchinese). Thank you!
 
-―盧㵵西 Westin Lu
+―盧聚西 Westin Lu
