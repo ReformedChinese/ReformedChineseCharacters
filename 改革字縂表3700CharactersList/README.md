@@ -870,7 +870,7 @@ Compiled & proposed by 盧聚西 Westin Lu
 |牙||||
 |鬥||“Fight”, Don’t confuse with 斗 “dipper”||
 |雞 (鷄)|鳥几|Compare 鴕、variant 䳶, https://glyphwiki.org/wiki/u2eb25|No, 𮬥|
-|審||||
+|審|宷|Variant: 說文 (東漢 Eastern Han)||
 |南||||
 |速||||
 |蠢|𡗗虫|https://glyphwiki.org/wiki/u2727e|No, 𧉾|
