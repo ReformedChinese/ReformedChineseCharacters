@@ -2549,7 +2549,7 @@ Compiled & proposed by 盧聚西 Westin Lu
 |濤|涛|||
 |濫||||
 |濱|浜|||
-|濺|氵貝戋|戋 never 㦮, https://glyphwiki.org/wiki/u23ffd-var-001|No|
+|濺|洊|Sound loan||
 |濾|滤|||
 |瀆|Replace 賣 with 士冖天|Compare 賣 Reform, https://glyphwiki.org/wiki/u6d9c-itaiji-001|No|
 |瀉|氵㝍||No|
