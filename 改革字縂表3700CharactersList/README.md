@@ -776,7 +776,7 @@ Compiled & proposed by 盧聚西 Westin Lu
 |呆||||
 |介||||
 |薩|艹阝産|産 never 產, https://glyphwiki.org/wiki/u85a9-g|Unicode might display wrong|
-|魔|廆|Abbreviates sound component 麻 as 广, 林 never 𣏟|Unicode might display wrong|
+|魔||林 never 𣏟|Unicode might display wrong|
 |急||||
 |碰||||
 |甚||E.g. 甚至, Don’t confuse with 什 e.g. 什庅||
@@ -3566,7 +3566,7 @@ Compiled & proposed by 盧聚西 Westin Lu
 |霜||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |霞|雨㞋|Use Simplified/Japanese Unicode: ⻗ top component|No|
 |霧|雺|Variant: 五經文字 (唐 Tang)、玉篇 (梁 Liang)、集韻 (宋 Song), Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
-|霸||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
+|霸|䩗|Earlier form||
 |霹||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |靂|雨歴|Use Simplified/Japanese Unicode: ⻗ top component|No, 𮦷|
 |靖||||
@@ -3634,7 +3634,7 @@ Compiled & proposed by 盧聚西 Westin Lu
 |駭||||
 |駱||||
 |駿||||
-|騰|駦|Variant: 龍龕手鑑 (遼 Liao)、 字彙 (明 Ming)||
+|騰||||
 |騷||||
 |騾||||
 |驅|駆|||
