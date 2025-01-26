@@ -3566,7 +3566,7 @@ Compiled & proposed by 盧聚西 Westin Lu
 |霜||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |霞|雨㞋|Use Simplified/Japanese Unicode: ⻗ top component|No|
 |霧|雺|Variant: 五經文字 (唐 Tang)、玉篇 (梁 Liang)、集韻 (宋 Song), Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
-|霸|䩗|Earlier form||
+|霸|䩗|Older form||
 |霹||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |靂|雨歴|Use Simplified/Japanese Unicode: ⻗ top component|No, 𮦷|
 |靖||||
