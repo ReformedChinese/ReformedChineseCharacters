@@ -975,8 +975,8 @@ Compiled & proposed by 盧聚西 Westin Lu
 |輸||||
 |曲||||
 |仍||||
-|訓||Merge 借、藉 into 借 except in 慰藉、狼藉 (same as Simplified)||
-|借||||
+|訓||||
+|借||Merge 借、藉 into 借 except in 慰藉、狼藉 (same as Simplified)||
 |扔||||
 |善||||
 |社||||
