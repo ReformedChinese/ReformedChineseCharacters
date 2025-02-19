@@ -96,7 +96,7 @@ Compiled & proposed by 盧聚西 Westin Lu
 |心||||
 |走||||
 |定||||
-|聽|耳𢛳|一 above 心 https://glyphwiki.org/wiki/u265df|No, 𦗟|
+|聽|咡|Taiwan shorthand||
 |覺|覚|||
 |太||||
 |該||||
@@ -2885,7 +2885,7 @@ Compiled & proposed by 盧聚西 Westin Lu
 |籃||||
 |籌|筹|||
 |籍|耤|Sound loan, Use Simplified Unicode https://glyphwiki.org/wiki/u8024-g|Unicode might display wrong|
-|籠|⺮尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://glyphwiki.org/wiki/twedu-a03050-014|No|
+|籠|⺮尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://glyphwiki.org/wiki/twedu-a03050-015|No|
 |籤|⺮千|“Label; bamboo slip”, Don't confuse with 簽 Reform (⺮㑒) “to sign”, https://glyphwiki.org/wiki/u2ff1-u7af9-u5343|No|
 |籬|筣|Variant: 字彙 (明 Ming)||
 |籮|⺮䍜|Compare 羅→䍜|No|
