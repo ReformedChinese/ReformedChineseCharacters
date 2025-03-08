@@ -1,7 +1,7 @@
 [View/Comment in Google Docs](https://docs.google.com/document/d/1XGCylNrAD9i-QXMl6PCp8xRJoje6TnahUXfSqUrhDNc/)<br>
 Compiled by 盧聚西 Westin Juxi Lu
 
-改革字例句 Reformed Chinese ⚫︎ 500 Example Sentences
+改革字例句 Reformed Chinese • 500 Example Sentences
 ---
 改革字 Reformed Chinese<br>
 傳統字 Traditional Chinese<br>
