@@ -605,7 +605,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |終||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |差||||
 |夢||||
-|贏|貝盈 (Horizontal)|Compare 楹, Everything except 貝 is sound component|No|
+|贏|貝夃 (Horizontal)|Based on variant ⿵乃夕 with meaning component 貝 https://glyphwiki.org/wiki/u8d0f-var-002|No|
 |藥|艹幺木 (Vertical)|Compare 樂 Reform, Use Chinese Unicode 幺|No|
 |迪||||
 |店||||
@@ -2557,7 +2557,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |瀏|溜|Merge 溜、瀏 into 溜||
 |瀑||||
 |瀕||||
-|瀛|溋|Compare 贏 Reform||
+|瀛|溋|Replaces sound component 嬴 with homophone 盈||
 |瀝|𤁋|||
 |瀡|氵陏|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=62557|No|
 |瀰|弓尔|Merge 彌、瀰 into 弥. 尔 never 尓|Unicode might display wrong|
