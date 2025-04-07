@@ -1281,7 +1281,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |允|||
 |授|||
 |堆|||
-|慶|Change 乛 to 一, remove 夂|Resembles 𢛳, emphasizes origin as legendary benevolent deer|No
+|慶|Remove 乛 and 夂||No
 |率|||
 |怒|||
 |寓|||
