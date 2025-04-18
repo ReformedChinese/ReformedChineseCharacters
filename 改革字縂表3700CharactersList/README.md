@@ -1833,7 +1833,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |壤|圵|||
 |壩|垻|Variant: 重訂直音篇 (明 Ming)||
 |壯||||
-|壹|士冖土|https://glyphwiki.org/wiki/u2ff1-cdpo-81e4-u571f-var-001|No|
+|壹|㐊|Replaces sound component 吉 with sound-meaning 乙||
 |壺||||
 |壽|寿|||
 |夕||||
