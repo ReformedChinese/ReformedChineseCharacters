@@ -5,7 +5,7 @@ Compiled by 盧聚西 Westin Juxi Lu
 ---
 改革字 Reformed Chinese<br>
 傳統字 Traditional Chinese<br>
-简破字 Simplified Chinese<br>
+破简字 Simplified Chinese<br>
 <br>
 我很会釣魚喔<br>
 我很會釣魚喔<br>
