@@ -586,7 +586,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |餵||||
 |集||||
 |極||||
-|講|言勾|Compare 構→构|No|
+|講|言勾|Compare 構→构, https://glyphwiki.org/wiki/u8b1b-itaiji-010|No|
 |塊||||
 |趣||||
 |類|米犬 (Vertical)|https://glyphwiki.org/wiki/u7c7b-jv|Unicode might display wrong|
@@ -1953,7 +1953,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |嶙|岺|||
 |嶺|岭|||
 |嶼|屿|Simplified 与 Unicode not Japanese||
-|巍|崣|||
+|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high”||
 |巒|峦|亦 appears like in 奕|Unicode might display wrong|
 |巔|嵮|Variant: 字彙 (明 Ming), Use Chinese Unicode 真|Unicode might display wrong|
 |川||||
@@ -3598,7 +3598,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |頸|頚|||
 |頹||||
 |顛|傎|Variant: 字辨 (清 Qing)||
-|顫|玄頁|Compare 壇→𡊨|No, 𩑹|
+|顫|玄頁|Compare 壇→𡊨, https://glyphwiki.org/wiki/u29479-g|No, 𩑹|
 |顱|戶頁|戶 never 户/戸, Compare 所|No|
 |颯||||
 |颱|台|Merge 台、颱、臺、檯 into 台||
@@ -3621,7 +3621,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |饒|𩜙|||
 |饗|餉|Merge 餉、饗 into 餉||
 |饞|食馋 without饣|https://glyphwiki.org/wiki/u2974e-var-002|No, 𩝎|
-|馨|声香 (Horizontal)||No|
+|馨|声香 (Horizontal)|http://glyphwiki.org/wiki/u2ff0-u58f0-u9999|No|
 |馮||||
 |馱||||
 |馳||||
@@ -3704,4 +3704,4 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |齋|斎|||
 |齒|歯|||
 |齡|齢|Use Traditional Unicode 令 never 令|Unicode might display wrong|
-|龜|No 一 in top 田 of 亀|Variant: 金瓶梅詞話 (明 Ming), https://glyphwiki.org/wiki/u2ffb-u20ba5-u7535-var-003|No|
+|龜|No 一 in top 田 of 亀|Variant: 金瓶梅詞話 (明 Ming), https://glyphwiki.org/wiki/u2ffb-u20ba5-u7535-var-003|No
