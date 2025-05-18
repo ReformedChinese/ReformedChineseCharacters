@@ -172,7 +172,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |無||||
 |晚||||
 |動||||
-|頭||||
+|頭|⿰斗頁|Replaces sound 豆 with near homophone 斗, shares same initial strokes with 头. https://glyphwiki.org/wiki/u2946f|No, 𩑯|
 |機|机|||
 |分||||
 |特||||
@@ -461,12 +461,12 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |忙||||
 |壞|坏|||
 |久||||
-|議|言䒑我|Compare 義 Reform|No|
+|議|⿰言义|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), https://glyphwiki.org/wiki/u32064-var-001|No, 𲁤|
 |衣||||
 |血||||
 |鐘|鈡|Variant: 四聲篇海 (金 Jin), “clock”, Don’t confuse with 鍾 “cup”||
 |繼|継|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|禮|礻匕|Variant: 碑別字新編, Compare 礼, https://glyphwiki.org/wiki/u25607-i|No, 𥘇|
+|禮|礼|Variant: 干祿字書 (唐 Tang)||
 |數|数|||
 |份||||
 |瘋||||
@@ -661,7 +661,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |標||||
 |檢|検|||
 |各||||
-|義|䒑我|Compare 前、益, Applies to all derivatives|No|
+|義|⿱䒑我|Abbreviates 羊 as 䒑, Compare 前、sound 益. Derivatives’ 義 component all use 义 instead. https://glyphwiki.org/wiki/u2ff1-u4491-u6211|No|
 |百||||
 |民||||
 |功||||
@@ -712,7 +712,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |模||||
 |驗|験|||
 |索||||
-|街||||
+|街|⿰彳介|彳 originates from 行, replaces sound component 圭 with 介, compare 1960 溫州 variant 彳甲. https://glyphwiki.org/wiki/u2ff0-u5f73-u4ecb|No|
 |呼||||
 |祝||||
 |料||||
@@ -885,7 +885,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |塔||||
 |丟||||
 |冰||||
-|態||||
+|態|态|Replaces sound component 能 with 太||
 |嚇|㤸|Based on variant 哧, changes 口 to 忄to differentiate from 哧 chī||
 |古||||
 |亡||||
@@ -949,7 +949,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |賭||||
 |阻||||
 |彩||||
-|搬|扌舟|Compare 盤→盘, https://glyphwiki.org/wiki/u304de-g|No, 𰓞|
+|搬|⿺辶半|Compare 盤→⿱半皿, 辶 as 拌 is already a different character, 辶 because 送. https://glyphwiki.org/wiki/u28483-g|No, 𨒃|
 |屬|属|||
 |招||||
 |婆||||
@@ -1064,7 +1064,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |褲|袴|Variant: 增廣字學舉隅、字辨 (清 Qing)||
 |臨|臣攵|Compare 區→区, https://glyphwiki.org/wiki/u81e8-var-001|No|
 |智||||
-|盤|盘|Abbreviates sound component 般 as 舟||
+|盤|⿱半皿|Replaces sound component 般 with near homophone 半|No|
 |研||||
 |菲||||
 |歸|阝帚|Traditional left component (𠂤止) resembles 阜 which is阝, https://glyphwiki.org/wiki/zihai-016426|No, 𨺜|
@@ -1370,7 +1370,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |穩|稳|||
 |膽|胆|||
 |甲||||
-|賴|束負|負 never 刀貝, Applies to all derivatives, Compare 赖|Unicode might display wrong|
+|賴|束負|負 never 刀貝, Applies to all derivatives, Compare 赖. https://glyphwiki.org/wiki/u8cf4-g|Unicode might display wrong|
 |啤||||
 |佩||||
 |啟 (啓)||戶 never 户/戸|Unicode might display wrong|
@@ -1384,7 +1384,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |震||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |述||术 never 朮|Unicode might display wrong|
 |陣||||
-|儀|亻䒑我|Compare 義 Reform|No|
+|儀|仪|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |乖||||
 |宮||呂 never 吕||
 |咬||||
@@ -2536,7 +2536,6 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |澡||||
 |澤|沢|Use Japanese Unicode. Compare 尺 in 訳|Unicode might display wrong|
 |澥|氵介|Compare 蟹→蚧, https://glyphwiki.org/wiki/u23ca4|No, 𣲤|
-|澧|氵匕|Compare 禮 Reform|No|
 |澱|淀|Variant: 重訂直音篇 (明 Ming)||
 |澳|氵奥|奥 never 奧|Unicode might display wrong|
 |濁|浊|||
@@ -2851,6 +2850,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |窿||||
 |竄|穴虫|Replaces mouse with snake/worm/insect, https://glyphwiki.org/wiki/u27274|No, 𧉴|
 |竅|窍|||
+|竇|⿱穴豆|Variant: 字彙 (明 Ming), https://glyphwiki.org/wiki/u25977-var-002|No, 𥥷|
 |竊|窃|||
 |竣||||
 |竭||||
@@ -2961,7 +2961,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |纛|巾毒 (Horizontal)|Variant: 四聲篇海 (金 Jin)、字彙補 (清 Qing), https://glyphwiki.org/wiki/u220f6-t|No, 𢃶|
 |纜|臣𠂉一糸|Compare 攬 Reform, 鍳|No|
 |缸||||
-|罈|缶昙|Compare variant 罎, 曇→昙|No|
+|罈|缶昙|Compare variant 罎、曇→昙|No|
 |罐|缶芄|雚 is variant of 芄|No|
 |罕||||
 |罩||||
@@ -3227,7 +3227,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |蟋||||
 |蟬|虫单|单 never 単|Unicode might display wrong|
 |蟹|蚧|Cantonese shorthand||
-|蟻|虫䒑我|Compare 義 Reform|No|
+|蟻|蚁|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |蟾|䖧|Compare 擔→担||
 |蠅|No 一 in top 田 of 蝿|Variant: 重訂直音篇 (明 Ming), https://dict.variants.moe.edu.tw/dictView.jsp?ID=40093|No|
 |蠕|蝡|Variant: 廣韻 (宋 Song)||
@@ -3651,7 +3651,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |鬍|胡|Merge 胡、鬍 into 胡||
 |鬚|須|Older form, Merge 須、鬚 into 須||
 |鬢|兵彡||No|
-|鬱|林勹玉 (Vertical)|“Gloomy; luxuriant”, Don’t confuse with 郁 “fragrant”, https://glyphwiki.org/wiki/u31908|No,|
+|鬱|林勹玉 (Vertical)|“Gloomy; luxuriant”, Don’t confuse with 郁 “fragrant”, https://glyphwiki.org/wiki/u31908|No, 𱤈|
 |魁||||
 |魄||||
 |魅||||
@@ -3704,4 +3704,4 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |齋|斎|||
 |齒|歯|||
 |齡|齢|Use Traditional Unicode 令 never 令|Unicode might display wrong|
-|龜|No 一 in top 田 of 亀|Variant: 金瓶梅詞話 (明 Ming), https://glyphwiki.org/wiki/u2ffb-u20ba5-u7535-var-003|No
+|龜|No 一 in top 田 of 亀|Variant: 金瓶梅詞話 (明 Ming), https://glyphwiki.org/wiki/u2ffb-u20ba5-u7535-var-003|No|
