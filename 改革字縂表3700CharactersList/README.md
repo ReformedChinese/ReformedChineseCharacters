@@ -712,7 +712,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |模||||
 |驗|験|||
 |索||||
-|街|⿰彳介|彳 originates from 行, replaces sound component 圭 with 介, compare 1960 溫州 variant 彳甲. https://glyphwiki.org/wiki/u2ff0-u5f73-u4ecb|No|
+|街|⿰彳介|彳 originates from 行, replaces sound 圭 with 介, compare 1960 溫州 shorthand 彳甲. https://glyphwiki.org/wiki/u2ff0-u5f73-u4ecb|No|
 |呼||||
 |祝||||
 |料||||
@@ -1064,7 +1064,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |褲|袴|Variant: 增廣字學舉隅、字辨 (清 Qing)||
 |臨|臣攵|Compare 區→区, https://glyphwiki.org/wiki/u81e8-var-001|No|
 |智||||
-|盤|⿱半皿|Replaces sound component 般 with near homophone 半|No|
+|盤|⿱半皿|Replaces sound component 般 with near homophone 半, Compare variant 柈|No|
 |研||||
 |菲||||
 |歸|阝帚|Traditional left component (𠂤止) resembles 阜 which is阝, https://glyphwiki.org/wiki/zihai-016426|No, 𨺜|
