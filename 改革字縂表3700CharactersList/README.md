@@ -805,7 +805,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |波||||
 |衛|徫|彳 originates from 行||
 |聊||||
-|養||||
+|養|䍩|Variant: 集韻 (宋 Song)、康熙字典 (清 Qing)||
 |導||||
 |慮|虑|||
 |私||||
