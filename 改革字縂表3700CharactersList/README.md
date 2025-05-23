@@ -3265,7 +3265,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |襠|裆|||
 |襪|袜|Variant: 集韻 (宋 Song)||
 |襯|衬|||
-|覆|Replace 木 in 傈 with 犬|⿰亻⿱覀犬. Based on variant 覄. Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覆 Reform for all else||
+|覆|Replace 木 in 傈 with 犬|⿰亻⿱覀犬. Based on variant 覄. Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覆 Reform for all else|No|
 |覓||||
 |覽|覧|||
 |訛||Use Japanese Unicode 化|Unicode might display wrong|
