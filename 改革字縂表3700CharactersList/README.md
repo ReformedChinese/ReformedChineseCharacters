@@ -566,7 +566,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |控||||
 |味||||
 |區|区|||
-|漂||||
+|漂||Merge 飄、漂 into 漂||
 |支||||
 |乎||||
 |錄|録|录 never 彔||
@@ -629,7 +629,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |市||||
 |城||||
 |哇||||
-|權|木芄|雚 is variant of 芄|No|
+|權|木芄|雚 is variant of 芄, https://glyphwiki.org/wiki/u2ff0-u6728-u8284|No|
 |某||||
 |激||||
 |立||||
@@ -712,7 +712,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |模||||
 |驗|験|||
 |索||||
-|街|⿰彳介|彳 originates from 行, replaces sound 圭 with 介, compare 1960 溫州 shorthand 彳甲. https://glyphwiki.org/wiki/u2ff0-u5f73-u4ecb|No|
+|街|⿰彳介|c|No|
 |呼||||
 |祝||||
 |料||||
@@ -809,7 +809,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |導||||
 |慮|虑|||
 |私||||
-|戴||||
+|戴|亻帯|Based on supposed variant 侢, replaces sound 再 with 戴 near homophone 帯, https://glyphwiki.org/wiki/u30097-jv|No, 𰂗 (Needs appearance fixed)|
 |毀||||
 |魚||||
 |滾||||
@@ -2844,7 +2844,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |窟||||
 |窩||||
 |窪|窐|Variant of 說文 Shuowen form 漥||
-|窮|亻穹|Compare 躰→体、variant 䠻|No|
+|窮|亻穹|Compare 躰→体、variant 䠻, https://glyphwiki.org/wiki/u2ff0-u4ebb-u7a79|No|
 |窯||||
 |窺||||
 |窿||||
@@ -3265,7 +3265,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |襠|裆|||
 |襪|袜|Variant: 集韻 (宋 Song)||
 |襯|衬|||
-|覆|Replace 木 in 傈 with 犬|⿰亻⿱覀犬. Based on variant 覄. Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覆 Reform for all else|No|
+|覆|Replace 木 in 傈 with 犬|⿰亻⿱覀犬. Based on variant 覄. Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覆 Reform for all else. https://glyphwiki.org/wiki/u2ff0-u4ebb-u2ff1-u8980-u72ac|No|
 |覓||||
 |覽|覧|||
 |訛||Use Japanese Unicode 化|Unicode might display wrong|
@@ -3602,7 +3602,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |顱|戶頁|戶 never 户/戸, Compare 所|No|
 |颯||||
 |颱|台|Merge 台、颱、臺、檯 into 台||
-|飄||||
+|飄|漂|Merge 飄、漂 into 漂||
 |飆|猋|||
 |飢||Merge 飢、饑 into 飢||
 |飲||||
