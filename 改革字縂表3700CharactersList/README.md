@@ -521,7 +521,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |校||||
 |幸||||
 |傳|伝|||
-|復||Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覆 Reform for all else||
+|復||Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覄 for all else||
 |量||||
 |首||||
 |改||||
@@ -1928,7 +1928,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |屜|屉|Variant: 正字通 (明 Ming)||
 |屠||||
 |屢|屡|||
-|履|尸伏|Compare 覆 Reform, https://glyphwiki.org/wiki/u2ff8-u5c38-u4f0f|No|
+|履|尸伏|Compare 覆→覄, https://glyphwiki.org/wiki/u2ff8-u5c38-u4f0f|No|
 |屯||||
 |屹||||
 |岔||||
@@ -3265,7 +3265,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |襠|裆|||
 |襪|袜|Variant: 集韻 (宋 Song)||
 |襯|衬|||
-|覆|Replace 木 in 傈 with 犬|⿰亻⿱覀犬. Based on variant 覄. Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覆 Reform for all else. https://glyphwiki.org/wiki/u2ff0-u4ebb-u2ff1-u8980-u72ac|No|
+|覆|覄|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan). Merge 復、覆 into 復 for “return; reply” only (same as Simplified usage), 覄 for all else||
 |覓||||
 |覽|覧|||
 |訛||Use Japanese Unicode 化|Unicode might display wrong|
