@@ -250,7 +250,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |結||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |利||||
 |朋||||
-|警|言苟|https://glyphwiki.org/wiki/u2ff0-u8a00-u82df|No|
+|警|言苟|Abbreviates sound component 敬, https://glyphwiki.org/wiki/u2ff0-u8a00-u82df-var-001|No|
 |士||||
 |外||||
 |件||||
@@ -526,7 +526,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |首||||
 |改||||
 |忘||||
-|術|彳术|彳 originates from 行, 术 never 朮|No|
+|術|彳术|彳 originates from 行, 术 never 朮, https://glyphwiki.org/wiki/u2ff0-u5f73-u672f|No|
 |局||||
 |客||||
 |假|亻㞋||No|
@@ -809,7 +809,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |導||||
 |慮|虑|||
 |私||||
-|戴|亻帯|Based on supposed variant 侢, replaces sound 再 with 戴 near homophone 帯, https://glyphwiki.org/wiki/u30097-jv|No, 𰂗 (Needs appearance fixed)|
+|戴|亻帯|Based on supposed variant 侢, replaces sound 再 with 戴 near homophone 帯, https://glyphwiki.org/wiki/u30097-var-002|No, 𰂗 (Needs appearance fixed)|
 |毀||||
 |魚||||
 |滾||||
@@ -999,7 +999,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |搶||||
 |檔|档|||
 |僱|雇|Merge 雇、僱 into 雇. 戶 never 户/戸|Unicode might display wrong|
-|廣|广光|Korean hanja shorthand, 黃 is sound component, https://glyphwiki.org/wiki/u2d65b-var-001|No, 𭙛|
+|廣|广光|Korean hanja shorthand, 黃 is sound component, https://glyphwiki.org/wiki/u2d65b-var-001. 光 when sound in derivatives|No, 𭙛|
 |丹||||
 |銀||||
 |鏡||||
@@ -1030,7 +1030,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |創||||
 |嘗|Remove 日|Compare 寧→寍, https://glyphwiki.org/wiki/u20920|No, 𠤠|
 |列||||
-|畢|田平 (Vertical)|Variant: 漢隸字源 (宋 Song), Compare 思、畏. Traditional when surname|No|
+|畢|田平 (Vertical)|Variant: 漢隸字源 (宋 Song), https://glyphwiki.org/wiki/zihai-001340. Traditional when surname. 必 when sound in derivatives|No|
 |般||||
 |聚|取乑|Use Simplified Unicode, Variant: 隸辨 (清 Qing), https://glyphwiki.org/wiki/u805a-var-002|Unicode might display wrong|
 |勞|Replace 炏 with 巛|⿳巛冖力. Partially replaces 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女|No|
