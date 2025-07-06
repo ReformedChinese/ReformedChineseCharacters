@@ -3045,7 +3045,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |膝||||
 |膠|胶|||
 |膨||||
-|膩|月弍|Variant: 說文 (東漢 Eastern Han), https://glyphwiki.org/wiki/u81a9-itaiji-001|No|
+|膩|胒|Variant: 龍龕手鏡 (遼 Liao)||
 |膳||||
 |膺|广月|Compare 應→応|No|
 |膿|月莀|Compare 農→莀|No|
