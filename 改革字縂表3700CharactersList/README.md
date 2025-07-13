@@ -1092,7 +1092,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |降||||
 |憐|怜|Variant: 集韻 (宋 Song)、正字通 (明 Ming). Use Traditional Unicode 令 never 令|Unicode might display wrong|
 |既||||
-|織|糸戈|Compare 職→聀, Unhooked Chinese Unicode 糸 left radical never 糹|No, 𥾮 (Needs appearance fixed)|
+|織|糸戈|Compare 職→聀, Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u25fae-var-001|No, 𥾮 (Needs appearance fixed)|
 |執|执|Variant: 佛教難字字典, 幸 here originally depicts handcuffs||
 |戒||||
 |佛||||
