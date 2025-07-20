@@ -712,7 +712,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |模||||
 |驗|験|||
 |索||||
-|街|⿰彳介|c|No|
+|街|⿰彳介||No|
 |呼||||
 |祝||||
 |料||||
@@ -1396,7 +1396,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |惜||||
 |忠||||
 |策||||
-|鼻|自廾 (Vertical)|Applies to all derivatives, https://glyphwiki.org/wiki/hkcs_m22342|No, 𢍂|
+|鼻|自廾 (Vertical)|Applies to all derivatives, https://glyphwiki.org/wiki/u22342-jv|No, 𢍂|
 |鑽|鉆|||
 |池||||
 |虛|虚|||
@@ -1581,7 +1581,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |債||||
 |傾||||
 |僑|亻呑|Abbreviates sound component 喬 as 呑|No|
-|僕|亻业|Compare 業→业、variant 㒒|No|
+|僕|亻业|Compare 業→业、variant 㒒, https://glyphwiki.org/wiki/u2ff0-u4ebb-u4e1a|No|
 |僚|Replace 尞 top with 大|Variant: 碑別字新編, https://glyphwiki.org/wiki/u50da-itaiji-001|No|
 |僥|亻尭|https://glyphwiki.org/wiki/u50e5-itaiji-001|No|
 |僧||||
@@ -1953,7 +1953,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |嶙|岺|||
 |嶺|岭|||
 |嶼|屿|Simplified 与 Unicode not Japanese||
-|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high”||
+|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high” ||
 |巒|峦|亦 appears like in 奕|Unicode might display wrong|
 |巔|嵮|Variant: 字彙 (明 Ming), Use Chinese Unicode 真|Unicode might display wrong|
 |川||||
@@ -2204,7 +2204,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |擱||||
 |擲||||
 |擴|挄|Variant: 字彙 (明 Ming)||
-|攀|扌凡||No|
+|攀|扌凡|Compare 礬→矾, https://glyphwiki.org/wiki/u2ff0-u624c-u51e1|No|
 |攆||||
 |攏|扌尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://dict.variants.moe.edu.tw/dictView.jsp?ID=18394|No|
 |攔|扌萰||No|
@@ -2797,7 +2797,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |礙|碍|||
 |礦|硄|Compare 擴→挄||
 |礫|Left: 石 Right: 幺木 (Vertical)|Compare 樂 Reform, Use Chinese Unicode 幺|No|
-|礬|矾|||
+|礬|矾|Based on sound loan 凡||
 |祂||||
 |祟||||
 |祠||||
@@ -2843,7 +2843,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |窘||||
 |窟||||
 |窩||||
-|窪|窐|Variant of 說文 Shuowen form 漥||
+|窪|窐|Variant of 說文 Shuowen form 漥 ||
 |窮|亻穹|Compare 躰→体、variant 䠻, https://glyphwiki.org/wiki/u2ff0-u4ebb-u7a79|No|
 |窯||||
 |窺||||
@@ -2950,12 +2950,12 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |繩|No 一 in top 田 of 縄|Compare 蠅 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繪|絵|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繫|係|Merge 係、繫 into 係, “to relate; to connect; to tie”, Don’t confuse with 系 “system”||
-|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001|No, 𬗌 (Needs appearance fixed)|
+|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001 |No, 𬗌 (Needs appearance fixed)|
 |繳||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繹|䋇|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繽|糸兵|Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繾|Remove 辶|Unhooked Chinese Unicode 糸 left radical never 糹|No|
-|纏|糸㢆|Compare 缠, Unhooked Chinese Unicode 糸 left radical never 糹|No|
+|纏|糸㢆|Compare 缠, Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u7f20-itaiji-002|No|
 |纓|Replace 賏 with 巛|⿰糸⿱巛女. Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u2ff0-u7cf8-u2bc0a|No|
 |纖|䊹|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |纛|巾毒 (Horizontal)|Variant: 四聲篇海 (金 Jin)、字彙補 (清 Qing), https://glyphwiki.org/wiki/u220f6-t|No, 𢃶|
@@ -3161,7 +3161,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |薪||||
 |薯||||
 |薺|萕|||
-|藐||||
+|藐|艹㹸|Compare 貌→㹸|No|
 |藕||||
 |藤||||
 |藹||||
@@ -3321,7 +3321,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |豫||||
 |豹||||
 |豺||||
-|貌||||
+|貌|㹸|Variant: 精嚴新集大藏音||
 |貞||||
 |貢||||
 |貧||||
