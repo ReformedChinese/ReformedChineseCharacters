@@ -70,7 +70,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |天||||
 |把||||
 |開||||
-|讓|言上|襄 sounds close to 上 in Wu dialects, Compare 让, http://glyphwiki.org/wiki/u2ff0-u8a00-u4e0a-var-001|No|
+|讓|言上|襄 sounds close to 上 in Wu dialects, Compare 让, https://glyphwiki.org/wiki/u2ff0-u8a00-u4e0a-var-001|No|
 |給||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |但||||
 |謝||||
@@ -236,7 +236,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |又||||
 |新||木 not 朩|Unicode might display wrong|
 |更||||
-|錢|金戋|戋 never 㦮, Compare 銭. Traditional when surname, http://glyphwiki.org/wiki/zihai-151741|No|
+|錢|金戋|戋 never 㦮, Compare 銭. Traditional when surname, https://glyphwiki.org/wiki/zihai-151741|No|
 |馬||||
 |思||||
 |部||||
@@ -1048,7 +1048,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |營|Replace 炏 with 巛|⿳巛冖呂. Partially replaces sound 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女|No|
 |蘇|䒩|Compare 酥 where 禾 is phonetic abbreviation of 穌. Traditional when surname||
 |爺||||
-|微|𡵉攵|Variant: 說文 (東漢 Eastern Han), 兀 below 山, https://glyphwiki.org/wiki/u2304b-g|Unicode might display wrong|
+|微|𡵉攵|Variant: 說文 (東漢 Eastern Han), 兀 below 山, https://glyphwiki.org/wiki/u2304b-i|Unicode might display wrong|
 |埃||||
 |抽||||
 |蓋|葢|Variant: 字鑑 (元 Yuan). Compare 盍→盇||
@@ -1953,7 +1953,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |嶙|岺|||
 |嶺|岭|||
 |嶼|屿|Simplified 与 Unicode not Japanese||
-|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high” ||
+|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high”||
 |巒|峦|亦 appears like in 奕|Unicode might display wrong|
 |巔|嵮|Variant: 字彙 (明 Ming), Use Chinese Unicode 真|Unicode might display wrong|
 |川||||
@@ -2843,7 +2843,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |窘||||
 |窟||||
 |窩||||
-|窪|窐|Variant of 說文 Shuowen form 漥 ||
+|窪|窐|Variant of 說文 Shuowen form 漥||
 |窮|亻穹|Compare 躰→体、variant 䠻, https://glyphwiki.org/wiki/u2ff0-u4ebb-u7a79|No|
 |窯||||
 |窺||||
@@ -2950,7 +2950,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |繩|No 一 in top 田 of 縄|Compare 蠅 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繪|絵|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繫|係|Merge 係、繫 into 係, “to relate; to connect; to tie”, Don’t confuse with 系 “system”||
-|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001 |No, 𬗌 (Needs appearance fixed)|
+|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001|No, 𬗌 (Needs appearance fixed)|
 |繳||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繹|䋇|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繽|糸兵|Unhooked Chinese Unicode 糸 left radical never 糹|No|
@@ -3153,7 +3153,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |蕭|䔥|Traditional when surname||
 |蕾||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |薄|萡|||
-|薇|艹𡵉攵|Variant: 康熙字典 (清 Qing), 兀 below 山, https://glyphwiki.org/wiki/koseki-356380|No, 𦵨 (Needs appearance fixed)|
+|薇|艹𡵉攵|Variant: 康熙字典 (清 Qing), 兀 below 山, https://glyphwiki.org/wiki/u26d68-var-002|No, 𦵨 (Needs appearance fixed)|
 |薑|姜|||
 |薔|蔷|Compare 嗇→啬||
 |薛||||
@@ -3621,7 +3621,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |饒|𩜙|||
 |饗|餉|Merge 餉、饗 into 餉||
 |饞|食馋 without饣|https://glyphwiki.org/wiki/u2974e-var-002|No, 𩝎|
-|馨|声香 (Horizontal)|http://glyphwiki.org/wiki/u2ff0-u58f0-u9999|No|
+|馨|声香 (Horizontal)|https://glyphwiki.org/wiki/u2ff0-u58f0-u9999|No|
 |馮||||
 |馱||||
 |馳||||
