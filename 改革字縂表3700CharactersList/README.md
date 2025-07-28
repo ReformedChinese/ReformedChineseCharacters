@@ -891,7 +891,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |亡||||
 |狀||||
 |魯||||
-|療|Replace 尞 top with 大|Variant: 偏類碑別字 https://glyphwiki.org/wiki/zihai-111411|No|
+|療|Replace 尞 top with 大|Variant: 偏類碑別字 https://glyphwiki.org/wiki/u2ff8-u7592-u2ff1-u5927-u23322-var-001|No|
 |操||||
 |遺||||
 |判||||
@@ -2374,7 +2374,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |橡||||
 |橢|椭|||
 |橫|横|黄 not 黃||
-|檀|木玄|Compare 壇→𡊨, https://glyphwiki.org/wiki/u23419-t|No, 𣐙|
+|檀|木玄|Compare 壇→𡊨, https://glyphwiki.org/wiki/u23419-i|No, 𣐙|
 |檁||||
 |檐|柦|||
 |檬||||
@@ -3037,7 +3037,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |腺||||
 |膀||||
 |膊||Use Simplified Unicode 尃|Unicode might display wrong|
-|膏|Remove bottom 口|Variant: 偏類碑別字, Compare 毫 but replace 毛 with 月, https://glyphwiki.org/wiki/u2e314-tv|No|
+|膏|Remove bottom 口|Variant: 偏類碑別字, Compare 毫 but replace 毛 with 月, https://glyphwiki.org/wiki/zihai-013519|No|
 |膘||||
 |膚|虍月|Compare 慮→虑、虜→虏|No|
 |膛||||
@@ -3435,7 +3435,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |遴|辶令|Compare 憐→怜. Use Traditional Unicode 令 never 令|No, 𮞊|
 |遵||||
 |遷|迁|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
-|遼|Replace 尞 top with 大|Variant: 碑別字新編|No|
+|遼|Replace 尞 top with 大|Variant: 碑別字新編, https://glyphwiki.org/wiki/u2ffa-ufa66-u2ff1-u5927-u23322|No|
 |邂|辶介|Compare 蟹→蚧, https://glyphwiki.org/wiki/u28478-var-001|No, 𨑸|
 |邅|辶玄|Compare 壇→𡊨|No|
 |邏|𨗴|Compare 羅→䍜||
@@ -3460,14 +3460,14 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |醋||||
 |醞|醖|昷 never 𥁕||
 |醬|爿酉|Variant: 說文 (東漢 Eastern Han)、玉篇 (梁 Liang), https://glyphwiki.org/wiki/u287fb-g|No, 𨟻|
-|釀|酉上|https://glyphwiki.org/wiki/zihai-137213|No|
+|釀|酉上|https://glyphwiki.org/wiki/u30f03-u|No|
 |釁|衅|Variant: 玉篇 (梁 Liang)、集韻 (宋 Song)||
 |采||||
 |里||Distance, Don't confuse with 裡 “inside”||
 |釐|㢆|Merge 廛、釐 into 㢆||
 |釘||||
 |釣||||
-|鈉|金内|内 never 內, https://glyphwiki.org/wiki/u9209-ue0102|No|
+|鈉|金内|内 never 內, https://glyphwiki.org/wiki/u9209-var-001|No|
 |鈍||||
 |鈔||||
 |鈕||||
@@ -3620,7 +3620,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |饑|飢|Merge 飢、饑 into 飢||
 |饒|𩜙|||
 |饗|餉|Merge 餉、饗 into 餉||
-|饞|食馋 without饣|https://glyphwiki.org/wiki/u2974e-var-002|No, 𩝎|
+|饞|食馋 without饣|https://glyphwiki.org/wiki/u2974e-var-003|No, 𩝎|
 |馨|声香 (Horizontal)|https://glyphwiki.org/wiki/u2ff0-u58f0-u9999|No|
 |馮||||
 |馱||||
