@@ -610,7 +610,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |迪||||
 |店||||
 |麗|丽|Variant: 集韻 (宋 Song)||
-|賣|士冖天|Retracted 1935 simplification https://glyphwiki.org/wiki/twedu-a03968-012, Applies to all derivatives|No|
+|賣|士冖天|Retracted 1935 simplification https://glyphwiki.org/wiki/u2ff3-u58eb-u5196-u5929, Applies to all derivatives|No|
 |顯|显|頁 was added later||
 |監||||
 |圖|图|Derived from 草書||
@@ -809,7 +809,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |導||||
 |慮|虑|||
 |私||||
-|戴|亻帯|Based on supposed variant 侢, replaces sound 再 with 戴 near homophone 帯, https://glyphwiki.org/wiki/u30097-var-002|No, 𰂗 (Needs appearance fixed)|
+|戴|⿱代共|Sound 代, Compare 糞→粪, https://glyphwiki.org/wiki/u2ff1-u4ee3-u5171|No|
 |毀||||
 |魚||||
 |滾||||
@@ -1064,7 +1064,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |褲|袴|Variant: 增廣字學舉隅、字辨 (清 Qing)||
 |臨|臣攵|Compare 區→区, https://glyphwiki.org/wiki/u81e8-var-001|No|
 |智||||
-|盤|⿱半皿|Replaces sound component 般 with near homophone 半, Compare variant 柈|No|
+|盤|⿱半皿|Replaces sound component 般 with near homophone 半, Compare variant 柈, https://glyphwiki.org/wiki/u2ff1-u534a-u76bf|No|
 |研||||
 |菲||||
 |歸|阝帚|Traditional left component (𠂤止) resembles 阜 which is阝, https://glyphwiki.org/wiki/zihai-016426|No, 𨺜|
@@ -1119,7 +1119,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |草||艹 is always one connecting 一 stroke||
 |醉|酔|||
 |綁||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|層|层|Approximate analogy to 會→会||
+|層|⿸尸日|Abbreviates sound component 曾 as bottom 日, compare 團→団、圍→囲, https://glyphwiki.org/wiki/u21c36|No, 𡰶|
 |吵||||
 |龍||Derivatives’ 龍 component all use variant Korean Unicode 尨 instead https://glyphwiki.org/wiki/u5c28-k||
 |揮||||
@@ -3401,7 +3401,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |輿|車与|Variant: 集韻 (宋 Song), Simplified 与 Unicode not Japanese, https://glyphwiki.org/wiki/u282ae-var-001|No, 𨊮|
 |轄||||
 |轅|䡇|Compare 遠→远||
-|轍|車切|Compare 徹→彻|No|
+|轍|車切|Compare 徹→彻, https://glyphwiki.org/wiki/u2ff0-u8eca-u5207-var-001|No|
 |轎|車呑|Abbreviates sound component 喬 as 呑|No|
 |轟||||
 |轡|𦀺|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
@@ -3518,7 +3518,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |鑄|鋳|||
 |鑑|鍳|Merge 鑒、鑑 into 鍳||
 |鑒|鍳|Variant: 正字通 (明 Ming), Merge 鑒、鑑 into 鍳||
-|鑲|金上|Compare 讓→让, https://glyphwiki.org/wiki/u2b486|No, 𫒆|
+|鑲|金上|Compare 讓→让, https://glyphwiki.org/wiki/u2b486-var-002|No, 𫒆|
 |鑷|銸|Variant: 類篇 (宋 Song)、重訂直音篇 (明 Ming)||
 |鑹|鋛|||
 |鑼|金䍜|Compare 羅→䍜|No|
