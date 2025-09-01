@@ -1988,7 +1988,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |廛|㢆|Merge 廛、釐 into 㢆||
 |廟|庿|Variant: 說文 (東漢 Eastern Han)、五經文字 (唐 Tang)||
 |廬|广戶|戶 never 户/戸|Unicode might display wrong|
-|龐|广尨|Use Korean Unicode 尨, https://glyphwiki.org/wiki/u5eac|Unicode might display wrong|
+|龐|广尨|Use Korean Unicode 尨, https://glyphwiki.org/wiki/u5eac-var-003|Unicode might display wrong|
 |延||||
 |廷||||
 |弊|比廾 (Vertical)|Compare 斃→毙, https://glyphwiki.org/wiki/u30409-u|No, 𰐉|
