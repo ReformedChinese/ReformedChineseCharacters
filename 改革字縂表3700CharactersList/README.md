@@ -1915,7 +1915,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |寨||||
 |寬|寛|Connected horizontal line in 艹||
 |寰|环|Merge 環、寰 into 环, Similar meaning to 環||
-|寵|宀尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://glyphwiki.org/wiki/twedu-a01055-002|No|
+|寵|宀尨|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), Use Korean Unicode 尨, https://glyphwiki.org/wiki/twedu-a01055-014|No|
 |寸||||
 |寺||||
 |尬|九介 (Elongate 九)|Variant: 正字通 (明 Ming), Compare 旭、拋→抛. Elongated 九 never elongated 尢, https://glyphwiki.org/wiki/u201b7|No, 𠆷|
