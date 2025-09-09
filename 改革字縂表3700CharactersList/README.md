@@ -949,7 +949,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |賭||||
 |阻||||
 |彩||||
-|搬|⿺辶半|Compare 盤→⿱半皿, 辶 as 拌 is already a different character, 辶 because 送. https://glyphwiki.org/wiki/u28483-g|No, 𨒃|
+|搬|⿰半殳|Compare 盤→⿱半皿, borrows similar 殳 from 般 as 拌 is already taken. https://glyphwiki.org/wiki/u2ff0-u534a-u6bb3-var-001|No|
 |屬|属|||
 |招||||
 |婆||||
