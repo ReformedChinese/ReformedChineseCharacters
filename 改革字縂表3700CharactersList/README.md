@@ -784,7 +784,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |苦||||
 |念||Merge 念、唸 into 念, Use Traditional/Japanese Unicode 今|Unicode might display wrong|
 |適||||
-|華|艹华|花 and 華 share same origin, Vietnamese chữ Hán shorthand, 匕 never 𠤎, Applies to all derivatives, https://glyphwiki.org/wiki/u83ef-itaiji-004|No|
+|華|艹华|花 and 華 share same origin, Vietnamese chữ Hán shorthand, 匕 never 𠤎, Applies to all derivatives, https://glyphwiki.org/wiki/u31f63-var-001|No, 𱽣|
 |衝|㣫|“Charge”, Don't confuse with 沖 (water-related), 彳 originates from 行||
 |騙||戶 never 户/戸|Unicode might display wrong|
 |厭|厌|Compare 壓 Reform, Applies to all derivatives||
@@ -1580,7 +1580,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |傭|佣|||
 |債||||
 |傾||||
-|僑|亻呑|Abbreviates sound component 喬 as 呑|No|
+|僑|亻呑|Abbreviates sound component 喬 as 呑, https://glyphwiki.org/wiki/u2ff0-u4ebb-u5451|No|
 |僕|亻业|Compare 業→业、variant 㒒, https://glyphwiki.org/wiki/u2ff0-u4ebb-u4e1a|No|
 |僚|Replace 尞 top with 大|Variant: 碑別字新編, https://glyphwiki.org/wiki/u50da-itaiji-001|No|
 |僥|亻尭|https://glyphwiki.org/wiki/u50e5-itaiji-001|No|
