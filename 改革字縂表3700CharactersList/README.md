@@ -1281,7 +1281,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |允||||
 |授||||
 |堆||||
-|慶|Remove 乛 and 夂||No|
+|慶|Remove 夂|As 慶 depicts a deer, parallels 夂-less 塵、麀、etc. https://glyphwiki.org/wiki/u6176-itaiji-011|No|
 |率||||
 |怒||||
 |寓||||
@@ -1814,7 +1814,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |塚||Use Traditional Unicode: 豖 not 豕|Unicode might display wrong|
 |塢||||
 |填||Use Chinese Unicode 真|Unicode might display wrong|
-|塵|Remove 比|Remove 比 when 鹿 is top, https://glyphwiki.org/wiki/u5875-itaiji-002|No|
+|塵|Replace 比 with 乛|Compare 比 abbreviated as 乛 in 慶, https://glyphwiki.org/wiki/u5875-itaiji-003|No|
 |墅||||
 |墉|土用|Compare 傭→佣, https://glyphwiki.org/wiki/u212a4|No, 𡊤|
 |墊|垫|Variant: 宋元以來俗字譜, Compare 執→执||
@@ -2357,7 +2357,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |榴||||
 |槐||||
 |槓|杠|||
-|槳|爿舟|Compare 醬、漿 Reforms、variant 䒂|No|
+|槳|爿舟|Compare 醬、漿 Reforms、variant 䒂, https://glyphwiki.org/wiki/u2ff0-u723f-u821f|No|
 |槽||||
 |樁||||
 |樊|杋|||
@@ -3691,7 +3691,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |鹹|堿|“Salty”, Don’t confuse with 咸 “all”||
 |鹼|𫠗|https://glyphwiki.org/wiki/u2b817-jv||
 |鹽|土卤|Compare 塷、variant 䀋, https://glyphwiki.org/wiki/u2ff0-u571f-u5364|No|
-|鹿||||
+|鹿||Replace 比 with 乛 when top component like in 塵、麀、etc||
 |麟|鹿令|Compare 憐→怜. Use Traditional Unicode 令 never 令. https://glyphwiki.org/wiki/u2ff0-u9e7f-u4ee4-var-001|No|
 |麩|麸 (Elongate 麦)|Use Japanese Unicode|Unicode might display wrong|
 |麵|麺 (Elongate 麦）|Use Japanese Unicode|Unicode might display wrong|
