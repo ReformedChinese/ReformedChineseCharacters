@@ -2606,7 +2606,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |燕||||
 |燙||||
 |燥||||
-|燦|Top: 歺又 Bottom: 灬|Compare 熬、粲|No|
+|燦|Top: 歺又 Bottom: 火|Compare 粲、韰. https://glyphwiki.org/wiki/u2ff1-u239bc-u706b|No|
 |燭|烛|||
 |燮|亦火 (Vertical)|Compare 戀→恋、variant 爕, https://glyphwiki.org/wiki/u2dd22|No, 𭴢|
 |燼|烬|||
