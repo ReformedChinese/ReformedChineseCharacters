@@ -461,7 +461,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |忙||||
 |壞|坏|||
 |久||||
-|議|⿰言义|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), https://glyphwiki.org/wiki/u32064-var-001|No, 𲁤|
+|議|⿰言夷|Replaces sound component 義 with near homophone 夷, https://glyphwiki.org/wiki/u2ff0-u8a01-u5937|No|
 |衣||||
 |血||||
 |鐘|鈡|Variant: 四聲篇海 (金 Jin), “clock”, Don’t confuse with 鍾 “cup”||
@@ -906,7 +906,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |尋|寻|||
 |質|貭|Variant: 金石文字辨異 (清 Qing)||
 |供||||
-|獎|爿寸|Compare 醬、漿 Reforms、variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=27313|No|
+|獎|⿱犬廾|Based on variant 㢡, preserves Traditional meaning component 犬, https://glyphwiki.org/wiki/u2c32a|No, 𬌪|
 |袋||||
 |胡||Merge 胡、鬍 into 胡||
 |臟|脏|||
@@ -1036,7 +1036,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |勞|Replace 炏 with 巛|⿳巛冖力. Partially replaces 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女|No|
 |攻||||
 |忍||Use Traditional Unicode 刃, Applies to all derivatives|Unicode might display wrong|
-|勢|秇力|Compare 藝→萟|No|
+|勢|秇力|Compare 藝→萟, https://glyphwiki.org/wiki/u2ff1-u79c7-u529b|No|
 |尊||||
 |吻||||
 |湯||||
@@ -1119,11 +1119,11 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |草||艹 is always one connecting 一 stroke||
 |醉|酔|||
 |綁||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|層|⿸尸日|Abbreviates sound component 曾 as bottom 日, compare 團→団、圍→囲, https://glyphwiki.org/wiki/u21c36|No, 𡰶|
+|層|⿸尸二|https://glyphwiki.org/wiki/u21c25|No, 𡰥|
 |吵||||
 |龍||Derivatives’ 龍 component all use variant Korean Unicode 尨 instead https://glyphwiki.org/wiki/u5c28-k||
 |揮||||
-|奮|太田 (Vertical)|Compare 奋, Abbreviates 隹 as 丶, https://glyphwiki.org/wiki/u21612|No, 𡘒|
+|奮|奋|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |憶||||
 |折||||
 |彼||||
@@ -1324,7 +1324,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |盛||||
 |尤||||
 |皇||||
-|奪|太寸 (Vertical)|Compare 夺, Abbreviates 隹 as 丶|No|
+|奪|夺|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
 |郵||||
 |俱||||
 |九||||
@@ -1384,7 +1384,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |震||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |述||术 never 朮|Unicode might display wrong|
 |陣||||
-|儀|仪|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
+|儀|侇|Replaces sound component 義 with near homophone 夷||
 |乖||||
 |宮||呂 never 吕||
 |咬||||
@@ -2881,7 +2881,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |簫|簘|||
 |簸||||
 |簾|帘|Homophone & similar meaning||
-|簿|篰|Sound loan||
+|簿|⿱𥫗布|https://glyphwiki.org/wiki/u2ff1-u25ad7-u5e03|No|
 |籃||||
 |籌|筹|||
 |籍|耤|Sound loan, Use Simplified Unicode https://glyphwiki.org/wiki/u8024-g|Unicode might display wrong|
@@ -2947,7 +2947,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |繚|Replace 尞 top with 大|Compare 嘹 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繞|糸尭|Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |繡|綉|Variant: 正字通 (明 Ming), Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|繩|No 一 in top 田 of 縄|Compare 蠅 Reform, Unhooked Chinese Unicode 糸 left radical never 糹|No|
+|繩|No 一 in top 田 of 縄|Compare 蠅 Reform, Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u7e69-var-002|No|
 |繪|絵|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繫|係|Merge 係、繫 into 係, “to relate; to connect; to tie”, Don’t confuse with 系 “system”||
 |繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001|No, 𬗌 (Needs appearance fixed)|
@@ -2962,7 +2962,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |纜|臣𠂉一糸|Compare 攬 Reform, 鍳|No|
 |缸||||
 |罈|缶昙|Compare variant 罎、曇→昙|No|
-|罐|缶芄|雚 is variant of 芄|No|
+|罐|缶芄|雚 is variant of 芄, https://glyphwiki.org/wiki/u2ff0-u7f36-u8284|No|
 |罕||||
 |罩||||
 |署||||
@@ -3103,7 +3103,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |荔|艻|||
 |荷||||
 |荸||||
-|莊||||
+|莊|庄|||
 |莖|艹圣|圣 never 经 right component, https://glyphwiki.org/wiki/u830e-j|Unicode might display wrong|
 |莢|荚|||
 |莽||||
@@ -3227,7 +3227,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |蟋||||
 |蟬|虫单|单 never 単|Unicode might display wrong|
 |蟹|蚧|Cantonese shorthand||
-|蟻|蚁|Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan)||
+|蟻|蛦|Replaces sound component 義 with near homophone 夷||
 |蟾|䖧|Compare 擔→担||
 |蠅|No 一 in top 田 of 蝿|Variant: 重訂直音篇 (明 Ming), https://dict.variants.moe.edu.tw/dictView.jsp?ID=40093|No|
 |蠕|蝡|Variant: 廣韻 (宋 Song)||
