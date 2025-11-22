@@ -3103,7 +3103,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |荔|艻|||
 |荷||||
 |荸||||
-|莊|庄|||
+|莊|庄|Traditional when surname||
 |莖|艹圣|圣 never 经 right component, https://glyphwiki.org/wiki/u830e-j|Unicode might display wrong|
 |莢|荚|||
 |莽||||
