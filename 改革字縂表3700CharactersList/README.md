@@ -1220,7 +1220,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |銷||||
 |邦||||
 |劫||||
-|襲|衤尨|Use Korean Unicode 尨|No|
+|襲|衤尨|Use Korean Unicode 尨, https://glyphwiki.org/wiki/u2ff0-u8864-u5c28|No|
 |育||||
 |蟲|虫|||
 |嫌||||
