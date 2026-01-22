@@ -1028,7 +1028,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |榮|Replace 炏 with 巛|⿳巛冖木. Partially replaces sound 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女|No|
 |充||||
 |創||||
-|嘗|Remove 日|Compare 寧→寍, https://glyphwiki.org/wiki/u20920|No, 𠤠|
+|嘗|Remove 日|Merge 嘗、嚐 into ⿱𫩠匕, Compare 寧→寍, https://glyphwiki.org/wiki/u20920|No, 𠤠|
 |列||||
 |畢|田平 (Vertical)|Variant: 漢隸字源 (宋 Song), https://glyphwiki.org/wiki/zihai-001340. Traditional when surname. 必 when sound in derivatives|No|
 |般||||
@@ -1220,7 +1220,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |銷||||
 |邦||||
 |劫||||
-|襲|衤尨|Use Korean Unicode 尨, https://glyphwiki.org/wiki/u2ff0-u8864-u5c28|No|
+|襲|衤尨|Use Korean Unicode 尨, https://glyphwiki.org/wiki/u2ff0-u8864-u5c28-var-001|No|
 |育||||
 |蟲|虫|||
 |嫌||||
@@ -1781,7 +1781,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |囁|口耴|Compare 鑷→銸, https://glyphwiki.org/wiki/u20cb7|No, 𠲷|
 |囂|㕺|Variant of sound loan 呺||
 |囉|口䍜|Compare 羅→䍜|No|
-|囊|士冖上 (Vertical)|Compare 壤→圵|No|
+|囊|士冖上 (Vertical)|Compare 壤→圵, https://glyphwiki.org/wiki/u2ff3-u58eb-u5196-u4e0a|No|
 |囑|嘱|||
 |囚||||
 |囤||||
@@ -2953,7 +2953,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001|No, 𬗌 (Needs appearance fixed)|
 |繳||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繹|䋇|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
-|繽|糸兵|Unhooked Chinese Unicode 糸 left radical never 糹|No|
+|繽|糸兵|Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u2ff0-u7cf8-u5175|No|
 |繾|Remove 辶|Unhooked Chinese Unicode 糸 left radical never 糹|No|
 |纏|糸㢆|Compare 缠, Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u7f20-itaiji-002|No|
 |纓|Replace 賏 with 巛|⿰糸⿱巛女. Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u2ff0-u7cf8-u2bc0a|No|
