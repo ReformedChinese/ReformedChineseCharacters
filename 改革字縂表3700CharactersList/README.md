@@ -606,7 +606,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |差||||
 |夢||||
 |贏|貝夃 (Horizontal)|Based on variant ⿵乃夕 with meaning component 貝 https://glyphwiki.org/wiki/u8d0f-var-002|No|
-|藥|艹幺木 (Vertical)|Compare 樂 Reform, Use Chinese Unicode 幺|No|
+|藥|艹幺木 (Vertical)|Compare 樂 Reform, Use Chinese Unicode 幺, https://glyphwiki.org/wiki/u2ff3-u8279-u5e7a-u6728|No|
 |迪||||
 |店||||
 |麗|丽|Variant: 集韻 (宋 Song)||
@@ -661,7 +661,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |標||||
 |檢|検|||
 |各||||
-|義|⿱䒑我|Abbreviates 羊 as 䒑, Compare 前、sound 益. Derivatives’ 義 component all use 义 instead. https://glyphwiki.org/wiki/u2ff1-u4491-u6211|No|
+|義||Derivatives’ sound component 義 all use near homophone 夷 instead||
 |百||||
 |民||||
 |功||||
@@ -3634,7 +3634,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |駭||||
 |駱||||
 |駿||||
-|騰||||
+|騰|駦|Variant: 龍龕手鑑 (遼 Liao)、字彙 (明 Ming)||
 |騷||||
 |騾||||
 |驅|駆|||
