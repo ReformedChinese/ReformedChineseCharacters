@@ -75,7 +75,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |但||||
 |謝||||
 |著|着 following verbs only|Use 着 for Verb + 着 structure, Use 著 for “notable; famous” e.g. 著名, Use Simplified Unicode|Unicode might display wrong|
-|隻|尺又 (Vertical)|Phoneticization, Compare 尽、昼, Classifier, Don't confuse with 只 "only"|No|
+|隻|䒘|Based on graphically abbreviating sound component 蒦 as 䒘, retains 艹 as distinguishing mark, Don't confuse with 只 "only"||
 |些||||
 |如||||
 |家||Merge 家、傢 into 家||
@@ -403,7 +403,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |您||||
 |送||||
 |怕||||
-|護|Replace 萑 with 𦬨|⿰言⿱𦬨又. Compare 隻 Reform ⿵尺又|No|
+|護|⿰言䒘|Graphically abbreviates sound component 蒦 as 䒘|No|
 |度||||
 |花||Use Japanese Unicode 化|Unicode might display wrong|
 |節||||
@@ -876,7 +876,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |蠢|𡗗虫|https://glyphwiki.org/wiki/u2727e|No, 𧉾|
 |丈||||
 |守||||
-|獲|Replace 萑 with 𦬨|⿰犭⿱𦬨又. Compare 隻 Reform ⿵尺又|No|
+|獲|⿰犭䒘|Graphically abbreviates sound component 蒦 as 䒘|No|
 |八||||
 |致||Merge 致、緻 into 致||
 |細||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
@@ -2835,7 +2835,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |穎||||
 |穗|穂|Variant: 龍龕手鑑 (遼 Liao)、宋元以來俗字譜 (since 宋 Song、元 Yuan), Compare 惠→恵||
 |穢|禾𡷫|Compare 歲→𡷫|No|
-|穫|Replace 萑 with 𦬨|⿰禾⿱𦬨又. Compare 隻 Reform ⿵尺又|No|
+|穫|⿰禾䒘|Graphically abbreviates sound component 蒦 as 䒘|No|
 |穴||||
 |窄||||
 |窒||||
