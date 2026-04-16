@@ -250,11 +250,11 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |結||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |利||||
 |朋||||
-|警|言苟|Abbreviates sound component 敬, https://glyphwiki.org/wiki/u2ff0-u8a00-u82df-var-001|No|
+|警|言苟 (Horizontal)|⿰言苟. Abbreviates sound component 敬, https://glyphwiki.org/wiki/u2ff0-u8a00-u82df-var-001|No|
 |士||||
 |外||||
 |件||||
-|難||Use Traditional Unicode 𦰩: 廿 top component not 艹|Unicode might display wrong|
+|難|𦰩彡|⿰𦰩彡. Inspired by 雕→彫 “to carve jade”, a difficult task. Use Traditional Unicode 𦰩: 廿 top component not 艹. https://glyphwiki.org/wiki/u2ff0-u26c29-u5f61|No|
 |位||||
 |表||Merge 表、錶 into 表||
 |剛||||
@@ -279,7 +279,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |處|処|||
 |辦|弁力|https://glyphwiki.org/wiki/u2ff0-u5f01-u529b|No|
 |主||||
-|氣|气火 (Vertical)|Variant: 字彙補 (清 Qing), https://glyphwiki.org/wiki/simch-kx_t059909|No, 𣱛|
+|氣|气冫 (Vertical)|⿹气冫. Variant: 宋元以來俗字譜 (since 宋 Song、元 Yuan), https://glyphwiki.org/wiki/u23c56|No, 𣱖|
 |每||||
 |少||||
 |切||||
@@ -1030,7 +1030,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |創||||
 |嘗|Remove 日|Merge 嘗、嚐 into ⿱𫩠匕, Compare 寧→寍, https://glyphwiki.org/wiki/u20920|No, 𠤠|
 |列||||
-|畢|田平 (Vertical)|Variant: 漢隸字源 (宋 Song), https://glyphwiki.org/wiki/zihai-001340. Traditional when surname. 必 when sound in derivatives|No|
+|畢|田干 (Vertical)|⿱田干. Replaces 𠦒 “hunting net” with similar meaning 干 “hunting instrument”, https://glyphwiki.org/wiki/u24c20. Traditional when surname|No, 𤰠|
 |般||||
 |聚|取乑|Use Simplified Unicode, Variant: 隸辨 (清 Qing), https://glyphwiki.org/wiki/u805a-var-002|Unicode might display wrong|
 |勞|Replace 炏 with 巛|⿳巛冖力. Partially replaces 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女|No|
@@ -1270,8 +1270,8 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |朗||||
 |欠||||
 |扯||||
-|醜||“Ugly”, Don’t confuse with 丑 “clown; ox”||
-|競||||
+|醜|丑鬼|Replaces sound 酉 with 醜 sound loan 丑, retains meaning 鬼. “Ugly”, Don’t confuse with 丑 “clown; ox”. https://glyphwiki.org/wiki/u2ff0-u4e11-u9b3c|No|
+|競|傹|Variant: 康熙字典 (清 Qing)||
 |劑|剤|||
 |烈||||
 |李||||
@@ -2628,7 +2628,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |狠||||
 |狡||||
 |狩||||
-|狸||||
+|狸 (貍)||||
 |狹|狭|||
 |狼||||
 |狽||||
@@ -3704,4 +3704,4 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |齋|斎|||
 |齒|歯|||
 |齡|齢|Use Traditional Unicode 令 never 令|Unicode might display wrong|
-|龜|No 一 in top 田 of 亀|Variant: 金瓶梅詞話 (明 Ming), https://glyphwiki.org/wiki/u2ffb-u20ba5-u7535-var-003|No|
+|龜|No 一 in top 田 of 亀|Variant: 金瓶梅詞話 (明 Ming), https://glyphwiki.org/wiki/u2ffb-u20ba5-u7535|No|
