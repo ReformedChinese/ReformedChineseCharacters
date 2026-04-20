@@ -254,7 +254,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |士||||
 |外||||
 |件||||
-|難|𦰩彡|⿰𦰩彡. Inspired by 雕→彫 “to carve jade”, a difficult task. Use Traditional Unicode 𦰩: 廿 top component not 艹. https://glyphwiki.org/wiki/u2ff0-u26c29-u5f61|No|
+|難|𦰩彡|⿰⿱廿⿻口夫彡. Inspired by 雕→彫 “to carve jade”, a difficult task. Use Traditional Unicode 𦰩: 廿 top component not 艹. https://glyphwiki.org/wiki/u2ff0-u26c29-u5f61|No|
 |位||||
 |表||Merge 表、錶 into 表||
 |剛||||
