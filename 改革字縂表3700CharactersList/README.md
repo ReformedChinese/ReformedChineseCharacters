@@ -70,7 +70,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |天||||
 |把||||
 |開||||
-|讓|言上|襄 sounds close to 上 in Wu dialects, Compare 让, https://glyphwiki.org/wiki/u33069-uk|No|
+|讓|言上|襄 sounds close to 上 in Wu dialects, Compare 让, https://glyphwiki.org/wiki/u33069-uk|No, 𳁩|
 |給||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |但||||
 |謝||||
