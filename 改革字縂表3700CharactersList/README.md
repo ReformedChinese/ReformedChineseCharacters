@@ -70,7 +70,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |天||||
 |把||||
 |開||||
-|讓|言上|襄 sounds close to 上 in Wu dialects, Compare 让, https://glyphwiki.org/wiki/u2ff0-u8a00-u4e0a-var-001|No|
+|讓|言上|襄 sounds close to 上 in Wu dialects, Compare 让, https://glyphwiki.org/wiki/u33069-uk|No|
 |給||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |但||||
 |謝||||
@@ -698,7 +698,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |碼||||
 |恐||||
 |吉||||
-|歷|歴|||
+|歷|厤|Merge 曆、歷 into 厤||
 |慢||||
 |妻||||
 |山||||
@@ -1953,7 +1953,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |嶙|岺|||
 |嶺|岭|||
 |嶼|屿|Simplified 与 Unicode not Japanese||
-|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high”||
+|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high” ||
 |巒|峦|亦 appears like in 奕|Unicode might display wrong|
 |巔|嵮|Variant: 字彙 (明 Ming), Use Chinese Unicode 真|Unicode might display wrong|
 |川||||
@@ -2264,7 +2264,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |暖||||
 |暢||||
 |暮||||
-|曆|暦|||
+|曆|厤|Variant: 玉篇 (梁 Liang), Merge 曆、歷 into 厤||
 |曇|昙|Compare 雲→云||
 |曉|暁|||
 |曙||||
@@ -2557,7 +2557,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |瀑||||
 |瀕||||
 |瀛|溋|Replaces sound component 嬴 with homophone 盈||
-|瀝|𤁋|||
+|瀝|氵厤|Compare 歷→厤|No|
 |瀡|氵陏|Compare variant https://dict.variants.moe.edu.tw/dictView.jsp?ID=62557|No|
 |瀰|弓尔|Merge 彌、瀰 into 弥. 尔 never 尓|Unicode might display wrong|
 |瀾|氵萰||No|
@@ -2843,7 +2843,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |窘||||
 |窟||||
 |窩||||
-|窪|窐|Variant of 說文 Shuowen form 漥||
+|窪|窐|Variant of 說文 Shuowen form 漥 ||
 |窮|亻穹|Compare 躰→体、variant 䠻, https://glyphwiki.org/wiki/u2ff0-u4ebb-u7a79|No|
 |窯||||
 |窺||||
@@ -2950,7 +2950,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |繩|No 一 in top 田 of 縄|Compare 蠅 Reform, Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u7e69-var-002|No|
 |繪|絵|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繫|係|Merge 係、繫 into 係, “to relate; to connect; to tie”, Don’t confuse with 系 “system”||
-|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001|No, 𬗌 (Needs appearance fixed)|
+|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001 |No, 𬗌 (Needs appearance fixed)|
 |繳||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繹|䋇|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繽|糸兵|Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u2ff0-u7cf8-u5175|No|
@@ -3568,7 +3568,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |霧|雺|Variant: 五經文字 (唐 Tang)、玉篇 (梁 Liang)、集韻 (宋 Song), Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
 |霸|䩗|Older form||
 |霹||Use Simplified/Japanese Unicode: ⻗ top component|Unicode might display wrong|
-|靂|雨歴|Use Simplified/Japanese Unicode: ⻗ top component|No, 𮦷|
+|靂|雨厤|⿱雨厤, Use Simplified/Japanese Unicode: ⻗ top component, https://glyphwiki.org/wiki/u29169|No, 𩅩|
 |靖||||
 |靡||林 never 𣏟|Unicode might display wrong|
 |革||||
