@@ -2666,7 +2666,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |璃||||
 |璉|瑓|||
 |璧||||
-|璽|王尔 (Horizontal)|尔 never 尓|Unicode might display wrong|
+|璽|鉨|Variant: 觀堂集林, 尔 never 尓, https://glyphwiki.org/wiki/u9268-g||
 |瓊|王穹||No|
 |瓢||||
 |瓣|弁瓜||No|
