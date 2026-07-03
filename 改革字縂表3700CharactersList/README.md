@@ -70,7 +70,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |天||||
 |把||||
 |開||||
-|讓|言上|襄 sounds close to 上 in Wu dialects, Compare 让, https://glyphwiki.org/wiki/u33069-uk|No, 𳁩|
+|讓|言上|襄 sounds close to 上 in Wu dialects, Compare 让, https://glyphwiki.org/wiki/u33069-uk|No|
 |給||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |但||||
 |謝||||
@@ -1025,7 +1025,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |搭||||
 |康||||
 |症||||
-|榮|Replace 炏 with 巛|⿳巛冖木. Partially replaces sound 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女|No|
+|榮|Replace 炏 with 巛|⿳巛冖木. Partially replaces sound 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女, https://glyphwiki.org/wiki/u2ff1-u5ddb-u233be|No|
 |充||||
 |創||||
 |嘗|Remove 日|Merge 嘗、嚐 into ⿱𫩠匕, Compare 寧→寍, https://glyphwiki.org/wiki/u20920|No, 𠤠|
@@ -1045,7 +1045,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |蒙||“To cover; suffer”, Don’t confuse with 濛 “drizzling”、矇 “to deceive”、懞 “sincere”||
 |偶||||
 |熟||||
-|營|Replace 炏 with 巛|⿳巛冖呂. Partially replaces sound 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女|No|
+|營|Replace 炏 with 巛|⿳巛冖呂. Partially replaces sound 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女, https://glyphwiki.org/wiki/u2ff3-u5ddb-u5196-u5442|No|
 |蘇|䒩|Compare 酥 where 禾 is phonetic abbreviation of 穌. Traditional when surname||
 |爺||||
 |微|𡵉攵|Variant: 說文 (東漢 Eastern Han), 兀 below 山, https://glyphwiki.org/wiki/u2304b-i|Unicode might display wrong|
@@ -1953,7 +1953,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |嶙|岺|||
 |嶺|岭|||
 |嶼|屿|Simplified 与 Unicode not Japanese||
-|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high” ||
+|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high”||
 |巒|峦|亦 appears like in 奕|Unicode might display wrong|
 |巔|嵮|Variant: 字彙 (明 Ming), Use Chinese Unicode 真|Unicode might display wrong|
 |川||||
@@ -2660,7 +2660,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |瑟||||
 |瑣||||
 |瑤||䍃 top is 夕丶like in 然 never 爫 https://glyphwiki.org/wiki/u7464|Unicode might display wrong|
-|瑩|Replace 炏 with 巛|⿳巛冖玉. Partially replaces sound 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女|No|
+|瑩|Replace 炏 with 巛|⿳巛冖玉. Partially replaces sound 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女, https://glyphwiki.org/wiki/u2ff3-u5ddb-u5196-u7389|No|
 |瑪||||
 |瑰||||
 |璃||||
@@ -2843,7 +2843,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |窘||||
 |窟||||
 |窩||||
-|窪|窐|Variant of 說文 Shuowen form 漥 ||
+|窪|窐|Variant of 說文 Shuowen form 漥||
 |窮|亻穹|Compare 躰→体、variant 䠻, https://glyphwiki.org/wiki/u2ff0-u4ebb-u7a79|No|
 |窯||||
 |窺||||
@@ -2950,7 +2950,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |繩|No 一 in top 田 of 縄|Compare 蠅 Reform, Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u7e69-var-002|No|
 |繪|絵|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繫|係|Merge 係、繫 into 係, “to relate; to connect; to tie”, Don’t confuse with 系 “system”||
-|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001 |No, 𬗌 (Needs appearance fixed)|
+|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001|No, 𬗌 (Needs appearance fixed)|
 |繳||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繹|䋇|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繽|糸兵|Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u2ff0-u7cf8-u5175|No|
@@ -3220,7 +3220,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |融||||
 |螞||||
 |螟||||
-|螢|Replace 炏 with 巛|⿳巛冖虫. Partially replaces sound 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女|No|
+|螢|Replace 炏 with 巛|⿳巛冖虫. Partially replaces sound 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女, https://glyphwiki.org/wiki/u2ff3-u5ddb-u5196-u866b|No|
 |螺||||
 |蟀||||
 |蟆||||
