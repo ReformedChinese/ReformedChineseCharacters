@@ -1033,7 +1033,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |畢|田干 (Vertical)|⿱田干. Replaces 𠦒 “hunting net” with similar meaning 干 “hunting instrument”, https://glyphwiki.org/wiki/u24c20. Traditional when surname|No, 𤰠|
 |般||||
 |聚|取乑|Use Simplified Unicode, Variant: 隸辨 (清 Qing), https://glyphwiki.org/wiki/u805a-var-002|Unicode might display wrong|
-|勞|Replace 炏 with 巛|⿳巛冖力. Partially replaces 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女, http://gclyphwiki.org/wiki/u2ff3-u5ddb-u5196-u529b|No|
+|勞|Replace 炏 with 巛|⿳巛冖力. Partially replaces 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女, http://glyphwiki.org/wiki/u2ff3-u5ddb-u5196-u529b|No|
 |攻||||
 |忍||Use Traditional Unicode 刃, Applies to all derivatives|Unicode might display wrong|
 |勢|秇力|Compare 藝→萟, https://glyphwiki.org/wiki/u2ff1-u79c7-u529b|No|
