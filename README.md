@@ -2,7 +2,7 @@ Read on [Medium.com](https://medium.com/@ReformedChinese/reformed-chinese-charac
 
 # 改革字 Reformed Chinese Characters
 
-***A proposed in-the-middle alternative to Simplified & Traditional Chinese that combines the best of both sets***
+***A proposed middle-ground alternative to Simplified & Traditional Chinese that combines the best of both sets***
 
 Quick Links
 ---
