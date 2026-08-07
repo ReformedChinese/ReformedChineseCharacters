@@ -1270,7 +1270,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |朗||||
 |欠||||
 |扯||||
-|醜|丑鬼|Replaces sound 酉 with 醜 sound loan 丑, retains meaning 鬼. “Ugly”, Don’t confuse with 丑 “clown; ox”. https://glyphwiki.org/wiki/u2ff0-u4e11-u9b3c|No|
+|醜|媿|Variant: 集韻 (宋 Song). “Ugly”, Don’t confuse with 丑 “clown; ox”||
 |競|傹|Variant: 康熙字典 (清 Qing)||
 |劑|剤|||
 |烈||||
