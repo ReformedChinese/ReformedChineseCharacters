@@ -3489,7 +3489,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |鋁||呂 never 吕|Unicode might display wrong|
 |鋅||||
 |鋒||||
-|鋤||||
+|鋤|鉏|Variant: 玉篇 (梁 Liang)||
 |鋪||||
 |鋸||||
 |鋼||||
