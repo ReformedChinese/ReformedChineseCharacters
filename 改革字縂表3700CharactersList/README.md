@@ -712,7 +712,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |模||||
 |驗|験|||
 |索||||
-|街|⿰彳介||No|
+|街|⿰彳介|彳 originates from 行, incorporates near homophone 介 to avoid confusing 徍 with 佳. https://glyphwiki.org/wiki/u2ff0-u5f73-u4ecb|No|
 |呼||||
 |祝||||
 |料||||
@@ -803,7 +803,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |際||||
 |咱||||
 |波||||
-|衛|徫|彳 originates from 行||
+|衛|彳胃|彳 originates from 行, incorporates near homophone 胃 to avoid confusing 徫 with 偉. https://glyphwiki.org/wiki/u22525|No, 𢔥|
 |聊||||
 |養|䍩|Variant: 集韻 (宋 Song)、康熙字典 (清 Qing)||
 |導||||
@@ -949,7 +949,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |賭||||
 |阻||||
 |彩||||
-|搬|⿰半殳|Compare 盤→⿱半皿, borrows similar 殳 from 般 as 拌 is already taken. https://glyphwiki.org/wiki/u2ff0-u534a-u6bb3-var-001|No|
+|搬|⿺辶半|Compare 盤→⿱半皿, incorporates similar meaning 辶 as 拌 is already taken. https://glyphwiki.org/wiki/u28483-g|No, 𨒃|
 |屬|属|||
 |招||||
 |婆||||
@@ -1033,7 +1033,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |畢|田干 (Vertical)|⿱田干. Replaces 𠦒 “hunting net” with similar meaning 干 “hunting instrument”, https://glyphwiki.org/wiki/u24c20. Traditional when surname|No, 𤰠|
 |般||||
 |聚|取乑|Use Simplified Unicode, Variant: 隸辨 (清 Qing), https://glyphwiki.org/wiki/u805a-var-002|Unicode might display wrong|
-|勞|Replace 炏 with 巛|⿳巛冖力. Partially replaces 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女, http://glyphwiki.org/wiki/u2ff3-u5ddb-u5196-u529b|No|
+|勞|Replace 炏 with 巛|⿳巛冖力. Partially replaces 𤇾 with abbreviated near homophone 嬰 Reform ⿱巛女, https://glyphwiki.org/wiki/u2ff3-u5ddb-u5196-u529b|No|
 |攻||||
 |忍||Use Traditional Unicode 刃, Applies to all derivatives|Unicode might display wrong|
 |勢|秇力|Compare 藝→萟, https://glyphwiki.org/wiki/u2ff1-u79c7-u529b|No|
